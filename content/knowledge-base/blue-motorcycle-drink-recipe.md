@@ -1,16 +1,16 @@
 ---
-title: Blue Motorcycle Drink Recipe
-type: knowledge-base
 draft: false
-trending: false
-trendname: Blue Motorcycle Drink Recipe
-seo_title: Blue Motorcycle Drink Recipe
 meta_Description: |
   Blue Motorcycle Drink Recipe
 meta_Keywords: Blue Motorcycle Drink Recipe
+trending: false
+trendname: Blue Motorcycle Drink Recipe
+title: Blue Motorcycle Drink Recipe
+type: knowledge-base
+seo_title: Blue Motorcycle Drink Recipe
 url: blue-motorcycle-drink-recipe
-date: 2022-07-01T14:07:07.429Z
-updateDate: 2022-07-01T14:07:07.495Z
+date: 2022-07-03T18:09:02.790Z
+updateDate: 2022-07-03T18:09:04.343Z
 faqs:
   - question: Can I Freeze This Blue Motorcycle?
     answer: Yes, you can freeze a motorcycle. However, you will likely need to take
