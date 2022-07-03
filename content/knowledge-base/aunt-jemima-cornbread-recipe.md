@@ -21,17 +21,45 @@ It's perfect for a casual weeknight dinner or as part of a larger Thanksgiving f
 
 Aunt Jemima cornbread is a pre-made mix that can be used to make cornbread. Aunt Jemima cornbread is a popular choice for people who want an easy and convenient way to make cornbread. The mix is simple to use and results in a moist and flavorful cornbread.
 
-What Are The Aunt Jemima Cornbread Recipe Benefits Of Eating This?
+## **What Are The Aunt Jemima Cornbread Recipe Benefits Of Eating This?**
 
 There are many benefits to eating Aunt Jemima Cornbread. First, cornbread is a good source of fiber. It is also low in fat and cholesterol. Additionally, cornbread is a good source of vitamins and minerals.
-How Long Will It Take To Prepare?
+
+## **How Long Will It Take To Prepare?**
+
 This Aunt Jemima Cornbread Recipe is quick and easy to make. It will only take a few minutes to prepare the cornbread mix and then another 15-20 minutes to bake.
-Equipment & Tools use to cook  Aunt Jemima Cornbread Recipe:
+
+## **Equipment & Tools Use to Cook  Aunt Jemima Cornbread Recipe:**
+
 All you need to make this Aunt Jemima Cornbread Recipe is a bowl, a whisk, a measuring cup, and a baking dish.
-Ingredients:
-1 cup of Aunt Jemima cornbread mix
-1/3 cup of milk
-1 egg
+
+## **Ingredients:**
+
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Aunt Jemima Cornbread Mix:</strong>
+        </td>
+        <td>1 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Milk:</strong>
+        </td>
+        <td>1/3 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Egg:</strong>
+        </td>
+        <td>1</td>
+      </tr>      
+    </tbody>
+
+</table>
+</figure>
 
 ## **Directions or Step By Step Guide to Cook  Aunt Jemima Cornbread Recipe:**
 
