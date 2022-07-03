@@ -184,7 +184,7 @@ This dish takes about 30 minutes to prepare and cook.
   </table>
 </figure>
 
-## **How to make Caribbean Chicken Soup Pollo Tropical step by step**
+## **How to Make Caribbean Chicken Soup Pollo Tropical?**
 
 1. In a large pot or Dutch oven, heat the olive oil over medium-high heat. Add the chicken and cook until browned, about 5 minutes per side.
 2. Add the onion, garlic, bell peppers, cumin, chili powder, oregano, salt, and black pepper. Stir to combine.
