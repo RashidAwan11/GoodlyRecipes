@@ -1,16 +1,16 @@
 ---
 title: Hui Hui Chicken Recipe
-type: knowledge-base
 draft: false
-trending: true
-trendname: Hui Hui Chicken Recipe
-seo_title: Hui Hui Chicken Recipe
 meta_Description: Hui Hui Chicken Recipe
 meta_Keywords: Hui Hui Chicken Recipe
+trending: true
+trendname: Hui Hui Chicken Recipe
+type: knowledge-base
+seo_title: Hui Hui Chicken Recipe
 url: hui-hui-chicken-recipe
 author: Elena Audrey
-date: 2022-07-01T08:05:54.148Z
-updateDate: 2022-07-01T08:05:54.213Z
+date: 2022-07-03T18:56:07.987Z
+updateDate: 2022-07-03T18:56:09.877Z
 faqs:
   - question: Can I Freeze Hui Hui Chicken?
     answer: Yes, you can freeze Hui Hui chicken. However, it is important to note
@@ -68,7 +68,7 @@ There are many benefits to eating hui hui chicken. 
 
 This recipe is very easy to follow and shouldn't take you more than 30 minutes to prepare. 
 
-## **Equipment & Tools use to cook Hui Hui Chicken:**
+## **Equipment & Tools Use to Cook Hui Hui Chicken:**
 
 1. Wok or large frying pan 
 2. Spatula 
