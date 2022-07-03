@@ -30,11 +30,6 @@ faqs:
     answer: Blue motorcycles drink can last for up to two weeks if they are stored
       in a cool, dark place. However, we recommend drinking them within one week
       for the best flavor.
-  - question: Why Is A Blue Motorcycle Such A Health Hazard?
-    answer: A blue motorcycle drink is a health hazard because it contains high
-      levels of caffeine and other harmful stimulants. Caffeine can cause heart
-      palpitations, anxiety, and sleeplessness. It can also lead to dehydration
-      and stomach problems.
   - question: Are Any Side Effects To Blue Motorcycle drink?
     answer: The most common side effect of blue motorcycle drinks is insomnia. Other
       possible side effects include anxiety, headaches, and stomach problems. If
