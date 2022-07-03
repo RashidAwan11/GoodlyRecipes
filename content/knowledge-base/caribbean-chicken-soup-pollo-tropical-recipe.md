@@ -35,11 +35,6 @@ faqs:
     answer: This Caribbean chicken soup will last for 3-4 days in the fridge when
       stored in an airtight container. You can also freeze it for up to 2
       months.
-  - question: Why Is A Caribbean Chicken Soup Such A Health Hazard?
-    answer: A Caribbean chicken soup is a health hazard because it often contains
-      high levels of saturated fat and cholesterol. Additionally, many of the
-      ingredients in this soup are known to be inflammatory, such as chili
-      peppers, cumin, and oregano.
   - question: Are Any Side Effects To Eat Caribbean Chicken Soup?
     answer: There are no known side effects to eating Caribbean chicken soup.
       However, if you have a history of heart disease or high blood pressure,
@@ -196,40 +191,103 @@ Enjoy!
 
 ## **Nutrition Information:**
 
-Calories: 410
-
-Fat: 12 g
-
-Saturated Fat: 2 g
-
-Cholesterol: 72 mg
-
-Sodium: 1324 mg
-
-Potassium: 1054 mg
-
-Carbohydrates: 47 g
-
-Fiber: 5 g 
-
-Sugar: 7 g 
-
-Protein: 28 g 
-
-Vitamin A: 1750 IU 
-
-Vitamin C: 68 mg 
-
-Calcium: 80 mg 
-
-Iron: 4 mg
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>410</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>12 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>2 Gram</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>72mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>1324mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Potassium:</strong>
+        </td>
+        <td>1054mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Total Carbohydrates:</strong>
+        </td>
+        <td>47 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>5 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>7 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>28 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin A:</strong>
+        </td>
+        <td>1750 IU</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin C:</strong>
+        </td>
+        <td>68 mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Calcium:</strong>
+        </td>
+        <td>80 mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Iron:</strong>
+        </td>
+        <td>4mg</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 This hearty and flavorful soup is perfect for a chilly night, or any time you're craving something warm and comforting. So fire up the stove and get cooking!
 
-## **Amazing Serving Suggestions  Caribbean Chicken Soup Pollo Tropical**
+## **Amazing Serving Suggestions  Caribbean Chicken Soup Pollo Tropical:**
 
 This soup is delicious on its own, but you can also serve it with some crusty bread or a side salad. For an extra bit of flavor, top each bowl with a dollop of sour cream or your favorite hot sauce.
 
-## **Conclusion**
+## **Conclusion:**
 
 Caribbean chicken soup is a delicious, healthy meal that can be made in minutes. This pollo tropical recipe is perfect for a quick weeknight dinner or to take on the go. With just a few simple ingredients, you can have this hearty soup ready to eat in no time. This recipe is easy to follow and will leave you feeling full and satisfied.
