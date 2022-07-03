@@ -1,16 +1,16 @@
 ---
-title: Dominican Nutcracker Drink Recipe
-type: knowledge-base
 draft: false
-trending: false
-trendname: Dominican Nutcracker Drink Recipe
-seo_title: Dominican Nutcracker Drink Recipe
 meta_Description: |
   Dominican Nutcracker Drink Recipe
 meta_Keywords: Dominican Nutcracker Drink Recipe
+trending: false
+trendname: Dominican Nutcracker Drink Recipe
+title: Dominican Nutcracker Drink Recipe
+type: knowledge-base
+seo_title: Dominican Nutcracker Drink Recipe
 url: dominican-nutcracker-drink-recipe
-date: 2022-07-01T18:32:14.420Z
-updateDate: 2022-07-01T18:32:14.484Z
+date: 2022-07-03T18:45:21.309Z
+updateDate: 2022-07-03T18:45:24.186Z
 faqs:
   - question: Can I Freeze Dominican Nutcracker drink?
     answer: Apparently, you can indeed freeze Dominican Nutcracker, and it makes for
@@ -73,21 +73,61 @@ It should take around 15 minutes to prepare the Dominican Nutcracker drink recip
 
 ## **Ingredients:**
 
-1 cup coconut water
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Coconut Water:</strong>
+        </td>
+        <td>1 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Almond Milk:</strong>
+        </td>
+        <td>1 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Ground Cinnamon:</strong>
+        </td>
+        <td>1/2 Teaspoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Ground Nutmeg:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Ground Cloves:</strong>
+        </td>
+        <td>1/8 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Condensed Milk:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Butter:</strong>
+        </td>
+        <td>3 Tablespoons</td>
+      </tr>
+    </tbody>
 
-1 cup almond milk
-
-1/2 teaspoon ground cinnamon
-
-1/4 teaspoon ground nutmeg
-
-1/8 teaspoon ground cloves
-
-1/2 cup condensed milk
-
-1/4 cup sugar
-
-3 tablespoons butter
+  </table>
+</figure>
 
 ## **Instructions:**
 
