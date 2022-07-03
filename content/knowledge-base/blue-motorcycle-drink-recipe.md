@@ -144,7 +144,40 @@ If you want to take a shot of a blue motorcycle, simply pour it into a shot glas
 
 ## **Nutrition Information:**
 
-One serving of blue motorcycle has 0 calories, 0 grams of fat, 0 grams of carbohydrates, and 0 grams of protein. It is also vegan, gluten-free, and kosher.
+One serving of blue motorcycle has:
+
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>O Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>0 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>0 Grams</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
+
+It is also vegan, gluten-free, and kosher.
 
 ## **Amazing Serving Suggestions for Blue Motorcycle:**
 
