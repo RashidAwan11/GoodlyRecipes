@@ -192,39 +192,102 @@ This recipe is very easy to follow and shouldn't take you more than 30 minutes t
 
 ## Nutrition Information:
 
-Serving size: 1/4 recipe
-
-Calories: 295
-
-Fat: 15 g
-
-Saturated fat: 8 g
-
-Unsaturated fat: 0 g
-
-Trans fat: 0 g
-
-Carbohydrates: 22 g
-
-Sugar: 10 g 
-
-Fiber: 2 g 
-
-Protein: 16 g  
-
-Cholesterol: 82 mg 
-
-Sodium: 505 mg 
-
-Potassium: 374 mg 
-
-Vitamin A: 6% 
-
-Vitamin C: 8% 
-
-Calcium: 3% 
-
-Iron: 9%
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Serving size:</strong>
+        </td>
+        <td>1.4 Recipe</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>295</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>15 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>8 Gram</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>82mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>505mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Potassium:</strong>
+        </td>
+        <td>374mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Total Carbohydrates:</strong>
+        </td>
+        <td>22 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>2 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>10 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>16 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin A:</strong>
+        </td>
+        <td>6%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin C:</strong>
+        </td>
+        <td>8%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Calcium:</strong>
+        </td>
+        <td>3%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Iron:</strong>
+        </td>
+        <td>9%</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Different Recipes for Hui Hui Chicken:**
 
