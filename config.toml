@@ -1,6 +1,6 @@
 languageCode = "en-us"
 DisqusShortname = ""
-baseURL = "https://nubia-theme.netlify.app/"
+baseURL = "https://fantastic-semifreddo-2d77a0.netlify.app/"
 googleAnalytics = ""
 title = "Nubia Hugo Theme"
 paginate = "14"
