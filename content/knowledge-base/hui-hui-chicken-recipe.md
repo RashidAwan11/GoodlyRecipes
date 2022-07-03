@@ -297,35 +297,102 @@ There's something about a hot, fresh chicken dish that just makes everyone happy
 
 #### **Ingredients:**
 
-\-1 lb chicken thighs
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Chicken Thighs:</strong>
+        </td>
+        <td>1 Lb </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Coconut Oil:</strong>
+        </td>
+        <td>2 Tbsp </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Onion, Chopped:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Garlic, Minced:</strong>
+        </td>
+        <td>3 Cloves</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Grated Ginger:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Curry Powder:</strong>
+        </td>
+        <td>1 Tbsp</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Ground Turmeric:</strong>
+        </td>
+        <td>1 Tsp </td>
+      </tr>
+<tr>
+        <td>
+          <strong>Ground Cumin:</strong>
+        </td>
+        <td>1/2 Tsp </td>
+      </tr>
+<tr>
+        <td>
+          <strong>Ground Black Pepper:</strong>
+        </td>
+        <td>1/4 Tsp </td>
+      </tr>
+<tr>
+        <td>
+          <strong>Can Of Unsweetened Coconut Milk:</strong>
+        </td>
+        <td>1 (14 Oz)</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chicken Broth:</strong>
+        </td>
+        <td>1/2 Teaspoon</td>
+      </tr>
 
-\-2 tbsp coconut oil
+```
 
-\-1 onion, chopped
+```
 
-\-3 cloves garlic, minced
+<tr>
+        <td>
+          <strong>Fish Sauce:</strong>
+        </td>
+        <td>1 Tbsp</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chopped Fresh Cilantro Leaves:</strong>
+        </td>
+        <td>1/4 Cup </td>
+      </tr>
+<tr>
+        <td>
+          <strong> Steamed Rice And Vegetables:</strong>
+        </td>
+        <td> For Serving</td>
+      </tr>
+    </tbody>
 
-\-1 tsp grated ginger
-
-\-1 tbsp curry powder
-
-\-1 tsp ground turmeric
-
-\-1/2 tsp ground cumin
-
-\-1/4 tsp ground black pepper
-
-\-1 (14 oz) can of unsweetened coconut milk
-
-\-1/2 cup chicken broth
-
-\-1 tbsp honey
-
-\-1 tbsp fish sauce
-
-\-1/4 cup chopped fresh cilantro leaves
-
-\- Steamed rice and vegetables, for serving
+  </table>
+</figure>
 
 #### **Instructions:**
 
