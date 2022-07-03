@@ -142,13 +142,11 @@ You can drink blue motorcycle by simply taking a shot of it or adding it to your
 
 If you want to take a shot of a blue motorcycle, simply pour it into a shot glass and drink it down. If you're looking to add it to your favorite beverage, we recommend adding it to lemonade, iced tea, or even seltzer water.
 
-## **Nutrition Information**
-
- Of Blue Motorcycle Drink
+## **Nutrition Information:**
 
 One serving of blue motorcycle has 0 calories, 0 grams of fat, 0 grams of carbohydrates, and 0 grams of protein. It is also vegan, gluten-free, and kosher.
 
-## **Amazing Serving Suggestions for Blue Motorcycle**
+## **Amazing Serving Suggestions for Blue Motorcycle:**
 
 Here are just a few serving suggestions:
 
@@ -160,6 +158,6 @@ Use blueberries as a garnish for a pretty presentation.
 
 For those who like their drinks stronger, add a shot of vodka or rum to the mix. Cheers!
 
-## **Conclusion**
+## **Conclusion:**
 
 The blue motorcycle is full of antioxidants and vitamins that can help boost your immune system. It's also a low-calorie drink, so you can enjoy it without feeling guilty. We hope you enjoy this delicious and refreshing cocktail! Cheers!
