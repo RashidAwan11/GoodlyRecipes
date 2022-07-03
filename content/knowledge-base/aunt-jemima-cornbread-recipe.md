@@ -71,27 +71,74 @@ All you need to make this Aunt Jemima Cornbread Recipe is a bowl, a whisk, a mea
 
 Enjoy!
 
-**Nutrition Information:**
+## **Nutrition Information:**
 
-Calories: 190
-
-Total Fat: 4g
-
-Saturated Fat: 1g
-
-Trans Fat: 0g
-
-Cholesterol: 30mg
-
-Sodium: 400mg
-
-Total Carbohydrates: 34g
-
-Dietary Fiber: 2g
-
-Sugars: 10g 
-
-Protein: 5g 
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>190</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>4 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>1 Gram</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Trans Fat:</strong>
+        </td>
+        <td>0 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>30mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>400mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Total Carbohydrates:</strong>
+        </td>
+        <td>34 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Dietary Fiber:</strong>
+        </td>
+        <td>2 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugars:</strong>
+        </td>
+        <td>10 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>5 Grams</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for  Aunt Jemima Cornbread Recipe:**
 
