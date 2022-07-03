@@ -33,19 +33,6 @@ faqs:
       * To make a refreshing version of the drink, add in some lime juice or mint leaves. Cheers!
   - question: How Long Does Dominican Nutcracker drink last?
     answer: It will usually last for about 2-3 hours.
-  - question: Why Is a Dominican Nutcracker drink Such a Health Hazard?
-    answer: >-
-      There are a few reasons why the Dominican Nutcracker drink is such a
-      health hazard. 
-
-
-      First of all, it is made with condensed milk, which is high in sugar and can cause problems for people with diabetes. 
-
-
-      Additionally, the drink also contains coffee, which can cause dehydration and insomnia. 
-
-
-      Finally, the alcohol content in the drink can be dangerous for people who are not used to drinking large amounts of alcohol.
   - question: "Any Side Effects to Eat Dominican Nutcracker drink?Are "
     answer: There are a number of potential side effects from drinking too much
       alcohol, including dehydration, liver damage, increased risk of heart
@@ -135,33 +122,96 @@ In a medium saucepan, combine the coconut water, almond milk, cinnamon, nutmeg, 
 
 ## **Nutrition Information:**
 
-Calories: 190
-
-Fat: 10 g
-
-Saturated Fat: 6 g
-
-Cholesterol: 30 mg
-
-Total Carbohydrates: 21 g
-
-Fiber: 0 g 
-
-Protein: 3 g
-
-Sodium: 85 mg
-
-Potassium: 209 mg
-
-Sugar: 18 g 
-
-Vitamin A: 6%
-
-Vitamin C: 0%
-
-Calcium: 8%
-
-Iron: 2%
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>190</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>10 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>6 Gram</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>30mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>85mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Potassium:</strong>
+        </td>
+        <td>209mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Total Carbohydrates:</strong>
+        </td>
+        <td>21 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>0 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>18 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>3 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin A:</strong>
+        </td>
+        <td>6%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin C:</strong>
+        </td>
+        <td>0%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Calcium:</strong>
+        </td>
+        <td>8%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Iron:</strong>
+        </td>
+        <td>2%</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions Dominican Nutcracker drink:**
 
