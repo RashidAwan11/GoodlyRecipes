@@ -1,0 +1,10 @@
+<div class='o-grid__col o-grid__col--1-3-m sidebar'>
+    <div class='c-sidebar'>
+        {{ partial "sidebar/widgets/author-box.html" . }}
+            {{ if (fileExists "/layouts/partials/ads/sidebar.html") }}
+                {{ partial "sidebar/widgets/ad-box.html" . }}
+            {{ end }}
+        {{ partial "sidebar/widgets/also-read.html" . }}
+        {{ partial "sidebar/widgets/auto-toc.html" . }}
+    </div>
+    </div>

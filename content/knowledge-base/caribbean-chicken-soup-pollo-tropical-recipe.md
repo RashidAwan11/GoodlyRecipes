@@ -1,0 +1,172 @@
+---
+title: Caribbean Chicken Soup Pollo Tropical Recipe
+type: knowledge-base
+draft: false
+trending: false
+trendname: Caribbean Chicken Soup Pollo Tropical Recipe
+seo_title: Caribbean Chicken Soup Pollo Tropical Recipe
+meta_Description: Caribbean Chicken Soup Pollo Tropical Recipe
+meta_Keywords: Caribbean Chicken Soup Pollo Tropical Recipe
+url: caribbean-hicken-soup-pollo-tropical-recipe
+author: Elena Audrey
+date: 2022-07-01T08:59:07.402Z
+updateDate: 2022-07-01T08:59:07.427Z
+faqs:
+  - answer: Yes, you can freeze this Caribbean chicken soup. You'll need to cook it
+      first, then allow it to cool completely before freezing in an airtight
+      container. When you're ready to eat it, thaw the soup in the refrigerator
+      overnight and heat it up on the stove or in the microwave. To make sure
+      it's properly cooked, be sure to check the internal temperature of the
+      chicken with a food thermometer - it should be at least 165 degrees
+      Fahrenheit. Enjoy!
+    question: Can I Freeze This  Caribbean Chicken Soup Pollo Tropical?
+  - question: Is Caribbean Chicken Soup Pollo Tropical  Recipe Spicy?
+    answer: This recipe is not spicy, but you can always add more chili powder or
+      hot sauce to taste.
+  - question: How Can Improve the Taste Of Caribbean Chicken Soup?
+    answer: One way to improve the taste of Caribbean chicken soup is to use fresh
+      herbs and spices, such as ginger, thyme, and allspice. You can also add a
+      touch of citrus juice, such as lime or lemon, to brighten up the flavor.
+      If you have access to a well-stocked grocery store or ethnic market, you
+      may be able to find some unique ingredients that will give your soup an
+      extra boost of flavor. For example, try using habanero peppers for a spicy
+      kick, or adding coconut milk for a rich and creamy texture.
+  - question: How Long Does Caribbean Chicken Soup Last?
+    answer: This Caribbean chicken soup will last for 3-4 days in the fridge when
+      stored in an airtight container. You can also freeze it for up to 2
+      months.
+  - question: Why Is A Caribbean Chicken Soup Such A Health Hazard?
+    answer: A Caribbean chicken soup is a health hazard because it often contains
+      high levels of saturated fat and cholesterol. Additionally, many of the
+      ingredients in this soup are known to be inflammatory, such as chili
+      peppers, cumin, and oregano.
+  - question: Are Any Side Effects To Eat Caribbean Chicken Soup?
+    answer: There are no known side effects to eating Caribbean chicken soup.
+      However, if you have a history of heart disease or high blood pressure,
+      it's best to avoid this soup. Additionally, many of the ingredients in
+      this soup are known to be inflammatory, so if you have any sensitivities,
+      it's best to steer clear.
+---
+Pollo tropical is a popular dish in Cuba and the Dominican Republic. With its flavorful combination of spices and succulent chicken, this soup is sure to warm your soul on a cold winter day.
+
+Any Caribbean food lover will tell you that chicken soup is a must-have dish. This hearty and flavorful soup is perfect for a chilly night, or any time you're craving something warm and comforting. Plus, it's perfect for those times when you need a little comfort food. So fire up the stove and get cooking!
+
+## What is Caribbean Chicken Soup Pollo Tropical?
+
+
+It is made with a combination of spices, chicken, black beans, corn, and sometimes rice. The soup is usually served with a side of bread or crackers. Plus, it is perfect for those times when you need a little comfort food. So fire up the stove and get cooking!
+
+## **What Are The  Eating Benefits of Caribbean Chicken Soup Pollo Tropical?**
+
+
+The eating benefits of Caribbean chicken soup Pollo Tropical are that it is a great source of protein, vitamin C, and B6. It also has a moderate amount of fiber and is low in calories. Additionally, it is a good source of antioxidants and contains healthy fats which are beneficial for your heart.
+
+## **How Long Will It Take To Prepare?**
+
+
+This dish takes about 30 minutes to prepare and cook.
+
+## **Equipment & Tools use to cook Caribbean Chicken  Soup Pollo Tropical:**
+
+
+ Cutting board 
+
+Knife
+
+Measuring spoons
+
+Large pot or Dutch oven 
+
+Wooden spoon or spatula
+
+Can opener (if using canned black beans)
+
+## **Ingredients:**
+
+
+1 lb chicken breast, boneless and skinless
+
+1 onion, diced
+
+2 cloves garlic, minced
+
+1 green bell pepper, diced
+
+1 red bell pepper, diced
+
+3 tablespoons olive oil
+
+2 tablespoons cumin
+
+1 teaspoon chili powder
+
+1 teaspoon dried oregano
+
+1 teaspoon salt
+
+1/4 teaspoon black pepper
+
+4 cups chicken broth
+
+1 (14.5 oz) can diced tomatoes, undrained
+
+1 (8 oz) can tomato sauce
+
+1 cup frozen corn
+
+1/2 cup uncooked long-grain rice
+
+1/4 cup chopped fresh cilantro
+
+## **How to make Caribbean Chicken Soup Pollo Tropical step by step** 
+
+1. In a large pot or Dutch oven, heat the olive oil over medium-high heat. Add the chicken and cook until browned, about 5 minutes per side.
+2. Add the onion, garlic, bell peppers, cumin, chili powder, oregano, salt, and black pepper. Stir to combine.
+3. Add the chicken broth, diced tomatoes with their juice, tomato sauce, corn, and rice. Stir to combine.
+4. Bring the soup to a boil, then reduce the heat to low and simmer until the chicken is cooked through and the rice is tender about 30 minutes.
+5. Stir in the cilantro and serve.
+
+Enjoy!
+
+## **Nutrition Information:**
+
+
+Calories: 410
+
+Fat: 12 g
+
+Saturated Fat: 2 g
+
+Cholesterol: 72 mg
+
+Sodium: 1324 mg
+
+Potassium: 1054 mg
+
+Carbohydrates: 47 g
+
+Fiber: 5 g 
+
+Sugar: 7 g 
+
+Protein: 28 g 
+
+Vitamin A: 1750 IU 
+
+Vitamin C: 68 mg 
+
+Calcium: 80 mg 
+
+Iron: 4 mg
+
+This hearty and flavorful soup is perfect for a chilly night, or any time you're craving something warm and comforting. So fire up the stove and get cooking!
+
+## **Amazing Serving Suggestions  Caribbean Chicken Soup Pollo Tropical**
+
+
+This soup is delicious on its own, but you can also serve it with some crusty bread or a side salad. For an extra bit of flavor, top each bowl with a dollop of sour cream or your favorite hot sauce.
+
+## **Conclusion**
+
+
+Caribbean chicken soup is a delicious, healthy meal that can be made in minutes. This pollo tropical recipe is perfect for a quick weeknight dinner or to take on the go. With just a few simple ingredients, you can have this hearty soup ready to eat in no time. This recipe is easy to follow and will leave you feeling full and satisfied.

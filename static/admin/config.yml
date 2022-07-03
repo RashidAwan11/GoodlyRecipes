@@ -1,0 +1,235 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+logo_url: /images/logo.png
+
+editor:
+  preview: false
+
+collections:
+#KnowledgeBase Collection
+  - name: "posts"
+    label: "Posts"
+    folder: "content/knowledge-base"
+    preview_path: "{{fields.url}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "posts"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Discription", name: "meta_Description", widget: "text", required: false}
+      - {label: "Focus Keywords", name: "meta_Keywords", widget: "string", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Author", name: "author", widget: "relation", required: false, collection: "authors", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
+      - {label: "Featured Image", name: "featured_Image", widget: "image", hint: "Recommended Size: 1200x680", required: false}
+      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true, required: false}
+      - {label: "Categories", name: "categories", widget: "relation", required: false, collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      #Frequently Asked Questions
+      - {label: "Faqs", name: "faqs", widget: "list", required: false, fields: 
+        [ {label: "Question", name: "question", widget: "string" },
+          {label: "Answer", name: "answer", widget: "markdown" } 
+        ] }
+
+#Pages Collection
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    preview_path: "{{fields.url}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "pages"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "SEO Title", name: "seo_title", widget: "string", required: false}
+      - {label: "SEO Discription", name: "meta_Description", widget: "text", required: false}
+      - {label: "Slug", name: "url", widget: "string", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+#Categories Collection
+  - name: categories
+    label: Categories
+    folder: data/categories/
+    create: true
+    extension: toml
+    preview_path: "{{fields.url}}"
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name, required: false}
+      - {name: seo_title, label: SEO Title, required: false}
+      - {name: meta_Description, label: SEO Discription, widget: text, required: false}
+
+
+#Tags Collection
+  - name: tags
+    label: Tags
+    folder: data/tags/
+    preview_path: "{{fields.url}}"
+    create: true
+    extension: toml
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name, required: false}
+      - {name: seo_title, label: SEO Title, required: false}
+      - {name: meta_Description, label: SEO Discription, widget: text, required: false}
+
+#Authos Collection
+  - name: authors
+    label: Authors
+    folder: data/authors/
+    create: true
+    extension: toml
+    slug: "{{name}}"
+    identifier_field: name
+    fields: 
+      - {name: name, label: Name, required: false}
+      - {name: avatar, label: Avatar, widget: image, required: false}
+      - {name: bio, label: Author Bio, widget: markdown, required: false}
+      - {name: authorMail, label: Contact Mail, widget: string, required: false}
+
+#Settings
+  - name: settings
+    label: Site Settings
+    files: 
+      - label: "About Site"
+        name: "about"
+        file: "/config.toml"
+        fields:
+          - { label: Site URL, name: baseURL, widget: string, required: false }
+          - { label: Site Title, name: title, widget: string, required: false }
+          - { label: Language, name: languageCode, widget: string, default: en-us, required: false }
+          - { label: Total Post to Show on Paginated Pages, name: paginate, widget: string, default: 8, required: false }
+          - { label: Google Analytics Code, name: googleAnalytics, widget: string, default: "UA-XXXXXXXXX-XX", required: false }
+          - { label: Disqus Shortname, name: DisqusShortname, widget: string, default: "ghost-23", required: false }
+
+      - name: menus
+        label: Menus
+        file: "/config/_default/menus.toml"
+        fields:
+          - label: "Header Menu"
+            name: "main"
+            widget: "list"
+            summary: "{{parent}} – {{name}}"
+            fields:
+              [
+                { label: "Menu Name", name: name, hint: "The main name of the menu which appear in the header area.", widget: string },
+                { label: "Link URL", name: url, widget: string },
+                { label: "Weight", name: weight, widget: number, default: 1, min: 1, value_type: "int", required: false }
+              ]
+          - label: "Footer Menu"
+            name: "footer"
+            widget: "list"
+            fields:
+              [
+                { label: "Menu Name", name: name, hint: "The main name of the menu which appear in the header area.", widget: string },
+                { label: "Link URL", name: url, widget: string },
+                { label: "Weight", name: weight, widget: number, default: 1, min: 1, step: 1, value_type: "int", required: false }
+              ]
+
+      - label: "Other Settings"
+        name: "other_settings"   
+        file: "/config/_default/params.toml"
+        fields:
+          - {label: Site Logo, name: logo, widget: image, hint: 'height 90px max will fit here', required: false}
+          - {label: Favicon, name: icon, widget: image, hint: '128x128.', required: false}
+          - {label: Extended Title, name: tagline, widget: string, required: false}    
+          - {label: Contact eMail, name: contacteMail, widget: string, required: false}
+          - label: "Site Colors"
+            name: "colors"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: Main Color, name: mainColor, widget: color, enableAlpha: true, allowInput: true, required: false }
+            - { label: Links Color, name: linkColor, widget: color, hint: "This color will appear on link in the body", enableAlpha: true, allowInput: true, required: false }
+          - label: "Site Fonts"
+            name: "fonts"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: Body Font, name: bodyFont, widget: string, required: false }
+            - { label: Heading Font, name: heading, widget: string, required: false }
+          - label: "Robots"
+            name: "siteRobots"
+            widget: "object"
+            collapsed: true
+            fields:
+            - { label: "No Index Homepage?", name: homeIndex, widget: boolean, required: false }
+            - { label: "No Index Categories?", name: catIndex, widget: boolean, required: false }
+            - { label: "No Index Posts?", name: postIndex, widget: boolean, required: false }
+            - { label: "No Index Pages?", name: pageIndex, widget: boolean, required: false }
+            - { label: "No Index Knowledge Base?", name: blogIndex, widget: boolean, required: false }
+            - { label: "No Index Product Reviews?", name: reviewIndex, widget: boolean, required: false }
+          - label: "Open Graph Meta"
+            name: "open_graph"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Meta Description, name: meta_Description, widget: text, required: false}
+             - {label: Meta Image, name: image, hint: '1920x1080', widget: image, required: false }
+             - {label: Facebook Publisher, name: FacebookPublisher, widget: string, required: false}
+             - {label: Facebook Author, name: FacebookAuthor, widget: string, required: false}
+             - {label: Twitter Publisher, name: TwitterPublisher, widget: string, required: false}
+             - {label: Twitter Author, name: TwitterAuthor, widget: string, required: false}
+          - label: "Site Verifications"
+            name: "verifications"
+            widget: "object"
+            collapsed: true
+            fields:
+             - {label: Google Search Console Tag, name: googleSiteVerify, widget: string, required: false}
+             - {label: Bing Webmaster Tag, name: BingWebmaster, widget: string, required: false}
+             - {label: Pinterest Tag, name: PinterestVerify, widget: string, required: false}
+             - {label: Yandex Tag, name: YandexVerify, widget: string, required: false}         
+          - label: "Social Media Accounts"
+            name: "social_accounts"
+            widget: "object"
+            hint: "Add full Social Media URLs"
+            collapsed: true
+            fields:
+              - { label: Facebook, name: sitefbAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: Twitter, name: sitetwitterAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: Instagram, name: siteinstagramAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: Pinterest, name: sitepinterestAccount, hint: "Add full Social Media URL", widget: string, required: false}
+              - { label: YouTube, name: siteYouTubeAccount, hint: "Add full Social Media URL", widget: string, required: false}
+          - label: "Footer Settings"
+            name: "footer_settings"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: Fotter Disclaimer Widget Text, name: fotterDisclaimer, widget: text, required: false}
+
+
+      - label: "Below Header Ad Code"
+        name: "below_header_ad"
+        file: /layouts/partials/ads/below-header.html
+        fields:
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
+      - label: "Above Content Ad Code"
+        name: "above_content_ad"
+        file: /layouts/partials/ads/above-content.html
+        fields:
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
+      - label: "Sidebar Ad Code"
+        name: "sidebar_ad"
+        file: /layouts/partials/ads/sidebar.html
+        fields:
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
+      - label: "Custom CSS"
+        name: "custom-css"
+        file: /layouts/partials/basic/head/custom-css.html
+        fields:
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }
+      - label: "Custom Head"
+        name: "customHead"
+        file: /layouts/partials/basic/head/custom.html
+        fields:
+          - { label: Code, name: body, widget: code, output_code_only: true, required: false }

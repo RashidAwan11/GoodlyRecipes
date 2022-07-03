@@ -1,0 +1,21 @@
+{{ if .Params.author }}
+{{ $author := index .Site.Data.authors (.Params.author | anchorize) }}
+
+<div class='c-widget c-widget-author'>
+    <div class='c-widget-author__media'>
+        <img class='c-widget-author__image' src='{{ $author.avatar | absURL }}' alt='{{$author.name}}'>
+    </div>
+  
+    <div class='c-widget-author__content'>
+      <h3 class='c-widget-author__title'>
+        {{ $author.name }}
+      </h3>
+      {{ if $author.bio }}
+        <p class='c-widget-author__bio'>{{ $author.bio }}</p>
+      {{end}}
+
+    </div>
+  
+  </div>
+
+  {{ end }}

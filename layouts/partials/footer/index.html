@@ -1,0 +1,36 @@
+<script src="{{ "/js/jquery.min.js" | absURL }}"></script>
+<script src="{{ "/js/jquery.viewportchecker.min.js" | absURL }}"></script>
+<script src="{{ "/js/evil-icons.min.js" | absURL }}"></script>
+<script src="{{ "/js/transition.js" | absURL }}"></script>
+{{/*  <script src="{{ "/js/zoom.min.js" | absURL }}"></script>  */}}
+<script src="{{ "/js/app.js" | absURL }}"></script>
+<script src="{{ "/js/toc.js" | absURL }}"></script>
+
+
+<footer class='c-footer'>
+    <div class='o-grid'>
+
+      {{ partial "footer/widgets/disclaimer" . }}
+
+      {{ partial "footer/widgets/navigation" . }}
+  
+      <div class='o-grid__col o-grid__col--full'>
+        <div class='c-footer__bottom'>
+          <div class='o-grid'>
+  
+            <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
+              <div class='u-font-tiny c-footer__copyright'>
+                {{ now.Year }} | {{.Site.Title}} | All Right Reserved.
+              </div>
+            </div>
+  
+            <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
+              {{ partial "footer/widgets/socials" . }}
+            </div>
+  
+          </div>
+        </div>
+      </div>
+  
+    </div>
+  </footer>

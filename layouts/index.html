@@ -1,0 +1,17 @@
+{{ define "main" }}
+    
+<div class='o-wrapper'>
+    <div class='o-grid js-grid'>
+
+        {{ partial "homepage/post-list.html" . }}
+
+    </div>
+    
+    <div class='o-grid'>
+
+        {{ partial "basic/pagination.html" . }}
+
+    </div>
+</div>
+
+{{ end }}

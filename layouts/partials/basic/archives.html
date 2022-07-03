@@ -1,0 +1,16 @@
+<div class='o-wrapper'>
+    <div class='o-grid'>
+      <div class='o-grid__col o-grid__col--full'>
+        <div class='c-archive'>
+          <h1 class='c-archive__title'>Showing Posts From {{.Data.Term}}</h1>
+          {{ if .Content }}
+            <p class='c-archive__description'>{{.Content}}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class='o-grid js-grid'>
+        {{ partial "homepage/post-list.html" . }}
+      </div>
+</div>

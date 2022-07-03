@@ -1,0 +1,29 @@
+{{- $options := (dict "targetPath" "style.min.css" "outputStyle" "expanded" "enableSourceMap" "true") -}}
+{{- $mainSassFile := resources.Get "scss/app.scss" -}}
+{{- $mainCssFile := resources.Get "css/mods.css" -}}
+{{- $mainStyle := $mainSassFile | resources.ExecuteAsTemplate $mainSassFile . | resources.ToCSS $options  -}}
+{{- $allStyles := slice $mainStyle $mainCssFile -}}
+{{- $combinedStyles := $allStyles | resources.Concat "css/main.css" -}}
+<style>
+:root{
+    --mainColor: {{site.Params.colors.mainColor | default "black"}};
+    --linkColor: {{site.Params.colors.linkColor | default "blue"}};
+    --fontBody: {{ with site.Params.fonts.bodyFont }} '{{ . }}';{{ else }} sans-serif; {{ end }}
+    --fontHeading: {{ with site.Params.fonts.heading }} '{{ . }}';{{ else }} sans-serif; {{ end }}
+}
+</style>
+<style class="custom-css">
+    {{ if (fileExists "layouts/partials/basic/head/custom-css.html") -}}
+        {{- partial "basic/head/custom-css" . | safeHTML | safeCSS -}}
+    {{ end }}
+</style>
+<link rel="stylesheet" href="{{- $combinedStyles.Permalink | safeCSS -}}">
+{{- $fontbody := replace site.Params.fonts.bodyFont " " "+" }}
+{{- $fontheading := replace site.Params.fonts.heading " " "+"}}
+{{- $href := "//fonts.googleapis.com/css?family=" }}
+{{- with $fontbody }}
+<link href='{{$href}}{{$fontbody}}' rel='stylesheet' type='text/css'>
+{{- end }}
+{{- with $fontheading }}
+<link href='{{$href}}{{$fontheading}}' rel='stylesheet' type='text/css'>
+{{- end }}
