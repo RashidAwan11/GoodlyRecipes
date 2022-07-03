@@ -1,16 +1,16 @@
 ---
 title: Caribbean Chicken Soup Pollo Tropical Recipe
-type: knowledge-base
 draft: false
-trending: false
-trendname: Caribbean Chicken Soup Pollo Tropical Recipe
-seo_title: Caribbean Chicken Soup Pollo Tropical Recipe
 meta_Description: Caribbean Chicken Soup Pollo Tropical Recipe
 meta_Keywords: Caribbean Chicken Soup Pollo Tropical Recipe
+trending: false
+trendname: Caribbean Chicken Soup Pollo Tropical Recipe
+type: knowledge-base
+seo_title: Caribbean Chicken Soup Pollo Tropical Recipe
 url: caribbean-hicken-soup-pollo-tropical-recipe
 author: Elena Audrey
-date: 2022-07-01T08:59:07.402Z
-updateDate: 2022-07-01T08:59:07.427Z
+date: 2022-07-03T18:30:33.172Z
+updateDate: 2022-07-03T18:30:34.382Z
 faqs:
   - answer: Yes, you can freeze this Caribbean chicken soup. You'll need to cook it
       first, then allow it to cool completely before freezing in an airtight
@@ -53,72 +53,138 @@ Any Caribbean food lover will tell you that chicken soup is a must-have dish. Th
 
 ## What is Caribbean Chicken Soup Pollo Tropical?
 
-
 It is made with a combination of spices, chicken, black beans, corn, and sometimes rice. The soup is usually served with a side of bread or crackers. Plus, it is perfect for those times when you need a little comfort food. So fire up the stove and get cooking!
 
 ## **What Are The  Eating Benefits of Caribbean Chicken Soup Pollo Tropical?**
-
 
 The eating benefits of Caribbean chicken soup Pollo Tropical are that it is a great source of protein, vitamin C, and B6. It also has a moderate amount of fiber and is low in calories. Additionally, it is a good source of antioxidants and contains healthy fats which are beneficial for your heart.
 
 ## **How Long Will It Take To Prepare?**
 
-
 This dish takes about 30 minutes to prepare and cook.
 
-## **Equipment & Tools use to cook Caribbean Chicken  Soup Pollo Tropical:**
+## **Equipment & Tools Use to Cook Caribbean Chicken Soup Pollo Tropical:**
 
-
- Cutting board 
-
-Knife
-
-Measuring spoons
-
-Large pot or Dutch oven 
-
-Wooden spoon or spatula
-
-Can opener (if using canned black beans)
+* Cutting board 
+* Knife
+* Measuring spoons
+* Large pot or Dutch oven 
+* Wooden spoon or spatula
+* Can opener (if using canned black beans)
 
 ## **Ingredients:**
 
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Chicken Breast, Boneless And Skinless:</strong>
+        </td>
+        <td>1 Lb</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Diced:</strong>
+        </td>
+        <td>1 Onion</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Garlic, Minced:</strong>
+        </td>
+        <td>2 Cloves</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Green Bell Pepper, Diced:</strong>
+        </td>
+        <td>1</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Red Bell Pepper, Diced:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Olive Oil:</strong>
+        </td>
+        <td>3 Tablespoons</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Cumin:</strong>
+        </td>
+        <td>2 Tablespoons</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chili Powder:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Dried Oregano:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Salt:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Black Pepper:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chicken Broth:</strong>
+        </td>
+        <td>4 Cups</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Can Diced Tomatoes, Undrained:</strong>
+        </td>
+        <td>1 (14.5 Oz)</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Can Tomato Sauce:</strong>
+        </td>
+        <td>1 (8 Oz)</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Frozen Corn:</strong>
+        </td>
+        <td>1 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Uncooked Long-grain Rice:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chopped Fresh Cilantro:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+    </tbody>
 
-1 lb chicken breast, boneless and skinless
+  </table>
+</figure>
 
-1 onion, diced
-
-2 cloves garlic, minced
-
-1 green bell pepper, diced
-
-1 red bell pepper, diced
-
-3 tablespoons olive oil
-
-2 tablespoons cumin
-
-1 teaspoon chili powder
-
-1 teaspoon dried oregano
-
-1 teaspoon salt
-
-1/4 teaspoon black pepper
-
-4 cups chicken broth
-
-1 (14.5 oz) can diced tomatoes, undrained
-
-1 (8 oz) can tomato sauce
-
-1 cup frozen corn
-
-1/2 cup uncooked long-grain rice
-
-1/4 cup chopped fresh cilantro
-
-## **How to make Caribbean Chicken Soup Pollo Tropical step by step** 
+## **How to make Caribbean Chicken Soup Pollo Tropical step by step**
 
 1. In a large pot or Dutch oven, heat the olive oil over medium-high heat. Add the chicken and cook until browned, about 5 minutes per side.
 2. Add the onion, garlic, bell peppers, cumin, chili powder, oregano, salt, and black pepper. Stir to combine.
@@ -129,7 +195,6 @@ Can opener (if using canned black beans)
 Enjoy!
 
 ## **Nutrition Information:**
-
 
 Calories: 410
 
@@ -163,10 +228,8 @@ This hearty and flavorful soup is perfect for a chilly night, or any time you're
 
 ## **Amazing Serving Suggestions  Caribbean Chicken Soup Pollo Tropical**
 
-
 This soup is delicious on its own, but you can also serve it with some crusty bread or a side salad. For an extra bit of flavor, top each bowl with a dollop of sour cream or your favorite hot sauce.
 
 ## **Conclusion**
-
 
 Caribbean chicken soup is a delicious, healthy meal that can be made in minutes. This pollo tropical recipe is perfect for a quick weeknight dinner or to take on the go. With just a few simple ingredients, you can have this hearty soup ready to eat in no time. This recipe is easy to follow and will leave you feeling full and satisfied.
