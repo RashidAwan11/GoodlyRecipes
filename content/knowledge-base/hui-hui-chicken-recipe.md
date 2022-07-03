@@ -149,12 +149,6 @@ This recipe is very easy to follow and shouldn't take you more than 30 minutes t
       </tr>
 <tr>
         <td>
-          <strong>Chicken Broth:</strong>
-        </td>
-        <td>1/2 Cup </td>
-      </tr>
-<tr>
-        <td>
           <strong>Honey:</strong>
         </td>
         <td>1 Tbsp </td>
