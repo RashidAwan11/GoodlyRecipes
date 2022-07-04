@@ -96,17 +96,11 @@ This dish is quick and easy to make. The chicken only needs to marinate for a fe
 ## **Step By Step Make Pollo Tropical Chicken:**
 
 1. In a small bowl, whisk together lime juice, orange juice, vinegar, garlic, oregano, cumin, chili powder, salt, and pepper. 
-
 2. Place chicken in a large resealable bag. Pour the marinade over the chicken, seal the bag, and massage it so that the chicken is evenly coated in the marinade. 
-
 3. If using pineapple juice, add it to the bag as well. 
-
 4. Let the chicken marinate in the fridge for at least 2 hours, or overnight for best results.
-
 5. Preheat grill to medium-high heat. 
-
 6. Grill chicken for 8-10 minutes per side, or until cooked through. 
-
 7. Enjoy!
 
 ## **Nutrition Information:**
@@ -157,4 +151,4 @@ Sides that go great with Pollo Tropical Chicken Copycat Recipe:
 
 ## **Conclusion:**
 
-The Pollo Tropical chicken copycat recipe is a delicious and easy alternative to the restaurant meal. This simple recipe can be made at home in just a few minutes, and it’s perfect for those nights when you don’t feel like cooking or eating out. We hope you enjoy this dish as much as we do
+The Pollo Tropical chicken copycat recipe is a delicious and easy alternative to the restaurant meal. This simple recipe can be made at home in just a few minutes, and it’s perfect for those nights when you don’t feel like cooking or eating out.
