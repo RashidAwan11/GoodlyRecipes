@@ -66,11 +66,11 @@ This Mellow Mushroom Beer Cheese Dip can be made in just a few minutes, so it's 
 
 In order to make this Mellow Mushroom Beer Cheese Dip, you will need:
 
-A Bowl
-A Spoon
-A Knife
-A Cutting Board
-A Refrigerator
+* A Bowl
+* A Spoon
+* A Knife
+* A Cutting Board
+* A Refrigerator
 
 ## **Ingredients:**
 
@@ -87,13 +87,9 @@ A Refrigerator
 ## **Step By Step Guide to Cook Mellow Mushroom Beer Cheese**
 
 1. preheat the oven to 375 degrees F.
-
 2. In a bowl, combine all ingredients and mix until smooth
-
 3. Spread the mixture into an 8x8 baking dish.
-
 4. Bake for 15-20 minutes, or until the cheese is melted and bubbly.
-
 5. Serve with crackers, pretzels, or bread. Enjoy!
 
 So what are you waiting for? Get started on your own Mellow Mushroom Beer Cheese Dip today! This delicious and easy-to-make recipe is sure to be a hit with your friends and family. So don't wait, make this dip today!
