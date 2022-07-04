@@ -1,16 +1,16 @@
 ---
-title: J Alexander’s Rattlesnake Pasta Recipe
-type: knowledge-base
 draft: false
-trending: false
-trendname: J Alexander’s Rattlesnake Pasta Recipe
-seo_title: J Alexander’s Rattlesnake Pasta Recipe
 meta_Description: |
   J Alexander’s Rattlesnake Pasta Recipe
 meta_Keywords: J Alexander’s Rattlesnake Pasta Recipe
+trending: false
+trendname: J Alexander’s Rattlesnake Pasta Recipe
+title: J Alexander’s Rattlesnake Pasta Recipe
+type: knowledge-base
+seo_title: J Alexander’s Rattlesnake Pasta Recipe
 url: j-alexander’s-rattlesnake-pasta-recipe
-date: 2022-07-03T12:13:52.937Z
-updateDate: 2022-07-03T12:13:52.980Z
+date: 2022-07-04T02:06:08.809Z
+updateDate: 2022-07-04T02:06:09.993Z
 faqs:
   - question: Can I Freeze Rattlesnake pasta?
     answer: Yes! Rattlesnake pasta can definitely be frozen. In fact, you can freeze
@@ -67,13 +67,11 @@ This rattlesnake pasta recipe is quick and easy to make, taking only 30 minutes 
 
 ## **Equipment & Tools use to cook Rattlesnake pasta**
 
-All you need to make this rattlesnake pasta recipe is 
+All you need to make this rattlesnake pasta recipe is:
 
- Large Pot
-
- Colander
-
- Knife.
+* Large Pot
+* Colander
+* Knife
 
 ## **Ingredients:**
 
@@ -108,15 +106,10 @@ All you need to make this rattlesnake pasta recipe is
 ## **Directions:**
 
 1. Season chicken strips with salt and pepper. Coat chicken in flour.
-
 2. In a large skillet over medium-high heat, heat olive oil. Add garlic and chicken strips to the pan. Sauté chicken until golden brown and cooked through, about 4 minutes per side.
-
 3. Add white wine to the pan and simmer for 1 minute. Stir in diced tomatoes, heavy cream, Parmesan cheese, thyme, and basil.
-
 4. Bring the sauce to a boil then reduce heat to low and simmer for 5 minutes.
-
 5. Meanwhile, cook fettuccine pasta in a large pot of boiling water according to package instructions. Drain pasta and add it to the chicken sauce.
-
 6. Toss to combine then sprinkle with chopped parsley. Serve immediately.
 
 ## **Nutrition Information:**
