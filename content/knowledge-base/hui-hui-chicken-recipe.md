@@ -145,7 +145,7 @@ This recipe is very easy to follow and shouldn't take you more than 30 minutes t
         <td>
           <strong>Chicken Broth:</strong>
         </td>
-        <td>1/4 Teaspoon</td>
+        <td>1/4 Cup</td>
       </tr>
 <tr>
         <td>
@@ -358,7 +358,7 @@ There's something about a hot, fresh chicken dish that just makes everyone happy
         <td>
           <strong>Chicken Broth:</strong>
         </td>
-        <td>1/2 Teaspoon</td>
+        <td>1/2 Cup</td>
       </tr>
 
 ```
