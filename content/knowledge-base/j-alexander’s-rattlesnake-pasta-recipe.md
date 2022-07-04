@@ -176,29 +176,78 @@ All you need to make this rattlesnake pasta recipe is:
 
 ## **Nutrition Information:**
 
-Serving size: 1/2 recipe
-
-Calories: 640
-
-Fat: 24 g
-
-Saturated fat: 10 g
-
-Unsaturated fat: 11 g
-
-Trans fat: 0 g
-
-Carbohydrates: 58 g
-
-Sugar: 4 g 
-
-Fiber: 3 g 
-
-Protein: 40 g  
-
-Cholesterol: 143 mg 
-
-Sodium: 1354 mg 
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Serving size:</strong>
+        </td>
+        <td>1/4 Recipe</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>640</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>24 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>10 Gram</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Unsaturated Fat:</strong>
+        </td>
+        <td>11 Gram</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>143mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>1354mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>58 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>3 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>4 Grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>40 Grams</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Rattlesnake pasta**
 
