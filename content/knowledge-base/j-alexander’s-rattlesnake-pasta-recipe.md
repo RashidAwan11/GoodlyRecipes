@@ -75,33 +75,95 @@ All you need to make this rattlesnake pasta recipe is:
 
 ## **Ingredients:**
 
-1 lb chicken breast, cut into thin strips
-
-1/2 tsp salt
-
-1/4 tsp black pepper
-
-1 tbsp olive oil
-
-1/2 cup all-purpose flour
-
-2 cloves garlic, minced
-
-1/4 cup white wine
-
-1 (14.5 oz) can diced tomatoes, undrained
-
-1/2 cup heavy cream
-
-1/4 cup freshly grated Parmesan cheese
-
-1/4 tsp dried thyme
-
-1/4 tsp dried basil
-
-8 oz fettuccine pasta
-
-1/4 cup chopped fresh parsley
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Chicken Breast, Cut Into Thin Strips:</strong>
+        </td>
+        <td>1 Lb </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Salt:</strong>
+        </td>
+        <td>1/2 Tbsp </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Black Pepper:</strong>
+        </td>
+        <td>1/4 Tbsp</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Olive Oil:</strong>
+        </td>
+        <td>1 Tbsp</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>All-purpose Flour:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Garlic, Minced:</strong>
+        </td>
+        <td>2 Cloves</td>
+      </tr>
+<tr>
+        <td>
+          <strong>White Wine:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Diced Tomatoes, Undrained:</strong>
+        </td>
+        <td>1 (14.5 Oz) Can</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Heavy Cream:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Freshly Grated Parmesan Cheese:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Dried Thyme:</strong>
+        </td>
+        <td>1/4 Tsp</td>
+      </tr>
+        <td>
+          <strong>Dried Basil:</strong>
+        </td>
+        <td>1/4 Tsp</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fettuccine Pasta:</strong>
+        </td>
+        <td>8 Oz</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chopped Fresh Parsley:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Directions:**
 
