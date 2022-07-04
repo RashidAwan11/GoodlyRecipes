@@ -1,16 +1,16 @@
 ---
 title: Sand Bucket Drink Recipe
-type: knowledge-base
 draft: false
-trending: false
-trendname: Sand Bucket Drink Recipe
-seo_title: Sand Bucket Drink Recipe
 meta_Description: Sand Bucket Drink Recipe
 meta_Keywords: Sand Bucket Drink Recipe
+trending: false
+trendname: Sand Bucket Drink Recipe
+type: knowledge-base
+seo_title: Sand Bucket Drink Recipe
 url: sand-bucket-drink-recipe
 author: Elena Audrey
-date: 2022-07-02T20:30:31.164Z
-updateDate: 2022-07-02T20:30:31.196Z
+date: 2022-07-04T02:21:08.094Z
+updateDate: 2022-07-04T02:21:09.405Z
 faqs:
   - question: Can I Freeze Sand Bucket Drink?
     answer: You can absolutely freeze sand bucket drinks! In fact, many people
@@ -63,15 +63,11 @@ The time it takes to prepare a sand bucket drink will vary depending on the reci
 
 To make a sand bucket drink, you will need:
 
-A sand pail
-
-A mixing spoon
-
-Vodka, rum, or tequila
-
-Fruit juice or soda
-
-Ice cubes
+* A sand pail
+* A mixing spoon
+* Vodka, rum, or tequila
+* Fruit juice or soda
+* Ice cubes
 
 ## **Sand Bucket Drink Recipe Ingredients:**
 
