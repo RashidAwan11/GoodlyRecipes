@@ -1,7 +1,7 @@
 ---
 title: Terms and Conditions
 type: pages
-draft: true
+draft: false
 seo_title: Terms and Conditions
 meta_Description: Terms and Conditions
 url: terms-of-service
