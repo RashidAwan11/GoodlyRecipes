@@ -1,16 +1,19 @@
 ---
+title: Dominican Nutcracker Drink Recipe
 draft: false
 meta_Description: |
   Dominican Nutcracker Drink Recipe
 meta_Keywords: Dominican Nutcracker Drink Recipe
 trending: false
 trendname: Dominican Nutcracker Drink Recipe
-title: Dominican Nutcracker Drink Recipe
 type: knowledge-base
 seo_title: Dominican Nutcracker Drink Recipe
 url: dominican-nutcracker-drink-recipe
+author: Elena Audrey
 date: 2022-07-03T18:45:21.309Z
 updateDate: 2022-07-03T18:45:24.186Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Dominican Nutcracker drink?
     answer: Apparently, you can indeed freeze Dominican Nutcracker, and it makes for
