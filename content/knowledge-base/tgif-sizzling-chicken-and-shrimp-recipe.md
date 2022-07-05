@@ -7,8 +7,11 @@ meta_Description: |
   Tgif Sizzling Chicken and Shrimp Recipe
 meta_Keywords: Tgif Sizzling Chicken and Shrimp Recipe
 url: tgif-sizzling-chicken-and-shrimp-recipe
+author: Elena Audrey
 date: 2022-07-04T19:36:38.911Z
-updateDate: 2022-07-04T19:36:38.973Z
+updateDate: 2022-07-05T13:03:55.345Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Tgif Sizzling Chicken and Shrimp Recipe?
     answer: Yes, you can freeze this dish. Just be sure to store it in an airtight
