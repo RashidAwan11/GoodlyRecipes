@@ -1,16 +1,19 @@
 ---
+title: J Alexander’s Rattlesnake Pasta Recipe
 draft: false
 meta_Description: |
   J Alexander’s Rattlesnake Pasta Recipe
 meta_Keywords: J Alexander’s Rattlesnake Pasta Recipe
 trending: false
 trendname: J Alexander’s Rattlesnake Pasta Recipe
-title: J Alexander’s Rattlesnake Pasta Recipe
 type: knowledge-base
 seo_title: J Alexander’s Rattlesnake Pasta Recipe
 url: j-alexander’s-rattlesnake-pasta-recipe
+author: Elena Audrey
 date: 2022-07-04T02:06:08.809Z
-updateDate: 2022-07-04T02:06:09.993Z
+updateDate: 2022-07-05T13:02:16.232Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Rattlesnake pasta?
     answer: Yes! Rattlesnake pasta can definitely be frozen. In fact, you can freeze
