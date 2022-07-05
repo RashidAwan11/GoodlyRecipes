@@ -10,7 +10,9 @@ seo_title: Hui Hui Chicken Recipe
 url: hui-hui-chicken-recipe
 author: Elena Audrey
 date: 2022-07-03T18:56:07.987Z
-updateDate: 2022-07-03T18:56:09.877Z
+updateDate: 2022-07-05T13:02:04.998Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Hui Hui Chicken?
     answer: Yes, you can freeze Hui Hui chicken. However, it is important to note
