@@ -57,17 +57,12 @@ This dish is quick and easy to make. The chicken only needs to marinate for a fe
 
 ## **Equipment & Tools Use to Cook Pollo Tropical Chicken Copycat:**
 
-\- A grill or grill pan
-
-\- A cutting board
-
-\- A knife
-
-\- A mixing bowl
-
-\- A spoon or spatula
-
-\- Measuring cups and spoons
+* A grill or grill pan
+* A cutting board
+* A knife
+* A mixing bowl
+* A spoon or spatula
+* Measuring cups and spoons
 
 ## **Ingredients:**
 
@@ -223,21 +218,21 @@ This dish is best served with rice and beans. It can also be served with a salad
 
 Sides that go great with Pollo Tropical Chicken Copycat Recipe:
 
-\-White Rice
+White Rice
 
-\-Black Beans
+Black Beans
 
-\-Pinto Beans
+Pinto Beans
 
-\-Refried Beans
+Refried Beans
 
-\-Corn on the Cob
+Corn on the Cob
 
-\-Roasted vegetables
+Roasted vegetables
 
-\-Salad
+Salad
 
-\-Fries
+Fries
 
 \-Macaroni and Cheese
 
