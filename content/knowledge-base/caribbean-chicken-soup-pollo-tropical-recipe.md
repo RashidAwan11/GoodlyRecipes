@@ -10,7 +10,9 @@ seo_title: Caribbean Chicken Soup Pollo Tropical Recipe
 url: caribbean-hicken-soup-pollo-tropical-recipe
 author: Elena Audrey
 date: 2022-07-03T18:30:33.172Z
-updateDate: 2022-07-03T18:30:34.382Z
+updateDate: 2022-07-05T13:01:35.707Z
+categories:
+  - Drinks
 faqs:
   - answer: Yes, you can freeze this Caribbean chicken soup. You'll need to cook it
       first, then allow it to cool completely before freezing in an airtight
