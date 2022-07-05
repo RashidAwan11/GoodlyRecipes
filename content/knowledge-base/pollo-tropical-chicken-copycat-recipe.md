@@ -153,25 +153,69 @@ This dish is quick and easy to make. The chicken only needs to marinate for a fe
 
 ## **Nutrition Information:**
 
-\-Serving size: 1 chicken breast
-
-\-Calories: 190
-
-\-Fat: 7 g
-
-\-Saturated fat: 2 g
-
-\-Cholesterol: 70 mg
-
-\-Sodium: 140 mg
-
-\-Carbohydrates: 3 g
-
-\-Fiber: 0 g
-
-\-Sugar: 1 g 
-
-Protein: 27 g
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Serving size:</strong>
+        </td>
+        <td>1 chicken breast</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>190</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>7 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated fat:</strong>
+        </td>
+        <td>2 g</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>70 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>140 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>3 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>0 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td> 1 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>27 g</td>
+      </tr>
 
 ## **Amazing Serving Suggestions for Pollo Tropical Chicken Copycat Recipe?**
 
