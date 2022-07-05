@@ -60,32 +60,59 @@ To make this Ricard Drink recipe, you'll need the following:
 
 ## **Ingredients:**
 
-1 liter of water
-
-5 cloves
-
-1 teaspoon aniseed
-
-10 g of fennel
-
-2 lemons, quartered
-
-150 g sugar
-
-30 mL Ricard Pastis 51% alcohol
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Water:</strong>
+        </td>
+        <td>1 Liter</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Clove:</strong>
+        </td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Aniseed:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fennel:</strong>
+        </td>
+        <td>10 g</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Lemons,Quartered:</strong>
+        </td>
+        <td>2</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>150 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Ricard Pastis 51% Alcohol:</strong>
+        </td>
+        <td>30 mL</td>
+      </tr>
 
 ## **Step-by Step Instructions:**
 
 1. Fill a pitcher with 1 liter of water.
-
 2. Add 5 cloves, 1 teaspoon aniseed, and 10 g of fennel.
-
 3. Cut 2 lemons into quarters and add them to the pitcher.
-
 4. Add 150 g sugar and 30 mL Ricard Pastis 51% alcohol.
-
 5. Stir until the sugar has dissolved.
-
 6. Serve over ice and enjoy!
 
 ## **How to Drink Ricard?**
@@ -98,21 +125,57 @@ Cheers!
 
 ## **Nutrition Information:**
 
-Serving size: 1 cup (250 mL)
-
-Calories: 100
-
-Total fat: 0 g
-
-Saturated fat: 0 g
-
-Total carbohydrate: 26 g
-
-Sugar: 26 g
-
-Protein: 0 g
-
-Caffeine: 40 mg
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Serving size:</strong>
+        </td>
+        <td> 1 cup (250 mL)</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>100</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Total Fat:</strong>
+        </td>
+        <td>0 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>0 g</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Total Carbohydrate:</strong>
+        </td>
+        <td>26 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>26 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>0 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Caffeine:</strong>
+        </td>
+        <td>40 mg</td>
+      </tr>
 
 ## **Amazing Serving Suggestions for Ricard Drink:**
 
