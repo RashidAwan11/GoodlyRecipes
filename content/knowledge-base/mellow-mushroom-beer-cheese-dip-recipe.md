@@ -6,9 +6,11 @@ seo_title: Mellow Mushroom Beer Cheese Dip Recipe
 meta_Description: Mellow Mushroom Beer Cheese Dip Recipe
 meta_Keywords: Mellow Mushroom Beer Cheese Dip Recipe
 url: mellow-mushroom-beer-cheese-dip-recipe
-author: ""
+author: Elena Audrey
 date: 2022-07-04T19:22:46.722Z
-updateDate: 2022-07-04T19:22:52.032Z
+updateDate: 2022-07-05T13:02:29.953Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Mellow Mushroom Beer Cheese?
     answer: Yes, you can absolutely freeze Mellow Mushroom beer cheese! In fact, we
