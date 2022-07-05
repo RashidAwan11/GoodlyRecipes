@@ -7,8 +7,11 @@ meta_Description: |
   Ricard Drink Recipe
 meta_Keywords: Ricard Drink Recipe
 url: ricard-drink-recipe
+author: Elena Audrey
 date: 2022-07-04T19:29:36.924Z
 updateDate: 2022-07-04T19:29:38.318Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Ricard Drink?
     answer: Yes, you can freeze Ricard Drink. Just pour it into an ice cube tray and
