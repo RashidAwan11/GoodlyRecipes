@@ -7,8 +7,11 @@ meta_Description: |
   Primanti Brothers' Cole Slaw Recipe
 meta_Keywords: Primanti Brothers' Cole Slaw Recipe
 url: primanti-brothers'-cole-slaw-recipe
+author: Elena Audrey
 date: 2022-07-05T03:49:07.280Z
 updateDate: 2022-07-05T03:49:07.375Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Primanti brothers’ cole slaw?
     answer: Yes, this recipe can be frozen. Simply place the coleslaw in a
