@@ -1,7 +1,7 @@
 languageCode = "en-us"
 DisqusShortname = ""
 baseURL = "https://fantastic-semifreddo-2d77a0.netlify.app/"
-googleAnalytics = ""
+googleAnalytics = "UA-233381893-1"
 title = "Nubia Hugo Theme"
 paginate = "14"
 assetDir = "static"
