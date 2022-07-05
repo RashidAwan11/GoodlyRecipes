@@ -5,20 +5,10 @@ url = "/"
 
 [[main]]
 weight = 1
-name = "Layouts"
-url = "#"
-
-[[main]]
-weight = 3
-name = "Elements"
-url = "/elements/"
+name = "Drinks"
+url = "/drinks/"
 
 [[footer]]
 weight = 1
-name = "Elements"
-url = "/elements/"
-
-[[footer]]
-weight = 1
-name = "Contact Form"
-url = "/contact-form/"
+name = "About US"
+url = "/about-us/"
