@@ -66,52 +66,106 @@ This dish is fairly simple to make and won't take you more than 30 minutes to pr
 
 In order to make this dish, you will need the following equipment:
 
-\-A skillet
+A skillet
 
-\-A cutting board
+A cutting board
 
-\-A knife
+A knife
 
-\-Measuring cups and spoons
+Measuring cups and spoons
 
 ## **Ingredients:**
 
-1 lb. chicken breast, cut into cubes
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Chicken Breast, Cut Into Cubes:</strong>
+        </td>
+        <td>1 Lb</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Shrimp, Peeled And Deveined:</strong>
+        </td>
+        <td>1 Lb</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Pineapple Juice:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>All-purpose Flour:</strong>
+        </td>
+        <td>1/4 Cup</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Paprika:</strong>
+        </td>
+        <td>2 Tsp</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Garlic Powder:</strong>
+        </td>
+        <td>1 Tsp</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Salt And Pepper:</strong>
+        </td>
+        <td>To Taste</td>
+      </tr>
 
-1 lb. shrimp, peeled and deveined
+### **creamy Sauce:**
 
-1/2 cup pineapple juice
-
-1/4 cup all-purpose flour
-
-2 tsp. paprika
-
-1 tsp. garlic powder
-
-Salt and pepper to taste
-
-### **Creamy Sauce:**
-
-1/2 cup sour cream
-
-1/4 cup mayonnaise
-
-1/4 cup pineapple juice
-
-2 tsp. paprika
-
-1 tsp. garlic powder
-
-Salt and pepper to taste
+<tr>
+        <td>
+          <strong>Sour Cream:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Mayonnaise:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Pineapple Juice:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Paprika:</strong>
+        </td>
+        <td>2 Tsp</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Garlic Powder:</strong>
+        </td>
+        <td>1 Tsp</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Salt And Pepper:</strong>
+        </td>
+        <td>To Tastez</td>
+      </tr>
 
 ## **Directions:**
 
 1. preheat the oven to 350 degrees F.
-
 2. In a large bowl, combine chicken, shrimp, pineapple juice, flour, paprika, garlic powder, salt, and pepper.
-
 3. In a separate bowl, whisk together all of the ingredients for the creamy sauce.
-
 4. Pour the mixture into a baking dish and bake for 25 minutes, or until the chicken is cooked through.
 
 ## **Nutrition Information:**
