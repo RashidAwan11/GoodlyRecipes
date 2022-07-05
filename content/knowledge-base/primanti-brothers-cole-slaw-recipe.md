@@ -49,11 +49,9 @@ It is a popular side dish made of shredded cabbage and carrots mixed with a dres
 
 There are many benefits to the Primanti brothers’ cole slaw recipe.
 
- It is a very flavorful and unique coleslaw. Primanti brothers’ cole slaw is a good source of vitamins A and C, as well as fiber and calcium.
-
-That is perfect for summer BBQs and picnics. Additionally, it is a very easy recipe to follow and can be made ahead of time, which is always convenient. 
-
-Perhaps most importantly, though, this coleslaw recipe is sure to please everyone at your next gathering whether they are die-hard Pittsburgh fans or not! So go ahead and give it a try  you won’t be disappointed.
+1. It is a very flavorful and unique coleslaw. Primanti brothers’ cole slaw is a good source of vitamins A and C, as well as fiber and calcium.
+2. That is perfect for summer BBQs and picnics. Additionally, it is a very easy recipe to follow and can be made ahead of time, which is always convenient. 
+3. Perhaps most importantly, though, this coleslaw recipe is sure to please everyone at your next gathering whether they are die-hard Pittsburgh fans or not! So go ahead and give it a try  you won’t be disappointed.
 
 ## **How Long Will It Take To Prepare?**
 
