@@ -10,7 +10,9 @@ seo_title: Sand Bucket Drink Recipe
 url: sand-bucket-drink-recipe
 author: Elena Audrey
 date: 2022-07-04T02:21:08.094Z
-updateDate: 2022-07-04T02:21:09.405Z
+updateDate: 2022-07-05T13:03:38.835Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Sand Bucket Drink?
     answer: You can absolutely freeze sand bucket drinks! In fact, many people
