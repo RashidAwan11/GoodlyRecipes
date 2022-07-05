@@ -7,8 +7,11 @@ meta_Description: |
   Pollo Tropical Chicken Copycat Recipe
 meta_Keywords: Pollo Tropical Chicken Copycat Recipe
 url: pollo-tropical-chicken-copycat-recipe
+author: Elena Audrey
 date: 2022-07-04T19:44:35.249Z
 updateDate: 2022-07-04T19:44:35.293Z
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Pollo Tropical chicken Copycat?
     answer: Pollo Tropical chicken copycat can be frozen, but it's best to consume
