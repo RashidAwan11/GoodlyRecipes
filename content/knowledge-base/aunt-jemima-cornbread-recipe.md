@@ -11,7 +11,8 @@ url: aunt-jemima-cornbread-recipe
 author: Elena Audrey
 date: 2022-07-01T09:16:13.059Z
 updateDate: 2022-07-01T09:16:13.085Z
-categories: []
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Aunt Jemima Cornbread?
     answer: Yes. Aunt Jemima cornbread can be frozen. However, it is not recommended
