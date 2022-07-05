@@ -71,27 +71,75 @@ This dish is quick and easy to make. The chicken only needs to marinate for a fe
 
 ## **Ingredients:**
 
-\-1/4 cup lime juice
-
-\-1/4 cup orange juice
-
-\-1 tablespoon white vinegar
-
-\-2 cloves garlic, minced
-
-\-1 teaspoon dried oregano
-
-\-1 teaspoon cumin powder
-
-\-1/2 teaspoon chili powder
-
-\-1/4 teaspoon salt
-
-\-1/4 teaspoon black pepper
-
-\-2-3 pounds of chicken pieces (breasts, thighs, drumsticks)
-
-\-1/2 cup pineapple juice (optional)
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Lime Juice:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Orange Juice:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>White Vinegar:</strong>
+        </td>
+        <td>1 Tablespoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Garlic, Minced:</strong>
+        </td>
+        <td>2 Cloves</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Dried Oregano:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Cumin Powder:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chili Powder:</strong>
+        </td>
+        <td>1/2 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Salt:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Black Pepper:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chicken Pieces (breasts, Thighs, Drumsticks):</strong>
+        </td>
+        <td>2-3 Pounds</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Pineapple Juice (optional):</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
 
 ## **Step By Step Make Pollo Tropical Chicken:**
 
