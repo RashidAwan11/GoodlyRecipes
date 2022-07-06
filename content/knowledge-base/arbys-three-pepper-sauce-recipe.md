@@ -178,21 +178,57 @@ In order to make Arby’s Three Pepper Sauce Recipe, you will need a blender or 
 
 ## **Nutrition Information:**
 
-Serving size: 1 tbsp
-
-Calories: 10
-
-Fat: 0g
-
-Sodium: 150mg
-
-Carbohydrates: 2g
-
-Fiber: 0g
-
-Sugar: 1g
-
-Protein: 0g
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Serving Size:</strong>
+        </td>
+        <td>1 tbsp</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td> 10</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td> 0g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>150mg</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>2g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>0g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>1g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>0g</td>
+      </tr>
 
 ## **Amazing Serving Suggestions for Arby’s Three Pepper Sauce :**
 
