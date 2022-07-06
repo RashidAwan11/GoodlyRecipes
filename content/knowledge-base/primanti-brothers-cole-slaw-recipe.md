@@ -6,7 +6,7 @@ seo_title: Primanti Brothers' Cole Slaw Recipe
 meta_Description: |
   Primanti Brothers' Cole Slaw Recipe
 meta_Keywords: Primanti Brothers' Cole Slaw Recipe
-url: primanti-brothers'-cole-slaw-recipe
+url: primanti-brothers-cole-slaw-recipe
 author: Elena Audrey
 date: 2022-07-05T03:49:07.280Z
 updateDate: 2022-07-05T03:49:07.375Z
