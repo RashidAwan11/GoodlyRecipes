@@ -11,7 +11,7 @@ url: aunt-jemima-cornbread-recipe
 author: Elena Audrey
 date: 2022-07-01T09:16:13.059Z
 updateDate: 2022-07-01T09:16:13.085Z
-featured_Image: /uploads/aunt-jemima-cornbread-recipe.webp
+featured_Image: /uploads/aunt-jemima-cornbread-recipe-goodlyrecipes.com.webp
 categories:
   - Drinks
 faqs:
