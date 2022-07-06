@@ -1,6 +1,6 @@
 languageCode = "en-us"
 DisqusShortname = ""
-baseURL = "https://goodlyrecipes.com/"
+baseURL = "https://goodlyrecipes.com"
 googleAnalytics = "UA-233381893-1"
 title = "Goodly Recipes"
 paginate = "14"
