@@ -1,6 +1,6 @@
 logo = "/uploads/goodlyrecipes-final-logo.png"
 tagline = "Goodly Recipes"
-icon = ""
+icon = "/uploads/favicon-goodlyrecipes.png"
 contacteMail = "info.goodlyrecipes@gmail.com"
 
 [footer_settings]
