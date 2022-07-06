@@ -1,16 +1,17 @@
 ---
 title: Aunt Jemima Cornbread Recipe
+type: knowledge-base
 draft: false
 meta_Description: Aunt Jemima Cornbread Recipe
 meta_Keywords: Aunt Jemima Cornbread Recipe
 trending: false
 trendname: Aunt Jemima Cornbread Recipe
-type: knowledge-base
 seo_title: Aunt Jemima Cornbread Recipe
 url: aunt-jemima-cornbread-recipe
 author: Elena Audrey
 date: 2022-07-01T09:16:13.059Z
 updateDate: 2022-07-01T09:16:13.085Z
+featured_Image: /uploads/aunt-jemima-cornbread-recipe.webp
 categories:
   - Drinks
 faqs:
