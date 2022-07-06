@@ -81,33 +81,94 @@ In order to make Arby’s Three Pepper Sauce Recipe, you will need a blender or 
 
 ## **Ingredients:**
 
- 1 cup diced onion
-
-1/2 cup diced green bell pepper
-
-1/2 cup diced red bell pepper
-
-3 cloves garlic, minced
-
-1 jalapeño pepper, seeded and diced
-
-1 habanero pepper, seeded and diced
-
-1 serrano pepper, seeded and diced
-
-1/4 cup white vinegar
-
-1/4 cup apple cider vinegar
-
-1/2 cup brown sugar
-
-1 teaspoon salt
-
-1/4 teaspoon black pepper
-
-1/2 cup ketchup
-
-1/4 cup water
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Diced Onion:</strong>
+        </td>
+        <td>1 cup </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Diced Green Bell Pepper:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Diced Red Bell Pepper:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Garlic, Minced:</strong>
+        </td>
+        <td>3 Cloves</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Jalapeño Pepper, Seeded And Diced:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Habanero Pepper, Seeded And Diced:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Serrano Pepper, Seeded And Diced:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+<tr>
+        <td>
+          <strong>White Vinegar:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Apple Cider Vinegar:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Brown Sugar:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Salt:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong> Black Pepper:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Ketchup:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Water:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+     
 
 ## **Step By Step Guide to cooking Arby’s Three Pepper Sauce Recipe:**
 
