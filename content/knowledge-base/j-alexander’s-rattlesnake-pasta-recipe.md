@@ -8,7 +8,7 @@ trending: false
 trendname: J Alexander’s Rattlesnake Pasta Recipe
 type: knowledge-base
 seo_title: J Alexander’s Rattlesnake Pasta Recipe
-url: j-alexander’s-rattlesnake-pasta-recipe
+url: j-alexanders-rattlesnake-pasta-recipe
 author: Elena Audrey
 date: 2022-07-04T02:06:08.809Z
 updateDate: 2022-07-05T13:02:16.232Z
