@@ -1,7 +1,7 @@
 ---
 title: Disclaimer
 type: pages
-draft: true
+draft: false
 seo_title: Disclaimer
 meta_Description: Disclaimer
 url: disclaimer
