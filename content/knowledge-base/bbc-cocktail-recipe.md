@@ -2,15 +2,16 @@
 title: BBC Cocktail Recipe
 type: knowledge-base
 draft: false
+meta_Description: BBC Cocktail Recipe
+meta_Keywords: BBC Cocktail Recipe
 trending: true
 trendname: BBC Cocktail Recipe
 seo_title: BBC Cocktail Recipe
-meta_Description: BBC Cocktail Recipe
-meta_Keywords: BBC Cocktail Recipe
 url: bbc-cocktail-recipe
 author: Elena Audrey
 date: 2022-06-30T20:08:22.816Z
-updateDate: 2022-07-01T06:18:11.246Z
+updateDate: 2022-07-07T01:12:42.610Z
+featured_Image: /uploads/bbc-cocktail-recipe.webp
 categories:
   - Drinks
 faqs:
