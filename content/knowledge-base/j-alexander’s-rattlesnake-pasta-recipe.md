@@ -1,17 +1,18 @@
 ---
 title: J Alexander’s Rattlesnake Pasta Recipe
+type: knowledge-base
 draft: false
 meta_Description: |
   J Alexander’s Rattlesnake Pasta Recipe
 meta_Keywords: J Alexander’s Rattlesnake Pasta Recipe
 trending: false
 trendname: J Alexander’s Rattlesnake Pasta Recipe
-type: knowledge-base
 seo_title: J Alexander’s Rattlesnake Pasta Recipe
 url: j-alexanders-rattlesnake-pasta-recipe
 author: Elena Audrey
 date: 2022-07-04T02:06:08.809Z
-updateDate: 2022-07-05T13:02:16.232Z
+updateDate: 2022-07-07T01:08:49.527Z
+featured_Image: /uploads/j-alexanders-rattlesnake-pasta-recipe.webp
 categories:
   - Drinks
 faqs:
