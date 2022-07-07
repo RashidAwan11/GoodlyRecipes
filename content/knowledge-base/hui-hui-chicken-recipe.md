@@ -1,16 +1,17 @@
 ---
 title: Hui Hui Chicken Recipe
+type: knowledge-base
 draft: false
 meta_Description: Hui Hui Chicken Recipe
 meta_Keywords: Hui Hui Chicken Recipe
 trending: true
 trendname: Hui Hui Chicken Recipe
-type: knowledge-base
 seo_title: Hui Hui Chicken Recipe
 url: hui-hui-chicken-recipe
 author: Elena Audrey
 date: 2022-07-03T18:56:07.987Z
-updateDate: 2022-07-05T13:02:04.998Z
+updateDate: 2022-07-07T01:08:20.734Z
+featured_Image: /uploads/hui-hui-chicken-recipe.webp
 categories:
   - Drinks
 faqs:
