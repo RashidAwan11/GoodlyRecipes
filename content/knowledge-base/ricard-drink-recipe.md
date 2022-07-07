@@ -9,7 +9,8 @@ meta_Keywords: Ricard Drink Recipe
 url: ricard-drink-recipe
 author: Elena Audrey
 date: 2022-07-04T19:29:36.924Z
-updateDate: 2022-07-04T19:29:38.318Z
+updateDate: 2022-07-07T01:10:54.105Z
+featured_Image: /uploads/ricard-drink-recipe.webp
 categories:
   - Drinks
 faqs:
