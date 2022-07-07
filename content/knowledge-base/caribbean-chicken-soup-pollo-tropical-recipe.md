@@ -1,16 +1,17 @@
 ---
 title: Caribbean Chicken Soup Pollo Tropical Recipe
+type: knowledge-base
 draft: false
 meta_Description: Caribbean Chicken Soup Pollo Tropical Recipe
 meta_Keywords: Caribbean Chicken Soup Pollo Tropical Recipe
 trending: false
 trendname: Caribbean Chicken Soup Pollo Tropical Recipe
-type: knowledge-base
 seo_title: Caribbean Chicken Soup Pollo Tropical Recipe
-url: caribbean-hicken-soup-pollo-tropical-recipe
+url: caribbean-chicken-soup-pollo-tropical-recipe
 author: Elena Audrey
 date: 2022-07-03T18:30:33.172Z
-updateDate: 2022-07-05T13:01:35.707Z
+updateDate: 2022-07-07T01:06:36.663Z
+featured_Image: /uploads/caribbean-chicken-soup-pollo-tropical-recipe.webp
 categories:
   - Drinks
 faqs:
