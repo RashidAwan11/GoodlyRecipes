@@ -9,7 +9,8 @@ meta_Keywords: Tgif Sizzling Chicken and Shrimp Recipe
 url: tgif-sizzling-chicken-and-shrimp-recipe
 author: Elena Audrey
 date: 2022-07-04T19:36:38.911Z
-updateDate: 2022-07-05T13:03:55.345Z
+updateDate: 2022-07-07T01:11:45.758Z
+featured_Image: /uploads/tgif-sizzling-chicken-and-shrimp-recipe.webp
 categories:
   - Drinks
 faqs:
