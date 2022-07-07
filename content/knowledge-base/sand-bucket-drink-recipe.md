@@ -1,16 +1,17 @@
 ---
 title: Sand Bucket Drink Recipe
+type: knowledge-base
 draft: false
 meta_Description: Sand Bucket Drink Recipe
 meta_Keywords: Sand Bucket Drink Recipe
 trending: false
 trendname: Sand Bucket Drink Recipe
-type: knowledge-base
 seo_title: Sand Bucket Drink Recipe
 url: sand-bucket-drink-recipe
 author: Elena Audrey
 date: 2022-07-04T02:21:08.094Z
-updateDate: 2022-07-05T13:03:38.835Z
+updateDate: 2022-07-07T01:11:22.060Z
+featured_Image: /uploads/sand-bucket-drink-recipe.webp
 categories:
   - Drinks
 faqs:
