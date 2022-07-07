@@ -9,7 +9,8 @@ meta_Keywords: Pollo Tropical Chicken Copycat Recipe
 url: pollo-tropical-chicken-copycat-recipe
 author: Elena Audrey
 date: 2022-07-04T19:44:35.249Z
-updateDate: 2022-07-04T19:44:35.293Z
+updateDate: 2022-07-07T01:09:52.337Z
+featured_Image: /uploads/pollo-tropical-chicken-copycat-recipe.webp
 categories:
   - Drinks
 faqs:
