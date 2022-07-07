@@ -1,17 +1,18 @@
 ---
 title: Dominican Nutcracker Drink Recipe
+type: knowledge-base
 draft: false
 meta_Description: |
   Dominican Nutcracker Drink Recipe
 meta_Keywords: Dominican Nutcracker Drink Recipe
 trending: false
 trendname: Dominican Nutcracker Drink Recipe
-type: knowledge-base
 seo_title: Dominican Nutcracker Drink Recipe
 url: dominican-nutcracker-drink-recipe
 author: Elena Audrey
 date: 2022-07-03T18:45:21.309Z
-updateDate: 2022-07-03T18:45:24.186Z
+updateDate: 2022-07-07T01:07:42.034Z
+featured_Image: /uploads/dominican-nutcracker-drink-recipe.webp
 categories:
   - Drinks
 faqs:
