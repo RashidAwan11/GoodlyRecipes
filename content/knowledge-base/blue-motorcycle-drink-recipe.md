@@ -1,17 +1,18 @@
 ---
 title: Blue Motorcycle Drink Recipe
+type: knowledge-base
 draft: false
 meta_Description: |
   Blue Motorcycle Drink Recipe
 meta_Keywords: Blue Motorcycle Drink Recipe
 trending: false
 trendname: Blue Motorcycle Drink Recipe
-type: knowledge-base
 seo_title: Blue Motorcycle Drink Recipe
 url: blue-motorcycle-drink-recipe
 author: Elena Audrey
 date: 2022-07-03T18:09:02.790Z
-updateDate: 2022-07-05T13:01:15.633Z
+updateDate: 2022-07-07T01:12:11.460Z
+featured_Image: /uploads/blue-motorcycle-drink-recipe.webp
 categories:
   - Drinks
 faqs:
