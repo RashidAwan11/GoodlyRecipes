@@ -8,7 +8,8 @@ meta_Keywords: Mellow Mushroom Beer Cheese Dip Recipe
 url: mellow-mushroom-beer-cheese-dip-recipe
 author: Elena Audrey
 date: 2022-07-04T19:22:46.722Z
-updateDate: 2022-07-05T13:02:29.953Z
+updateDate: 2022-07-07T01:09:20.837Z
+featured_Image: /uploads/mellow-mushroom-beer-cheese-dip-recipe.webp
 categories:
   - Drinks
 faqs:
