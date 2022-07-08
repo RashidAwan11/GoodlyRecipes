@@ -102,6 +102,10 @@ Sprinkles
         <td>Require</td>
       </tr>
 
+ </tbody>
+  </table>
+</figure>
+
 ## **Directions :**
 
 1. Heat oven to 350°F (325°F for dark or nonstick pan). Grease the bottom and sides of the 13x9-inch pan with butter. Unroll dough in the pan; starting at the center, press out dough to cover the bottom of the pan. If the dough is sticky, lightly flour your fingers.
