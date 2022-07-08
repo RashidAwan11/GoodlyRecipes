@@ -110,6 +110,10 @@ To make this Ricard Drink recipe, you'll need the following:
         <td>30 mL</td>
       </tr>
 
+ </tbody>
+  </table>
+</figure>
+
 ## **Step-by Step Instructions:**
 
 1. Fill a pitcher with 1 liter of water.
