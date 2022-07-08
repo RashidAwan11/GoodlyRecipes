@@ -180,33 +180,96 @@ Cutting board
 
 ## **Nutrition Information:**
 
-1 serving (1/2 cup) 
-
-Calories: 150
-
-Fat: 11 g
-
-Saturated Fat: 1.5 g
-
-Cholesterol: 5 mg
-
-Sodium: 360 mg
-
-Carbohydrates: 13 g
-
-Fiber: 2 g 
-
-Sugar: 10 g 
-
-Protein: 1 g
-
-Vitamin A: 80%
-
-Vitamin C: 35%
-
-Calcium: 2%
-
-Iron: 4%
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>1 serving :</strong>
+        </td>
+        <td> (1/2 cup) </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>11g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated fat:</strong>
+        </td>
+        <td>1.5g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>5mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>360 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td> 13 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td> 2 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>10 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>150</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>1 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin A:</strong>
+        </td>
+        <td> 80%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Vitamin C:</strong>
+        </td>
+        <td> 35%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Calcium:</strong>
+        </td>
+        <td>2%</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Iron:</strong>
+        </td>
+        <td>4%</td>
+     </tr>
+ </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Primanti brothers’ cole slaw recipe:**
 
