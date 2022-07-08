@@ -220,6 +220,10 @@ This dish is quick and easy to make. The chicken only needs to marinate for a fe
         <td>27 g</td>
       </tr>
 
+ </tbody>
+  </table>
+</figure>
+
 ## **Amazing Serving Suggestions for Pollo Tropical Chicken Copycat Recipe?**
 
 This dish is best served with rice and beans. It can also be served with a salad or roasted vegetables.
