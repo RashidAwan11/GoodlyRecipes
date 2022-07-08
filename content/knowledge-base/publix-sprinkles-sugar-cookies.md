@@ -80,11 +80,27 @@ Sprinkles
 
 ## **Ingredients:**
 
-1 Can (16.3 Oz) Pillsbury™ Refrigerated Cinnamon Rolls
-
-1 Container (12 Oz) Publix Bakery Vanilla Frosting
-
-Publix Rainbow Nonpareils Sprinkle
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Refrigerated Cinnamon Rolls:</strong>
+        </td>
+        <td>1 Can (16.3 Oz) Pillsbury™</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Publix Bakery Vanilla Frosting:</strong>
+        </td>
+        <td>1 Container (12 Oz) </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Publix Rainbow Nonpareils Sprinkle:</strong>
+        </td>
+        <td>Require</td>
+      </tr>
 
 ## **Directions :**
 
