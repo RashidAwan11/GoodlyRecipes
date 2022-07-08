@@ -169,7 +169,9 @@ In order to make Arby’s Three Pepper Sauce Recipe, you will need a blender or 
         </td>
         <td>1/4 Cup</td>
       </tr>
-     
+     </tbody>
+  </table>
+</figure>
 
 ## **Step By Step Guide to cooking Arby’s Three Pepper Sauce Recipe:**
 
