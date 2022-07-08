@@ -127,25 +127,74 @@ So what are you waiting for? Get started on your own Mellow Mushroom Beer Cheese
 
 ## **Nutrition Information:**
 
-Calories: 107
+<figure class="wp-block-table is-style-stripes">
 
-Fat: 7.5g
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td> 107</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td> 7.5g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated fat:</strong>
+        </td>
+        <td>4.5g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>20mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>290mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Potassium:</strong>
+        </td>
+        <td>35mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>0.4g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td> 0g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>0g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td> 8.1g</td>
+     </tr>
 
-Saturated fat: 4.5g
-
-Cholesterol: 20mg
-
-Sodium: 290mg
-
-Potassium: 35mg
-
-Carbohydrates: 0.4g
-
-Fiber: 0g
-
-Sugar: 0g
-
-Protein: 8.1g
+  </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Mellow Mushroom Beer Cheese:**
 
