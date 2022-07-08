@@ -140,6 +140,10 @@ This dish is quick and easy to make. The chicken only needs to marinate for a fe
         <td>1/2 Cup</td>
       </tr>
 
+ </tbody>
+  </table>
+</figure>
+
 ## **Step By Step Make Pollo Tropical Chicken:**
 
 1. In a small bowl, whisk together lime juice, orange juice, vinegar, garlic, oregano, cumin, chili powder, salt, and pepper. 
