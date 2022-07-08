@@ -126,7 +126,7 @@ Measuring cups and spoons
         <td>To Taste</td>
       </tr>
 
-### **creamy Sauce:**
+### **Creamy Sauce:**
 
 <tr>
         <td>
