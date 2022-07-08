@@ -75,8 +75,6 @@ Cutting board
 
 ## **Ingredients:**
 
-<!--StartFragment-->
-
 <figure class="wp-block-table is-style-stripes">
 
   <table>
@@ -172,10 +170,6 @@ Cutting board
   </table>
 
 </figure>
-
-
-
-<!--EndFragment-->
 
 ## **Directions:**
 
