@@ -58,7 +58,7 @@ When it comes to snake juice recipes, there are a few benefits that stand out. S
 
 The great thing about the Snake Juice Recipe is that it's a very simple drink to make. In fact, it only takes a few minutes to prepare. Simply mix all of the ingredients together and enjoy. It's that easy!
 
-## **Equipment & Tools used to make Snake Juice Recipe** 
+## **Equipment & Tools used to make Snake Juice Recipe**
 
 Vodka
 
@@ -78,13 +78,13 @@ Ice cubes
 
 ## **Ingredients:**
 
-1-ounce vodka
+1-ounce Vodka
 
-1-ounce gin
+1-ounce Gin
 
-1-ounce tequila
+1-ounce Tequila
 
-1-ounce rum
+1-ounce Rum
 
 ## **Directions:**
 
@@ -94,7 +94,7 @@ Ice cubes
 4. Shake well and strain into a chilled martini glass.
 5. Garnish with a lemon twist and serve.
 
-## **Nutrition Information:** 
+## **Nutrition Information:**
 
  Servings: 1 | Calories: 120 | Carbohydrates: 0g | Protein: 0g | Fat: 0g | Saturated Fat: 0g | Cholesterol: 0mg | Sodium: 0mg | Fiber: 0g | Sugar: 0g | 
 
