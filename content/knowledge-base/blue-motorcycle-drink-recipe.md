@@ -117,6 +117,7 @@ To Prepare A Blue Motorcycle Drink, You Will Need:
       </tr>
     </tbody>
 
+</tbody>
   </table>
 </figure>
 
