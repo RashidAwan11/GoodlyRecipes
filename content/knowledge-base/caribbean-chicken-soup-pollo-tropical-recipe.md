@@ -179,6 +179,7 @@ This dish takes about 30 minutes to prepare and cook.
       </tr>
     </tbody>
 
+  </tbody>
   </table>
 </figure>
 
