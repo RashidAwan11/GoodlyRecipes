@@ -71,17 +71,48 @@ Mixing glass.
 
 ## **Ingredients:**
 
-1/2 Ounce Vodka
-
-1/2 Ounce Dry Vermouth
-
-Ounce Pistachio Liqueur
-
-Dash Of Orange Bitters
-
-Ice Cubes
-
-Pistachio Nut, For Garnish
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Vodka:</strong>
+        </td>
+        <td>1/2 Ounce</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Dry Vermouth:</strong>
+        </td>
+        <td>1/2 Ounce</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Pistachio Liqueur:</strong>
+        </td>
+        <td>Ounce</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Dash Of Orange Bitters:</strong>
+        </td>
+        <td>0</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Ice Cubes:</strong>
+        </td>
+        <td>Require</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Pistachio Nut, For Garnish:</strong>
+        </td>
+        <td>For Garnish</td>
+      </tr>
+ </tbody>
+  </table>
+</figure>
 
 ## **Directions :**
 
@@ -93,23 +124,67 @@ Enjoy your Pistachio Martini drink recipe!
 
 ## **Nutrition Information:**
 
-Calories: 190
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>190</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td> 1.5g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated fat:</strong>
+        </td>
+        <td>0g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>0mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>10mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td> 9 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td> 1 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>7 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>2 g</td>
+  </tr>
+</tbody>
 
-Fat: 1.5 g
-
-Saturated Fat: 0 g
-
-Cholesterol: 0 mg
-
-Sodium: 10 mg
-
-Carbohydrates: 9 g
-
-Fiber: 1 g
-
-Sugar: 7 g 
-
-Protein: 2 g 
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Pistachio Martini Drink Recipe**
 
