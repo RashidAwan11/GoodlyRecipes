@@ -77,15 +77,43 @@ In order to make this Mellow Mushroom Beer Cheese Dip, you will need:
 
 ## **Ingredients:**
 
-1 pound shredded cheese
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Shredded Cheese:</strong>
+        </td>
+        <td>1 Pound</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Beer:</strong>
+        </td>
+        <td>1 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Worcestershire Sauce:</strong>
+        </td>
+        <td>1 Tablespoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Onion Powder:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Garlic Powder:</strong>
+        </td>
+        <td>1/2 Teaspoon</td>
+      </tr>
 
-1 cup beer
-
-1 tablespoon Worcestershire sauce
-
-1 teaspoon onion powder
-
-1/2 teaspoon garlic powder
+</tbody>
+  </table>
+</figure>
 
 ## **Step By Step Guide to Cook Mellow Mushroom Beer Cheese**
 
