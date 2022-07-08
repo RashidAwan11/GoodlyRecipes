@@ -75,19 +75,107 @@ Cutting board
 
 ## **Ingredients:**
 
-1 head of cabbage, shredded
+<!--StartFragment-->
 
-3 carrots, grated
+<figure class="wp-block-table is-style-stripes">
 
-1/2 cup mayonnaise
+  <table>
 
-1/4 cup vinegar
+    <tbody>
 
-1/4 cup sugar
+      <tr>
 
-1 teaspoon salt
+        <td>
 
-1/4 teaspoon black pepper
+          <strong>Cabbage, Shredded:</strong>
+
+        </td>
+
+        <td>1 Head</td>
+
+      </tr>
+
+      <tr>
+
+        <td>
+
+          <strong>Grated:</strong>
+
+        </td>
+
+        <td>3 Carrots</td>
+
+      </tr>
+
+      <tr>
+
+        <td>
+
+          <strong>Mayonnaise:</strong>
+
+        </td>
+
+        <td>1/2 Cup</td>
+
+      </tr>
+
+      <tr>
+
+        <td>
+
+          <strong>Vinegar:</strong>
+
+        </td>
+
+        <td>1/4 Cup</td>
+
+     </tr>
+
+      <tr>
+
+        <td>
+
+          <strong>Sugar:</strong>
+
+        </td>
+
+        <td>1/4 Cup</td>
+
+      </tr>
+
+<tr>
+
+        <td>
+
+          <strong>Salt:</strong>
+
+        </td>
+
+        <td>1 Teaspoon</td>
+
+      </tr>
+
+<tr>
+
+        <td>
+
+          <strong> Black Pepper:</strong>
+
+        </td>
+
+        <td>1/4 Teaspoon</td>
+
+      </tr>
+
+ </tbody>
+
+  </table>
+
+</figure>
+
+
+
+<!--EndFragment-->
 
 ## **Directions:**
 
