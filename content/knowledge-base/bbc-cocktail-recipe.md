@@ -112,6 +112,7 @@ In order to make this classic cocktail, you will need a shaker, some ice, gin, s
       </tr>
     </tbody>
 
+</tbody>
   </table>
 </figure>
 
