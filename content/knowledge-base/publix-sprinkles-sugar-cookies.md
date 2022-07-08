@@ -180,6 +180,10 @@ Sprinkles
         <td>1 g</td>
      </tr>
 
+  </tbody>
+  </table>
+</figure>
+
 ## **Amazing Serving Suggestions for Publix Sprinkles Sugar Cookies**
 
 If you're looking for some creative and delicious ways to serve Publix sprinkles sugar cookies, then look no further! Here are a few of our favorite serving suggestions:
