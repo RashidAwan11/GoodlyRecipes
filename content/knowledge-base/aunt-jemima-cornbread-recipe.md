@@ -90,9 +90,8 @@ All you need to make this Aunt Jemima Cornbread Recipe is a bowl, a whisk, a mea
         </td>
         <td>1</td>
       </tr>      
-    </tbody>
-
-</table>
+  </tbody>
+  </table>
 </figure>
 
 ## **Directions or Step By Step Guide to Cook  Aunt Jemima Cornbread Recipe:**
