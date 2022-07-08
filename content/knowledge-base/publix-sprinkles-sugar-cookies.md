@@ -116,7 +116,69 @@ Sprinkles
 
 ## **Nutrition Information:**
 
-1 cookie: 140 calories, 6g fat (3g saturated fat), 15mg cholesterol, 170mg sodium, 21g carbohydrate (14g sugars, 0 fiber), 1g protein.
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>cookie:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>calories:</strong>
+        </td>
+        <td> 140</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>fat:</strong>
+        </td>
+        <td>6g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>saturated fat:</strong>
+        </td>
+        <td>3g </td>
+      </tr>
+<tr>
+        <td>
+          <strong>cholesterol:</strong>
+        </td>
+        <td>15mg </td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>170mg</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Carbohydrate:</strong>
+        </td>
+        <td> 21g </td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>14g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>0</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>1 g</td>
+     </tr>
 
 ## **Amazing Serving Suggestions for Publix Sprinkles Sugar Cookies**
 
