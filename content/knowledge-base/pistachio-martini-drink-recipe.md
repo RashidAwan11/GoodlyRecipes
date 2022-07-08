@@ -200,6 +200,6 @@ Make it 'extra green' by adding a drop or two of green food coloring. 
 
 If you want to get really creative, float some chopped pistachios in the drink!
 
-## Conclusion:
+## **Conclusion:**
 
 The pistachio martini is the perfect drink to wind down after a long day or celebrate a special occasion. It's easy to make and can be tailored to your taste by adding different liqueurs. We hope you enjoy this delicious drink as much as we do!
