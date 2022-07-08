@@ -49,7 +49,7 @@ Pollo tropical is a popular dish in Cuba and the Dominican Republic. With its fl
 
 Any Caribbean food lover will tell you that chicken soup is a must-have dish. This hearty and flavorful soup is perfect for a chilly night, or any time you're craving something warm and comforting. Plus, it's perfect for those times when you need a little comfort food. So fire up the stove and get cooking!
 
-## What is Caribbean Chicken Soup Pollo Tropical?
+## **What is Caribbean Chicken Soup Pollo Tropical?**
 
 It is made with a combination of spices, chicken, black beans, corn, and sometimes rice. The soup is usually served with a side of bread or crackers. Plus, it is perfect for those times when you need a little comfort food. So fire up the stove and get cooking!
 
