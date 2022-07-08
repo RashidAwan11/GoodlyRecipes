@@ -76,99 +76,52 @@ Cutting board
 ## **Ingredients:**
 
 <figure class="wp-block-table is-style-stripes">
-
-  <table>
-
-    <tbody>
-
-      <tr>
-
-        <td>
-
-          <strong>Cabbage, Shredded:</strong>
-
-        </td>
-
-        <td>1 Head</td>
-
-      </tr>
-
-      <tr>
-
-        <td>
-
-          <strong>Grated:</strong>
-
-        </td>
-
-        <td>3 Carrots</td>
-
-      </tr>
-
-      <tr>
-
-        <td>
-
-          <strong>Mayonnaise:</strong>
-
-        </td>
-
-        <td>1/2 Cup</td>
-
-      </tr>
-
-      <tr>
-
-        <td>
-
-          <strong>Vinegar:</strong>
-
-        </td>
-
-        <td>1/4 Cup</td>
-
-     </tr>
-
-      <tr>
-
-        <td>
-
-          <strong>Sugar:</strong>
-
-        </td>
-
-        <td>1/4 Cup</td>
-
-      </tr>
-
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Cabbage, Shredded:</strong>
+        </td>
+        <td>1 Head</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Grated:</strong>
+        </td>
+        <td>3 Carrots</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Mayonnaise:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Vinegar:</strong>
+        </td>
+        <td>1/4 Cup</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
 <tr>
-
-        <td>
-
-          <strong>Salt:</strong>
-
-        </td>
-
-        <td>1 Teaspoon</td>
-
-      </tr>
-
+        <td>
+          <strong>Salt:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
 <tr>
-
-        <td>
-
-          <strong> Black Pepper:</strong>
-
-        </td>
-
-        <td>1/4 Teaspoon</td>
-
-      </tr>
-
- </tbody>
-
-  </table>
-
+        <td>
+          <strong> Black Pepper:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+      </tr>
+ </tbody>
+  </table>
 </figure>
 
 ## **Directions:**
