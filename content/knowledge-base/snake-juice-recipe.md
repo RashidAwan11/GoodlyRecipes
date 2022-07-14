@@ -7,7 +7,10 @@ meta_Keywords: "Snake Juice Recipe "
 url: snake-juice-recipe
 author: Elena Audrey
 date: 2022-07-07T02:52:59.547Z
-updateDate: 2022-07-07T02:52:59.587Z
+updateDate: 2022-07-14T09:13:20.462Z
+featured_Image: /uploads/snake-juice-recipe.webp
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Snake Juice Recipe?
     answer: Yes, you can Freeze the snake juice recipe for up to 3 months. Make sure
