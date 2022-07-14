@@ -6,8 +6,12 @@ seo_title: Publix Sprinkles Sugar Cookies
 meta_Description: Publix Sprinkles Sugar Cookies
 meta_Keywords: Publix Sprinkles Sugar Cookies
 url: publix-sprinkles-sugar-cookies
+author: Elena Audrey
 date: 2022-07-07T02:17:38.429Z
-updateDate: 2022-07-07T02:17:38.510Z
+updateDate: 2022-07-14T09:12:51.239Z
+featured_Image: /uploads/publix-sprinkles-sugar-cookies.webp
+categories:
+  - Recipes
 faqs:
   - question: Can I Freeze Publix Sprinkles Sugar Cookies?
     answer: Yes, you can definitely freeze Publix sprinkles sugar cookies! Just
