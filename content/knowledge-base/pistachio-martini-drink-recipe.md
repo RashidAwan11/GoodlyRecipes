@@ -8,7 +8,10 @@ meta_Keywords: Pistachio Martini Drink Recipe
 url: pistachio-martini-drink-recipe
 author: Elena Audrey
 date: 2022-07-07T02:05:02.066Z
-updateDate: 2022-07-07T02:05:02.142Z
+updateDate: 2022-07-14T09:11:25.158Z
+featured_Image: /uploads/pistachio-martini-drink-recipe.webp
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze Pistachio Martini Drink?
     answer: Yes, you can freeze pistachio martini drinks. Just remember to thaw them
