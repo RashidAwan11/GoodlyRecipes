@@ -5,8 +5,12 @@ meta_Description: |
   Strawberry Surf Rider Recipe
 meta_Keywords: Strawberry Surf Rider Recipe
 url: strawberry-surf-rider-recipe
+author: Elena Audrey
 date: 2022-07-08T06:04:25.622Z
-updateDate: 2022-07-08T06:04:25.672Z
+updateDate: 2022-07-14T09:14:01.632Z
+featured_Image: /uploads/strawberry-surf-rider-recipe.webp
+categories:
+  - Drinks
 faqs:
   - question: Can I Freeze the strawberry surf rider recipe?
     answer: Sure! The strawberry surf rider recipe can easily be frozen. Simply mix
