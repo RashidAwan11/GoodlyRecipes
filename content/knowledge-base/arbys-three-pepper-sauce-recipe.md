@@ -11,6 +11,8 @@ author: Elena Audrey
 date: 2022-07-07T01:13:37.049Z
 updateDate: 2022-07-14T09:10:30.750Z
 featured_Image: /uploads/arby-s-three-pepper-sauce-recipe.webp
+categories:
+  - Sauce
 faqs:
   - question: Can I Freeze Arby’s Three Pepper Sauce Recipe?
     answer: Yes, you can definitely freeze Arby's Three Pepper Sauce recipe! I have
