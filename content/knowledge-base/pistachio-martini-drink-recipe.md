@@ -60,6 +60,8 @@ Second, drinking martinis is a fun way to get some extra antioxidants in our die
 
 This Pistachio Martini recipe is quick and easy to make, and it only takes a few minutes to prepare. Simply combine all of the ingredients in a shaker with ice, shake well, and strain into a chilled glass. Garnish with a pistachio nut and enjoy!
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/tgif-sizzling-chicken-and-shrimp-recipe/" target="_blank" rel="noopener">Tgif Sizzling Chicken and Shrimp</a>**
+
 ## **Equipment & Tools used to make Pistachio Martini Drink:**
 
 There are tools you'll need to make a pistachio martini 
@@ -124,6 +126,8 @@ Mixing glass.
 3. Garnish with a pistachio nut.
 
 Enjoy your Pistachio Martini drink recipe!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/arbys-three-pepper-sauce-recipe/" target="_blank" rel="noopener">Arbys Three Pepper Sauce</a>**
 
 ## **Nutrition Information:**
 
