@@ -46,7 +46,7 @@ faqs:
 ---
 Summertime is the perfect time to enjoy refreshing drinks outside with friends. They're easy to make and taste delicious. Whether you are looking for a new sand bucket recipe to try or just want something cold and refreshing to sip on, these drinks are sure to please.
 
-Sand bucket drinks are made with a variety of liquor, from vodka to tequila. You can make them sweet or tart, and they're perfect for a party. These drinks provide a refreshing way to enjoy your liquor of choice. Here we will share some fun and delicious sand bucket drink recipes that you can make at home.
+[Sand bucket drinks](https://goodlyrecipes.com/sand-bucket-drink-recipe/) are made with a variety of liquor, from vodka to tequila. You can make them sweet or tart, and they're perfect for a party. These drinks provide a refreshing way to enjoy your liquor of choice. Here we will share some fun and delicious sand bucket drink recipes that you can make at home.
 
 So gather your ingredients and let's get started! 
 
