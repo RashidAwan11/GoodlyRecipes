@@ -68,6 +68,8 @@ If you've ever had a store-bought cookie that's been sitting around for days (or
 
 Preparation time will vary depending on how many cookies you're making. For a small batch of 12 cookies, you can expect to spend about 30 minutes total. This includes baking time, cooling time, and decorating time. For a larger batch of 24 cookies, you should budget for about 45 minutes to an hour of total preparation time.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/blue-motorcycle-drink-recipe/" target="_blank" rel="noopener">Blue Motorcycle Drink</a>**
+
 ## **Equipment & Tools used to make Publix Sprinkles Sugar Cookies**
 
 To make Publix sprinkles sugar cookies, you'll need the following equipment:
@@ -117,6 +119,8 @@ Sprinkles
 3. Invert onto cooling rack; cool completely, about 30 minutes.
 4. Spread frosting over the top of the cookie. Sprinkle with nonpareils.
 5. Cut into 12 rectangles, then cut each rectangle diagonally into 2 triangles. Serve immediately or store in an airtight container at room temperature for up to 3 days.
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/sand-bucket-drink-recipe/" target="_blank" rel="noopener">Sand Bucket Drink</a>**
 
 ## **Nutrition Information:**
 
