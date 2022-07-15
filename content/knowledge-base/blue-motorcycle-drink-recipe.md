@@ -42,7 +42,7 @@ faqs:
 ---
 This delightful drink is perfect for any occasion, whether you're kicking back with friends or enjoying a nice cold one on a hot summer day. Made with real fruit juice and vodka, the Blue Motorcycle is sure to become your new go-to drink!
 
-The Blue Motorcycle Drink Recipe is the lightest drink mixer on the market. Its padded tongue and collar add comfort and support, while its sleek design is sure to turn heads. Whether you're whipping up a batch of margaritas for a party or shaking up a single cocktail for yourself, the Blue Motorcycle Drink is perfect for the job.
+The [Blue Motorcycle Drink Recipe](https://goodlyrecipes.com/blue-motorcycle-drink-recipe/) is the lightest drink mixer on the market. Its padded tongue and collar add comfort and support, while its sleek design is sure to turn heads. Whether you're whipping up a batch of margaritas for a party or shaking up a single cocktail for yourself, the Blue Motorcycle Drink is perfect for the job.
 
 ## **What Is A Blue Motorcycle Drink?**
 
