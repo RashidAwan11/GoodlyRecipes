@@ -49,7 +49,7 @@ faqs:
 ---
 This tasty sauce is made with a blend of ancho, chipotle, and jalapeño peppers, and has a perfect balance of heat and sweetness. It's perfect for spicing up sandwiches, chicken, burgers, or whatever else you can think of! Whether you're looking to add some flavor to your meal or just want a tasty dipping sauce, Arby's Three Pepper Sauce Recipe is sure to please. 
 
-Arby's Three Pepper Sauce Recipe is a mouth-watering blend of three different peppers - jalapeño, habanero, and serrano. This fiery sauce will ignite your taste buds and leave you wanting more. It's perfect for those who like it hot. Arby's Three Pepper Sauce Recipe is also great for marinating meats or veggies before grilling. So whether you're looking to add some heat to your next meal or just want a delicious dipping sauce, Arby's Three Pepper Sauce Recipe is sure to please.
+[Arby's Three Pepper Sauce Recipe](https://goodlyrecipes.com/arbys-three-pepper-sauce-recipe/) is a mouth-watering blend of three different peppers - jalapeño, habanero, and serrano. This fiery sauce will ignite your taste buds and leave you wanting more. It's perfect for those who like it hot. Arby's Three Pepper Sauce Recipe is also great for marinating meats or veggies before grilling. So whether you're looking to add some heat to your next meal or just want a delicious dipping sauce, Arby's Three Pepper Sauce Recipe is sure to please.
 
 ## **What is Arby’s Three Pepper Sauce Recipe?**
 
