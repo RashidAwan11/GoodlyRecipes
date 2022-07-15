@@ -11,7 +11,7 @@ seo_title: Blue Motorcycle Drink Recipe
 url: blue-motorcycle-drink-recipe
 author: Elena Audrey
 date: 2022-07-03T18:09:02.790Z
-updateDate: 2022-07-07T01:12:11.460Z
+updateDate: 2022-07-15T17:11:22.506Z
 featured_Image: /uploads/blue-motorcycle-drink-recipe.webp
 categories:
   - Drinks
@@ -194,3 +194,5 @@ For those who like their drinks stronger, add a shot of vodka or rum to the mix.
 ## **Conclusion:**
 
 The blue motorcycle is full of antioxidants and vitamins that can help boost your immune system. It's also a low-calorie drink, so you can enjoy it without feeling guilty. We hope you enjoy this delicious and refreshing cocktail! Cheers!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
