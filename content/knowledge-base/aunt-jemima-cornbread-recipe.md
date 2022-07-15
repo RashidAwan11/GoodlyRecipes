@@ -10,7 +10,7 @@ seo_title: Aunt Jemima Cornbread Recipe
 url: aunt-jemima-cornbread-recipe
 author: Elena Audrey
 date: 2022-07-01T09:16:13.059Z
-updateDate: 2022-07-01T09:16:13.085Z
+updateDate: 2022-07-15T17:10:49.643Z
 featured_Image: /uploads/aunt-jemima-cornbread-recipe-goodlyrecipes.com.webp
 categories:
   - Drinks
@@ -181,3 +181,5 @@ Aunt Jemima Cornbread will be an instant family favorite with its simple
 ## **Conclusion:**
 
 I hope you enjoy this Aunt Jemima cornbread recipe as much as we do. It's simple to make and perfect for a quick snack or side dish. We like to serve ours with honey butter, but it would be great with any type of jam, jelly, or marmalade. Thanks for reading!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
