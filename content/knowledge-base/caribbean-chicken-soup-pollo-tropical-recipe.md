@@ -10,10 +10,10 @@ seo_title: Caribbean Chicken Soup Pollo Tropical Recipe
 url: caribbean-chicken-soup-pollo-tropical-recipe
 author: Elena Audrey
 date: 2022-07-03T18:30:33.172Z
-updateDate: 2022-07-07T01:06:36.663Z
+updateDate: 2022-07-15T17:11:43.656Z
 featured_Image: /uploads/caribbean-chicken-soup-pollo-tropical-recipe.webp
 categories:
-  - Drinks
+  - Chicken
 faqs:
   - answer: Yes, you can freeze this Caribbean chicken soup. You'll need to cook it
       first, then allow it to cool completely before freezing in an airtight
@@ -295,3 +295,5 @@ This soup is delicious on its own, but you can also serve it with some crusty br
 ## **Conclusion:**
 
 Caribbean chicken soup is a delicious, healthy meal that can be made in minutes. This pollo tropical recipe is perfect for a quick weeknight dinner or to take on the go. With just a few simple ingredients, you can have this hearty soup ready to eat in no time. This recipe is easy to follow and will leave you feeling full and satisfied.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
