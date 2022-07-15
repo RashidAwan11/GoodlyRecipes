@@ -9,7 +9,7 @@ meta_Keywords: Ricard Drink Recipe
 url: ricard-drink-recipe
 author: Elena Audrey
 date: 2022-07-04T19:29:36.924Z
-updateDate: 2022-07-07T01:10:54.105Z
+updateDate: 2022-07-15T17:16:16.826Z
 featured_Image: /uploads/ricard-drink-recipe.webp
 categories:
   - Drinks
@@ -200,3 +200,5 @@ Here are a few tips that might help you make the most of this refreshing drink.�
 ## **Conclusion:** 
 
 As you can see, there are many different ways to make a Ricard. If you want to experiment with some of the variations we’ve mentioned or come up with your own, be sure to share them with us! We would love to hear what combinations work best for you. In the meantime, cheers and bottoms up!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
