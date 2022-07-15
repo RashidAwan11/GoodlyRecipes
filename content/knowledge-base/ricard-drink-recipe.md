@@ -40,7 +40,7 @@ Mix it with your favorite beverage or drink it straight however you enjoy it, Ri
 
 ## **What is Ricard Drink?**
 
-Ricard Drink is an energy drink that contains caffeine, taurine, and B-vitamins.
+[Ricard Drink](https://goodlyrecipes.com/ricard-drink-recipe/) is an energy drink that contains caffeine, taurine, and B-vitamins.
 
 It was created in France in the 1970s, and it quickly became popular because it was one of the first drinks to combine caffeine with taurine. Taurine is a naturally occurring amino acid that's found in animal protein sources like meat and seafood.
 
