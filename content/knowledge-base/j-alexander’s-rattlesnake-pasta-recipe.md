@@ -51,7 +51,7 @@ faqs:
 ---
 This rattlesnake pasta recipe from popular restaurant J Alexander’s is sure to please! It’s simple to prepare and only requires a handful of ingredients, so it’s perfect for a busy weeknight. Plus, the creamy sauce and juicy chicken will leave you feeling full and satisfied. Give it a try tonight!
 
-I tried a rattlesnake pasta recipe that I found online and it was amazing! If you’re looking for an easy but delicious pasta dish to try, this is the recipe for you. t’s the perfect meal for a special occasion or just because you feel like something extra delicious.
+I tried a [rattlesnake pasta recipe](https://goodlyrecipes.com/j-alexanders-rattlesnake-pasta-recipe/) that I found online and it was amazing! If you’re looking for an easy but delicious pasta dish to try, this is the recipe for you. t’s the perfect meal for a special occasion or just because you feel like something extra delicious.
 
 ## **What is Rattlesnake Pasta?**
 
