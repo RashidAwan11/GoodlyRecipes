@@ -62,6 +62,8 @@ There are many benefits to drinking sand bucket drinks! First, they are incredib
 
 The time it takes to prepare a sand bucket drink will vary depending on the recipe. However, most recipes can be prepared in under 10 minutes.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/dominican-nutcracker-drink-recipe/" target="_blank" rel="noopener">Dominican Nutcracker Drink</a>**
+
 ## **Equipment & Tools use to make Sand Bucket Drink**
 
 To make a sand bucket drink, you will need:
@@ -131,6 +133,8 @@ To make a sand bucket drink, you will need:
 3. Pour the mixture into the sand pail. 
 4. Garnish with fruit if desired. Serve immediately.
 5. Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/ricard-drink-recipe/" target="_blank" rel="noopener">Ricard Drink</a>**
 
 ## **Nutrition Information:**
 
