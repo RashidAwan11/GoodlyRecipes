@@ -55,7 +55,7 @@ It is made with a combination of spices, chicken, black beans, corn, and sometim
 
 ## **What Are The  Eating Benefits of Caribbean Chicken Soup Pollo Tropical?**
 
-The eating benefits of Caribbean chicken soup Pollo Tropical are that it is a great source of protein, vitamin C, and B6. It also has a moderate amount of fiber and is low in calories. Additionally, it is a good source of antioxidants and contains healthy fats which are beneficial for your heart.
+The eating benefits of [Caribbean chicken soup Pollo Tropical](https://goodlyrecipes.com/caribbean-chicken-soup-pollo-tropical-recipe/) are that it is a great source of protein, vitamin C, and B6. It also has a moderate amount of fiber and is low in calories. Additionally, it is a good source of antioxidants and contains healthy fats which are beneficial for your heart.
 
 ## **How Long Will It Take To Prepare?**
 
