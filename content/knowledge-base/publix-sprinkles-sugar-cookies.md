@@ -46,7 +46,7 @@ faqs:
 ---
 They’re perfect for birthdays, baby showers, weddings, or any day you want to make special. If you looking for cookies to celebrate any occasion. Look no further than Publix Sprinkles Sugar Cookies! Our light and delicate sugar cookies are enrobed in a sweet coating of frosting and topped with colorful sprinkles. 
 
-Publix Sprinkles Sugar Cookies are the perfect treat! Made with only the finest ingredients, these cookies are delicious and sure to please. But what makes them even better is the fun sprinkle tattoos that adorn each one.
+[Publix Sprinkles Sugar Cookies](https://goodlyrecipes.com/publix-sprinkles-sugar-cookies/) are the perfect treat! Made with only the finest ingredients, these cookies are delicious and sure to please. But what makes them even better is the fun sprinkle tattoos that adorn each one.
 
 These festive cookies are perfect for any party or gathering and are sure to put a smile on everyone's face. So next time you're looking for a festive and tasty treat, be sure to pick up a dozen (or two) of Publix Sprinkles Sugar Cookies!
 
