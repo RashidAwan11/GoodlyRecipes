@@ -69,6 +69,8 @@ Another benefit of Rattlesnake pasta is that it is relatively low in calories. T
 
 This rattlesnake pasta recipe is quick and easy to make, taking only 30 minutes from start to finish.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/bbc-cocktail-recipe/" target="_blank" rel="noopener">BBC Cocktail</a>**
+
 ## **Equipment & Tools use to cook Rattlesnake pasta**
 
 All you need to make this rattlesnake pasta recipe is:
@@ -177,6 +179,8 @@ All you need to make this rattlesnake pasta recipe is:
 4. Bring the sauce to a boil then reduce heat to low and simmer for 5 minutes.
 5. Meanwhile, cook fettuccine pasta in a large pot of boiling water according to package instructions. Drain pasta and add it to the chicken sauce.
 6. Toss to combine then sprinkle with chopped parsley. Serve immediately.
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/blue-motorcycle-drink-recipe/" target="_blank" rel="noopener">Blue Motorcycle Drink</a>**
 
 ## **Nutrition Information:**
 
