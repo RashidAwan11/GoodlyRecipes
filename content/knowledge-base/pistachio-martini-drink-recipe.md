@@ -40,7 +40,7 @@ faqs:
       as an afternoon snack. The only potential downside is that they may cause
       you to eat more than you intended, as they are so tasty!
 ---
-Holidays are a time for festive cheer and celebration. The better way to ring in the New Year than with a delicious Pistachio Martini drink recipe. This fun and easy-to-make cocktail is perfect for any party and will leave your guests feeling merry and bright.
+Holidays are a time for festive cheer and celebration. The better way to ring in the New Year than with a delicious [Pistachio Martini drink recipe](https://goodlyrecipes.com/pistachio-martini-drink-recipe/). This fun and easy-to-make cocktail is perfect for any party and will leave your guests feeling merry and bright.
 
 A pistachio martini is a perfect drink to enjoy on a warm day. The nutty flavor of the pistachios pairs perfectly with the smooth vodka, and the orange bitters add a touch of sweetness. So gather your ingredients, get mixing, and cheers to enjoy!
 
