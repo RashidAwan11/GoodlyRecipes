@@ -112,3 +112,5 @@ A spoon
 ## **Conclusion:**
 
 It's been great sharing this delicious strawberry surf rider recipe with you. I hope you'll give it a try and let me know how it turns out! As always, thanks for reading and have a great day.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
