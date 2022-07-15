@@ -7,7 +7,7 @@ meta_Keywords: "Snake Juice Recipe "
 url: snake-juice-recipe
 author: Elena Audrey
 date: 2022-07-07T02:52:59.547Z
-updateDate: 2022-07-14T09:13:20.462Z
+updateDate: 2022-07-15T17:16:53.045Z
 featured_Image: /uploads/snake-juice-recipe.webp
 categories:
   - Drinks
@@ -117,3 +117,5 @@ Experiment and let us know what you come up with!
 ## **Conclusion:**
 
 The next time you’re in the market for an energy drink, give snake juice a try! This recipe is sure to give you a boost of energy that will help you power through your day. Thanks for following along with us as we shared our favorite snake juice recipe with you today. Be sure to come back soon for more fun and informative blog posts.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
