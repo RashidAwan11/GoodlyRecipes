@@ -71,6 +71,8 @@ There are many benefits to eating hui hui chicken. 
 
 This recipe is very easy to follow and shouldn't take you more than 30 minutes to prepare. 
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/arbys-three-pepper-sauce-recipe/" target="_blank" rel="noopener">Arbys Three Pepper Sauce</a>**
+
 ## **Equipment & Tools Use to Cook Hui Hui Chicken:**
 
 1. Wok or large frying pan 
@@ -186,6 +188,8 @@ This recipe is very easy to follow and shouldn't take you more than 30 minutes t
 3. Add the coconut milk, chicken broth, honey, fish sauce, and cilantro leaves and bring to a boil.
 4. Reduce the heat to low and simmer for about 5 minutes or until the sauce has thickened.
 5. Serve over steamed rice and vegetables. Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/aunt-jemima-cornbread-recipe/" target="_blank" rel="noopener">Aunt Jemima Cornbread</a>**
 
 ## Nutrition Information:
 
