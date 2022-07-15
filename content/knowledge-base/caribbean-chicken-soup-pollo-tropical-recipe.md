@@ -61,6 +61,8 @@ The eating benefits of [Caribbean chicken soup Pollo Tropical](https://goodlyrec
 
 This dish takes about 30 minutes to prepare and cook.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/pistachio-martini-drink-recipe/" target="_blank" rel="noopener">Pistachio Martini Drink</a>**
+
 ## **Equipment & Tools Use to Cook Caribbean Chicken Soup Pollo Tropical:**
 
 * Cutting board 
@@ -192,6 +194,8 @@ This dish takes about 30 minutes to prepare and cook.
 5. Stir in the cilantro and serve.
 
 Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/mellow-mushroom-beer-cheese-dip-recipe/" target="_blank" rel="noopener">Mellow Mushroom Beer Cheese Dip</a>**
 
 ## **Nutrition Information:**
 
