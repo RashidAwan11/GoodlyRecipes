@@ -66,6 +66,8 @@ There are countless benefits to BBC Cocktail Drink! This drink is perfect for th
 2. This drink is perfect for people who want to enjoy the benefits of CBD without smoking cannabis.
 3. This drink can also help to reduce anxiety and stress levels.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/ricard-drink-recipe/" target="_blank" rel="noopener">Ricard Drink</a>**
+
 ## **How Long Will It Take To Prepare?**
 
 It usually takes about 5 minutes to prepare a BBC. First, you need to gather your all ingredients. Second, you need to find a blender and add all the ingredients to it. Third, blend until smooth and pour into a glass. Fourth, enjoy your delicious BBC cocktail drink!
@@ -123,6 +125,8 @@ In order to make this classic cocktail, you will need a shaker, some ice, gin, s
 3. Garnish with an olive or a twist of lemon.
 
 **Enjoy your BBC Cocktail!**
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/publix-sprinkles-sugar-cookies/" target="_blank" rel="noopener">Publix Sprinkles Sugar Cookies</a>**
 
 ## **Nutrition Information:**
 
