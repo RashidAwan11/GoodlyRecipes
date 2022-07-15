@@ -128,6 +128,10 @@ Measuring cups and spoons
         <td>To Taste</td>
       </tr>
 
+ </tbody>
+  </table>
+</figure>
+
 ### **Creamy Sauce:**
 
 <tr>
@@ -166,6 +170,10 @@ Measuring cups and spoons
         </td>
         <td>To Tastez</td>
       </tr>
+
+ </tbody>
+  </table>
+</figure>
 
 ## **Directions:**
 
