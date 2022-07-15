@@ -43,7 +43,7 @@ faqs:
       attack and stroke, changes in mood and behavior, fertility problems, and
       death.
 ---
-When the weather outside is frightful, make a delightful drink to warm up your insides! This Dominican Nutcracker drink recipe is perfect for holiday gatherings or winter parties. It's easy to make and will be sure to please your guests. So gather your ingredients and get started on this delicious drink today!
+When the weather outside is frightful, make a delightful drink to warm up your insides! This [Dominican Nutcracker drink recipe](https://goodlyrecipes.com/dominican-nutcracker-drink-recipe/) is perfect for holiday gatherings or winter parties. It's easy to make and will be sure to please your guests. So gather your ingredients and get started on this delicious drink today!
 
 I do love all of the festivities and traditions that come with the holiday season. One of my favorite traditions is getting together with family and friends to make merry and enjoy some delicious Christmas drinks. This year, I'm excited to share with you my recipe for a Dominican nutcracker drink. Enjoy!
 
