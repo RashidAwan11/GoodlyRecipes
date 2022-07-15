@@ -10,7 +10,7 @@ seo_title: BBC Cocktail Recipe
 url: bbc-cocktail-recipe
 author: Elena Audrey
 date: 2022-06-30T20:08:22.816Z
-updateDate: 2022-07-07T01:12:42.610Z
+updateDate: 2022-07-15T17:10:57.551Z
 featured_Image: /uploads/bbc-cocktail-recipe.webp
 categories:
   - Drinks
@@ -188,3 +188,5 @@ Lastly, don't forget the cherry on top!
 ## **Conclusion**
 
 The BBC Cocktail is a delicious drink that is perfect for any occasion. Whether you are hosting a party or just want to relax after a long day, this cocktail will surely hit the spot. Be sure to give it a try!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
