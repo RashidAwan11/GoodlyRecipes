@@ -55,6 +55,8 @@ The Dominican Nutcracker drink is a refreshing and cooling beverage that is perf
 
 It should take around 15 minutes to prepare the Dominican Nutcracker drink recipe. This recipe makes 4 servings. 
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/j-alexanders-rattlesnake-pasta-recipe/" target="_blank" rel="noopener">J Alexander’s Rattlesnake Pasta</a>**
+
 ## **Equipment & Tools used for Dominican Nutcracker drink:**
 
 1. blender
@@ -123,6 +125,8 @@ It should take around 15 minutes to prepare the Dominican Nutcracker drink recip
 ## **Instructions:**
 
 In a medium saucepan, combine the coconut water, almond milk, cinnamon, nutmeg, and cloves. Bring to a simmer over medium heat, stirring occasionally. Add the condensed milk and sugar and stir until dissolved. Add the butter and stir until melted. Remove from the heat and let cool slightly. Serve over ice or refrigerate for later. Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/hui-hui-chicken-recipe/" target="_blank" rel="noopener">Hui Hui Chicken</a>**
 
 ## **Nutrition Information:**
 
