@@ -11,10 +11,10 @@ seo_title: J Alexander’s Rattlesnake Pasta Recipe
 url: j-alexanders-rattlesnake-pasta-recipe
 author: Elena Audrey
 date: 2022-07-04T02:06:08.809Z
-updateDate: 2022-07-07T01:08:49.527Z
+updateDate: 2022-07-15T17:13:17.431Z
 featured_Image: /uploads/j-alexanders-rattlesnake-pasta-recipe.webp
 categories:
-  - Drinks
+  - Recipes
 faqs:
   - question: Can I Freeze Rattlesnake pasta?
     answer: Yes! Rattlesnake pasta can definitely be frozen. In fact, you can freeze
@@ -264,3 +264,5 @@ No matter how you choose to enjoy it, this rattlesnake pasta recipe is sure to p
 ## **Conclusion**
 
 Rattlesnake pasta may seem like an odd dish, but it is actually a regional favorite in the American Southwest. This recipe is perfect for adventurous eaters who want to try something new. The creamy sauce and spicy sausage give this pasta dish lots of flavors, while the diced tomatoes add a touch of sweetness.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
