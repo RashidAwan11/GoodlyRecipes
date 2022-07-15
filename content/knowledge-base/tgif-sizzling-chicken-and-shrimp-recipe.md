@@ -66,6 +66,8 @@ This dish is perfect for those who are looking for a meal that is both flavorful
 
 This dish is fairly simple to make and won't take you more than 30 minutes to prepare. So it's perfect for those busy weeknights when you're short on time.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/mellow-mushroom-beer-cheese-dip-recipe/" target="_blank" rel="noopener">Mellow Mushroom Beer Cheese Dip</a>**
+
 ## **Equipment & Tools Use to Cook Tgif Sizzling Chicken and Shrimp Recipe:**
 
 In order to make this dish, you will need the following equipment:
@@ -171,6 +173,8 @@ Measuring cups and spoons
 2. In a large bowl, combine chicken, shrimp, pineapple juice, flour, paprika, garlic powder, salt, and pepper.
 3. In a separate bowl, whisk together all of the ingredients for the creamy sauce.
 4. Pour the mixture into a baking dish and bake for 25 minutes, or until the chicken is cooked through.
+
+Also Read About the Recipe of: <a href="https://goodlyrecipes.com/pistachio-martini-drink-recipe/" target="_blank" rel="noopener">Pistachio Martini Drink</a>
 
 ## **Nutrition Information:**
 
