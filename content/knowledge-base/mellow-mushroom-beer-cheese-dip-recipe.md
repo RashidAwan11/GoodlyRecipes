@@ -49,7 +49,7 @@ faqs:
 ---
 This is the perfect combination of cheese and beer flavor. You can make it at home in just a few simple steps, and it's sure to be a hit with your friends and family. So get started on your own delicious version of Mellow Mushroom Beer Cheese Dip today!
 
-The mellow Mushroom recipe is simple to make and perfectly spicy. Plus, it's the perfect excuse to enjoy a cold brewski while you cook. So gather your ingredients and get ready to indulge in some cheesy goodness. Cheers!
+The [mellow Mushroom recipe](https://goodlyrecipes.com/mellow-mushroom-beer-cheese-dip-recipe/) is simple to make and perfectly spicy. Plus, it's the perfect excuse to enjoy a cold brewski while you cook. So gather your ingredients and get ready to indulge in some cheesy goodness. Cheers!
 
 ## **What is Mellow Mushroom Beer Cheese?**
 
