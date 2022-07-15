@@ -9,10 +9,10 @@ meta_Keywords: Tgif Sizzling Chicken and Shrimp Recipe
 url: tgif-sizzling-chicken-and-shrimp-recipe
 author: Elena Audrey
 date: 2022-07-04T19:36:38.911Z
-updateDate: 2022-07-07T01:11:45.758Z
+updateDate: 2022-07-15T17:17:27.950Z
 featured_Image: /uploads/tgif-sizzling-chicken-and-shrimp-recipe.webp
 categories:
-  - Drinks
+  - Chicken
 faqs:
   - question: Can I Freeze Tgif Sizzling Chicken and Shrimp Recipe?
     answer: Yes, you can freeze this dish. Just be sure to store it in an airtight
@@ -203,3 +203,5 @@ For an extra pop of color and flavor, top your dish off with some chopped green 
 ## **Conclusion:**
 
 Thanks for sticking with us to the end of this delicious post. We hope you’ll give our Tgif Sizzling Chicken and Shrimp Recipe a try. It’s perfect for summertime grilling! And if you do, be sure to let us know how it turns out by leaving a comment below. Happy cooking!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
