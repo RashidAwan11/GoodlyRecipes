@@ -62,6 +62,8 @@ When it comes to snake juice recipes, there are a few benefits that stand out. S
 
 The great thing about the Snake Juice Recipe is that it's a very simple drink to make. In fact, it only takes a few minutes to prepare. Simply mix all of the ingredients together and enjoy. It's that easy!
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/hui-hui-chicken-recipe/" target="_blank" rel="noopener">Hui Hui Chicken</a>**
+
 ## **Equipment & Tools used to make Snake Juice Recipe**
 
 Vodka
@@ -97,6 +99,8 @@ Ice cubes
 3. Strain into a cocktail shaker filled with fresh ice cubes.
 4. Shake well and strain into a chilled martini glass.
 5. Garnish with a lemon twist and serve.
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/primanti-brothers-cole-slaw-recipe/" target="_blank" rel="noopener">Primanti Brothers' Cole Slaw</a>**
 
 ## **Nutrition Information:**
 
