@@ -66,6 +66,8 @@ There are many benefits to eating the strawberry surf rider recipe! The antioxid
 
 This strawberry surf rider recipe is quick and easy to make, taking only a few minutes to prepare. Simply blend the ingredients together and enjoy!
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/j-alexanders-rattlesnake-pasta-recipe/" target="_blank" rel="noopener">J Alexander’s Rattlesnake Pasta</a>**
+
 ## **Equipment & Tools used to make Strawberry Surf Rider Recipe:**
 
 A blender
@@ -88,6 +90,8 @@ A spoon
 2. Enjoy as is or pour into a glass and enjoy!
 3. For an extra special treat, top with whipped cream and a strawberry.
 4. Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/pollo-tropical-chicken-copycat-recipe/" target="_blank" rel="noopener">Pollo Tropical Chicken Copycat</a>**
 
 ## **Nutrition Information:**
 
