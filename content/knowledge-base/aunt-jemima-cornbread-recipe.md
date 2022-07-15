@@ -47,7 +47,7 @@ faqs:
       generations of families, Aunt Jemima cornbread is a time-honored
       tradition.
 ---
-Mama always said that there's nothing better than a piping hot piece of cornbread straight from the oven. And she was right! This Aunt Jemima Cornbread Recipe is perfect for a quick and easy side dish. You can even serve it with honey butter or jam for a little extra sweetness. So dig in and enjoy!
+Mama always said that there's nothing better than a piping hot piece of cornbread straight from the oven. And she was right! This [Aunt Jemima Cornbread Recipe](https://goodlyrecipes.com/aunt-jemima-cornbread-recipe/) is perfect for a quick and easy side dish. You can even serve it with honey butter or jam for a little extra sweetness. So dig in and enjoy!
 
 It's perfect for a casual weeknight dinner or as part of a larger Thanksgiving feast! This recipe is simple to follow and will yield a fluffy, golden brown cornbread that everyone will love. Get started on this amazing dish today!
 
