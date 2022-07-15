@@ -59,6 +59,8 @@ There are several benefits to eating Pollo Tropical chicken copycat. First, it i
 
 This dish is quick and easy to make. The chicken only needs to marinate for a few hours, so it's perfect for those busy weeknights. And, if you're using pre-cooked chicken, the dish can be on the table in less than 30 minutes.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/aunt-jemima-cornbread-recipe/" target="_blank" rel="noopener">Aunt Jemima Cornbread</a>**
+
 ## **Equipment & Tools Use to Cook Pollo Tropical Chicken Copycat:**
 
 * A grill or grill pan
@@ -153,6 +155,8 @@ This dish is quick and easy to make. The chicken only needs to marinate for a fe
 5. Preheat grill to medium-high heat. 
 6. Grill chicken for 8-10 minutes per side, or until cooked through. 
 7. Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/strawberry-surf-rider-recipe/" target="_blank" rel="noopener">Strawberry Surf Rider</a>**
 
 ## **Nutrition Information:**
 
