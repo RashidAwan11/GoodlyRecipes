@@ -10,7 +10,7 @@ seo_title: Sand Bucket Drink Recipe
 url: sand-bucket-drink-recipe
 author: Elena Audrey
 date: 2022-07-04T02:21:08.094Z
-updateDate: 2022-07-07T01:11:22.060Z
+updateDate: 2022-07-15T17:16:37.124Z
 featured_Image: /uploads/sand-bucket-drink-recipe.webp
 categories:
   - Drinks
@@ -212,3 +212,5 @@ We hope you enjoy these sand bucket drink recipes! They are perfect for summerti
 ## **Conclusion:** 
 
 Thanks for following along on our journey to make the perfect sand bucket drink recipe. We hope you’ll give it a try yourself and let us know how it goes! Be sure to check out our other recipes while you’re here.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
