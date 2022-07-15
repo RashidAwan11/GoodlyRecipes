@@ -50,6 +50,8 @@ B-vitamins are water-soluble vitamins that play important roles in energy produc
 
 This Ricard Drink recipe is quick and easy to make, it'll only take you a few minutes!
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/caribbean-chicken-soup-pollo-tropical-recipe/" target="_blank" rel="noopener">Caribbean Chicken Soup</a>**
+
 ## **Equipment & Tools use to cook Ricard Drink:**
 
 To make this Ricard Drink recipe, you'll need the following:
@@ -130,6 +132,8 @@ Assuming you're asking how to drink Ricard effectively (as in, how to get drunk 
 Make sure the bottle is really cold before you start. This will help make the taste more bearable. Pour yourself a small amount to start with and drink it quickly. It's going to taste horrible but it's better to get it over with quickly. As you start drinking more, you'll find that the taste becomes more tolerable. Try adding a few drops of lemon juice or lime juice to your Ricard this can help take away some of the bitterness. sip slowly and savor the anise flavor rather than downing it like a shot. And finally, remember that Ricard is a strong drink so drink responsibly!
 
 Cheers!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/publix-sprinkles-sugar-cookies/" target="_blank" rel="noopener">Publix Sprinkles Sugar Cookies</a>**
 
 ## **Nutrition Information:**
 
