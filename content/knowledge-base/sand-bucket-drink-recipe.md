@@ -50,7 +50,7 @@ Summertime is the perfect time to enjoy refreshing drinks outside with friends. 
 
 So gather your ingredients and let's get started! 
 
-## What is Sand Bucket Drink?
+## **What is Sand Bucket Drink?**
 
 A sand bucket drink is a mixed drink that is served in a sand pail. It is usually made with vodka, rum, or tequila, and can be mixed with various fruit juices or sodas. The resulting drink is often very sweet and fruity.
 
