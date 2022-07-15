@@ -46,7 +46,7 @@ faqs:
       of sodium, which can lead to heart disease, stroke, and other health
       complications.
 ---
-As the weather starts to cool down, nothing sounds better than a delicious and hearty home-cooked meal. This Tgif sizzling chicken and shrimp recipe is perfect for a fall dinner party! The succulent shrimp and crispy chicken are smothered in a flavorful creamy sauce and served over a bed of rice. So good, you'll definitely want to save this recipe for future dinners!
+As the weather starts to cool down, nothing sounds better than a delicious and hearty home-cooked meal. This [Tgif sizzling chicken and shrimp recipe](https://goodlyrecipes.com/tgif-sizzling-chicken-and-shrimp-recipe/) is perfect for a fall dinner party! The succulent shrimp and crispy chicken are smothered in a flavorful creamy sauce and served over a bed of rice. So good, you'll definitely want to save this recipe for future dinners!
 
 Tgif Sizzling Chicken and Shrimp is perfect for your next party! With tons of flavor and minimal prep time, this dish is sure to be a hit with your guests.
 
