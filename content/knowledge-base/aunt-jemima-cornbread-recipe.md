@@ -59,6 +59,8 @@ Aunt Jemima cornbread is a pre-made mix that can be used to make cornbread. Aunt
 
 There are many benefits to eating Aunt Jemima Cornbread. First, cornbread is a good source of fiber. It is also low in fat and cholesterol. Additionally, cornbread is a good source of vitamins and minerals.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/snake-juice-recipe/" target="_blank" rel="noopener">Snake Juice</a>**
+
 ## **How Long Will It Take To Prepare?**
 
 This Aunt Jemima Cornbread Recipe is quick and easy to make. It will only take a few minutes to prepare the cornbread mix and then another 15-20 minutes to bake.
@@ -103,6 +105,8 @@ All you need to make this Aunt Jemima Cornbread Recipe is a bowl, a whisk, a mea
 5. Serve with honey butter or jam.
 
 Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/sand-bucket-drink-recipe/" target="_blank" rel="noopener">Sand Bucket Drink</a>**
 
 ## **Nutrition Information:**
 
