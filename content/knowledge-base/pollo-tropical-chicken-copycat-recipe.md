@@ -45,7 +45,7 @@ faqs:
 ---
 If you love Pollo Tropical chicken, you'll love this copycat recipe! It's easy to make and tastes just like the real thing. Plus, it's a lot cheaper than buying it from a restaurant. This recipe is perfect for those who love spicy Latin flavors. It's a great way to use up leftover chicken. 
 
-Pollo Tropical copycat recipe for a quick weeknight meal, and best of all, it's affordable! So get your kitchen ready and cook up some amazing chicken tonight! Enjoy!
+[Pollo Tropical copycat recipe](https://goodlyrecipes.com/pollo-tropical-chicken-copycat-recipe/) for a quick weeknight meal, and best of all, it's affordable! So get your kitchen ready and cook up some amazing chicken tonight! Enjoy!
 
 ## **What Is Pollo Tropical Chicken Copycat?**
 
