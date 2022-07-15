@@ -368,10 +368,6 @@ There's something about a hot, fresh chicken dish that just makes everyone happy
         <td>1/2 Cup</td>
       </tr>
 
-```
-
-```
-
 <tr>
         <td>
           <strong>Fish Sauce:</strong>
@@ -478,10 +474,6 @@ There's something special about a homemade meal. The time and effort that goes i
         </td>
         <td>1/2 Cup</td>
       </tr>
-
-```
-
-```
 
 <tr>
         <td>
