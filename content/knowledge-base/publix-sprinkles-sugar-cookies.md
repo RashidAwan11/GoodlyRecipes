@@ -60,9 +60,7 @@ They're made with award-winning Pillsbury Extra Rich Frosting and topped with vi
 
 When it comes to sugar cookies, there are few brands that can beat Publix. But what exactly makes their cookies so special? Let's take a look at some of the benefits of Publix sprinkles sugar cookies:
 
-They're Always Freshly Baked
-
-If you've ever had a store-bought cookie that's been sitting around for days (or weeks), then you know how unpleasant they can be. Hard, dry, and often stale-tasting, these kinds of cookies are a far cry from the fresh-baked treats we all crave. Fortunately, that's never a problem with Publix sprinkles sugar cookies. Because they're always baked fresh .
+They're Always Freshly Baked, If you've ever had a store-bought cookie that's been sitting around for days (or weeks), then you know how unpleasant they can be. Hard, dry, and often stale-tasting, these kinds of cookies are a far cry from the fresh-baked treats we all crave. Fortunately, that's never a problem with Publix sprinkles sugar cookies. Because they're always baked fresh .
 
 ## **How Long Will It Take To Prepare?**
 
