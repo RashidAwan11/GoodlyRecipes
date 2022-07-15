@@ -189,6 +189,10 @@ Cheers!
         <td>40 mg</td>
       </tr>
 
+ </tbody>
+  </table>
+</figure>
+
 ## **Amazing Serving Suggestions for Ricard Drink:**
 
 Ricard is best served over ice, in a tall glass or cup.
