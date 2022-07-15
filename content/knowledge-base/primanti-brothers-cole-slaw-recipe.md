@@ -39,7 +39,7 @@ faqs:
 ---
 It is a simple, yet delicious way to enjoy this classic dish. made with cabbage, carrots, and a variety of other vegetables, this slaw is perfect for any picnic or cookout. to make this recipe.
 
-There's something about a Primanti Brothers sandwich that just makes your taste buds jump for joy. Maybe it's the combination of tender roast beef, creamy coleslaw, and crispy french fries all stacked between two slices of bread. Thanks to this primanti brothers' cole slaw recipe, now you can! Just follow the simple steps and in no time you'll be enjoying a tasty sandwich like a pro.
+There's something about a Primanti Brothers sandwich that just makes your taste buds jump for joy. Maybe it's the combination of tender roast beef, creamy coleslaw, and crispy french fries all stacked between two slices of bread. Thanks to this [primanti brothers' cole slaw recipe](https://goodlyrecipes.com/primanti-brothers-cole-slaw-recipe/), now you can! Just follow the simple steps and in no time you'll be enjoying a tasty sandwich like a pro.
 
 ## **What is Primanti brothers’ cole slaw?**
 
