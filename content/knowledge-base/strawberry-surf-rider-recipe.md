@@ -52,7 +52,7 @@ faqs:
 ---
 Summertime is the perfect time to enjoy a cold, refreshing smoothie. This strawberry surf rider recipe is perfect for those hot days when you want something sweet and satisfying. Between day camp and swim lessons, not to mention air conditioning and gasoline prices, keeping costs down can seem like a daunting task. But with a little bit of creativity and planning, you can enjoy your summer without breaking the bank. Here are some tips to help you save money this summer.
 
-Summer is the time for all things refreshing, from poolside hangs to beach days. And this Strawberry Surf Rider recipe will ensure that your day by the water is as delicious as can be. Plus, it's easy to make – so you can spend more time enjoying your summertime!
+Summer is the time for all things refreshing, from poolside hangs to beach days. And this [Strawberry Surf Rider recipe](https://goodlyrecipes.com/strawberry-surf-rider-recipe/) will ensure that your day by the water is as delicious as can be. Plus, it's easy to make so you can spend more time enjoying your summertime!
 
 ## **What is Strawberry Surf Rider?**
 
