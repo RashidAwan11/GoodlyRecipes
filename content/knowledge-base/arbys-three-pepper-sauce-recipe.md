@@ -240,6 +240,10 @@ In order to make Arby’s Three Pepper Sauce Recipe, you will need a blender or 
         <td>0g</td>
       </tr>
 
+</tbody>
+  </table>
+</figure>
+
 ## **Amazing Serving Suggestions for Arby’s Three Pepper Sauce :**
 
 This fast-food chain’s Three Pepper Sauce is amazing on more than just their sandwiches. Here are a few serving suggestions that are sure to please your taste buds:
