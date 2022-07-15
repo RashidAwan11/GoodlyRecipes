@@ -8,7 +8,7 @@ meta_Keywords: Pistachio Martini Drink Recipe
 url: pistachio-martini-drink-recipe
 author: Elena Audrey
 date: 2022-07-07T02:05:02.066Z
-updateDate: 2022-07-14T09:11:25.158Z
+updateDate: 2022-07-15T17:14:27.387Z
 featured_Image: /uploads/pistachio-martini-drink-recipe.webp
 categories:
   - Drinks
@@ -206,3 +206,5 @@ If you want to get really creative, float some chopped pistachios in the drink!
 ## **Conclusion:**
 
 The pistachio martini is the perfect drink to wind down after a long day or celebrate a special occasion. It's easy to make and can be tailored to your taste by adding different liqueurs. We hope you enjoy this delicious drink as much as we do!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
