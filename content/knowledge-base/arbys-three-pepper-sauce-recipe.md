@@ -75,6 +75,8 @@ Adds spice to any meal
 
 Arby’s Three Pepper Sauce is also a great vegan option, as it does not contain any animal products.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/tgif-sizzling-chicken-and-shrimp-recipe/" target="_blank" rel="noopener">Tgif Sizzling Chicken and Shrimp</a>**
+
 ## **How Long Will It Take To Prepare?**
 
 Arby’s Three Pepper Sauce is a quick and easy recipe that can be made in under 10 minutes. Simply combine all of the ingredients in a blender or food processor and blend until smooth. Then, transfer the sauce to a jar or container and store it in the fridge for up to 2 weeks.
@@ -181,6 +183,8 @@ In order to make Arby’s Three Pepper Sauce Recipe, you will need a blender or 
 1. Add all ingredients to a blender or food processor and blend until smooth. 
 2. Transfer the sauce to a jar or container and store it in the fridge for up to 2 weeks.
 3. Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/strawberry-surf-rider-recipe/" target="_blank" rel="noopener">Strawberry Surf Rider</a>**
 
 ## **Nutrition Information:**
 
