@@ -50,7 +50,7 @@ faqs:
 ---
 In honor of this most classic and beloved of cocktails, the BBC is sharing its recipe for the perfect martini. Whether you like yours shaken or stirred, with dry or sweet vermouth, we’ve got you covered. So raise a glass of gin and enjoy one of the simplest yet most elegant recipes around. 
 
-There's nothing quite like kicking back with your favorite cocktail after a long day. Here we'll be sharing our all-time favorite BBC drink recipes with you. So sit back, relax, and let us show you how it's done! Cheers!
+There's nothing quite like kicking back with your favorite cocktail after a long day. Here we'll be sharing our all-time favorite [BBC drink recipes](https://goodlyrecipes.com/bbc-cocktail-recipe/) with you. So sit back, relax, and let us show you how it's done! Cheers!
 
 ## **What is a BBC Cocktail?**
 
