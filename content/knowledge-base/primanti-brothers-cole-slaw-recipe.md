@@ -61,6 +61,8 @@ There are many benefits to the Primanti brothers’ cole slaw recipe.
 
 This recipe is very easy to follow and should only take about 15 minutes to prepare.
 
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/bbc-cocktail-recipe/" target="_blank" rel="noopener">BBC Cocktail</a>**
+
 ## **Equipment & Tools use to cook Primanti brothers’ cole slaw recipe**
 
 All you need to make this recipe 
@@ -130,6 +132,8 @@ Cutting board
 2. Mix well until all ingredients are coated with the dressing.
 3. Cover and refrigerate for at least 1 hour before serving. 
 4. Enjoy!
+
+**Also Read About the Recipe of: <a href="https://goodlyrecipes.com/snake-juice-recipe/" target="_blank" rel="noopener">Snake Juice</a>**
 
 ## **Nutrition Information:**
 
