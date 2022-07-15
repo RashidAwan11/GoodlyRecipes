@@ -49,7 +49,7 @@ faqs:
 ---
 If you're looking for an easy and delicious weeknight meal, look no further than this Hui Hui chicken recipe. Tender chicken thighs are simmered in a flavorful coconut curry sauce until cooked through. Serve with steamed rice and vegetables for a complete meal that your whole family will love!
 
-Is there anything more comforting than a warm and hearty chicken dish on a cold winter night? This Hui Hui chicken recipe is perfect for those chilly days, and it's easy to make too! Just follow simple steps, and you'll be able to enjoy a delicious home-cooked meal in no time. Thanks for giving this recipe a try!
+Is there anything more comforting than a warm and hearty chicken dish on a cold winter night? This [Hui Hui chicken recipe](https://goodlyrecipes.com/hui-hui-chicken-recipe/) is perfect for those chilly days, and it's easy to make too! Just follow simple steps, and you'll be able to enjoy a delicious home-cooked meal in no time. Thanks for giving this recipe a try!
 
 ## **What Is Hui Hui Chicken?**
 
