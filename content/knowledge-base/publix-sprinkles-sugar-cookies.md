@@ -8,7 +8,7 @@ meta_Keywords: Publix Sprinkles Sugar Cookies
 url: publix-sprinkles-sugar-cookies
 author: Elena Audrey
 date: 2022-07-07T02:17:38.429Z
-updateDate: 2022-07-14T09:12:51.239Z
+updateDate: 2022-07-15T17:15:50.445Z
 featured_Image: /uploads/publix-sprinkles-sugar-cookies.webp
 categories:
   - Recipes
@@ -201,3 +201,5 @@ If you're looking for some creative and delicious ways to serve Publix sprinkles
 ## **Conclusion:**
 
 The Publix Sprinkles Sugar Cookies are a must-try for any sugar cookie lover. They’re soft, fluffy, and have just the right amount of sweetness. We highly recommend giving them a try! The end result? The cookies were pretty good, but not as amazing as I had hoped. They didn’t have that iconic Publix flavor that I love. In the future, I may experiment with the recipe a bit to see if I can get them closer to the taste I remember.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
