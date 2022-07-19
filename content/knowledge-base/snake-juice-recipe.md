@@ -128,7 +128,79 @@ Ice cubes
 
 ## **Nutrition Information:**
 
- Servings: 1 | Calories: 120 | Carbohydrates: 0g | Protein: 0g | Fat: 0g | Saturated Fat: 0g | Cholesterol: 0mg | Sodium: 0mg | Fiber: 0g | Sugar: 0g | 
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong> Servings:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>120</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>0g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td> 0g</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>0 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td> 0 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>0 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td> 0 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>0 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td> 0 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong> Sodium:</strong>
+        </td>
+        <td>0mg</td>
+      </tr>
+
+ </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Snake Juice Recipe :**
 
