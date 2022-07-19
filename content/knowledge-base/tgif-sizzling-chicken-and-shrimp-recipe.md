@@ -134,6 +134,10 @@ Measuring cups and spoons
 
 ### **Creamy Sauce:**
 
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+
 <tr>
         <td>
           <strong>Sour Cream:</strong>
