@@ -137,8 +137,7 @@ Measuring cups and spoons
 <figure class="wp-block-table is-style-stripes">
   <table>
     <tbody>
-
-\    <tr>
+      <tr>
         <td>
           <strong>Sour Cream:</strong>
         </td>
