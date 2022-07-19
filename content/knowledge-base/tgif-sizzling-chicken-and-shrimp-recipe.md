@@ -189,27 +189,71 @@ Also Read About the Recipe of: <a href="https://goodlyrecipes.com/pistachio-mart
 
 ## **Nutrition Information:**
 
-Serving size: 1/4 of the recipe
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Serving size:</strong>
+        </td>
+        <td>1/4 of the recipe</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>400</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td> 17g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated fat:</strong>
+        </td>
+        <td> 3.5 g</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>215 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>1260 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>5g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>32g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td> 28 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fiber::</strong>
+        </td>
+        <td> 1 g</td>
+      </tr>
 
-Calories: 400
-
-Fat: 17 g
-
-Saturated fat: 3.5 g
-
-Cholesterol: 215 mg
-
-Sodium: 1260 mg
-
-Carbohydrates: 28 g
-
-Fiber: 1 g
-
-Sugar: 5 g 
-
-Protein: 32 g
-
-## **Amazing Serving Suggestions for Tgif Sizzling Chicken and Shrimp Recipe:**
+**g Serving Suggestions for Tgif Sizzling Chicken and Shrimp Recipe:**
 
 This dish is best served over a bed of rice. But if you're looking for a healthier option, you can also serve it with quinoa or cauliflower rice.
 
