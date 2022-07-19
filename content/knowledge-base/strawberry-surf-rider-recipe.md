@@ -78,11 +78,43 @@ A spoon
 
 ## **Ingredients:**
 
-* 1 cup of fresh strawberries, hulled and halved
-* 1/2 cup of unsweetened vanilla almond milk
-* 1/2 cup of plain Greek yogurt
-* 1 scoop of vanilla protein powder
-* 1 tablespoon of honey
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Fresh Strawberries,Hulled,Halved:</strong>
+        </td>
+        <td> 1 cup </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Unsweetened Vanilla Almond Milk:</strong>
+        </td>
+        <td>1/2 cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Plain Greek yogurt:</strong>
+        </td>
+        <td>1/2 cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Vanilla Protein Powde:</strong>
+        </td>
+        <td>1 scoop</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Honey:</strong>
+        </td>
+        <td>1 tablespoon</td>
+      </tr>
+
+ </tbody>
+  </table>
+</figure>
 
 ## **Directions:**
 
