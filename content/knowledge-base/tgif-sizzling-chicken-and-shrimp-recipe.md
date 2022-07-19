@@ -1,7 +1,7 @@
 ---
 title: Tgif Sizzling Chicken and Shrimp Recipe
 type: posts
-draft: true
+draft: false
 seo_title: Tgif Sizzling Chicken and Shrimp Recipe
 meta_Description: |
   Tgif Sizzling Chicken and Shrimp Recipe
