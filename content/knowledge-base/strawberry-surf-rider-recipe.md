@@ -138,7 +138,7 @@ A spoon
       </tr>
       <tr>
         <td>
-          <strong>Calories: 120:</strong>
+          <strong>Calories:</strong>
         </td>
         <td>120</td>
       </tr>
@@ -171,7 +171,9 @@ A spoon
           <strong>Protein:</strong>
         </td>
         <td>8 g</td>
-      </tr> </tbody>
+      </tr> 
+
+</tbody>
   </table>
 </figure>
 
