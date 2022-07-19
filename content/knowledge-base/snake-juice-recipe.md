@@ -84,13 +84,37 @@ Ice cubes
 
 ## **Ingredients:**
 
-1-ounce Vodka
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Vodka:</strong>
+        </td>
+        <td>1-Ounce</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Gin:</strong>
+        </td>
+        <td>1-Ounce</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Tequila:</strong>
+        </td>
+        <td>1-Ounce</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Rum:</strong>
+        </td>
+        <td>1-Ounce</td>
+     </tr>
 
-1-ounce Gin
-
-1-ounce Tequila
-
-1-ounce Rum
+</tbody>
+  </table>
+</figure>
 
 ## **Directions:**
 
