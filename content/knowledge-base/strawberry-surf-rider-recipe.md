@@ -127,13 +127,53 @@ A spoon
 
 ## **Nutrition Information:**
 
-* 1 serving = 1 cup
-* Calories: 120
-* Fat: 2.5 g
-* Carbs: 16 g
-* Fiber: 3 g
-* Sugar: 9 g
-* Protein: 8 g
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>1 serving:</strong>
+        </td>
+        <td>1 cup </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories: 120:</strong>
+        </td>
+        <td>120</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>2.5 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Carbs:</strong>
+        </td>
+        <td>16 g</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>3 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td> 9 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>8 g</td>
+      </tr> </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Strawberry Surf Rider Recipe:**
 
