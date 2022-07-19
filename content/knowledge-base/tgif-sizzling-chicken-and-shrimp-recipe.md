@@ -257,7 +257,7 @@ Also Read About the Recipe of: <a href="https://goodlyrecipes.com/pistachio-mart
   </table>
 </figure>
 
-**g Serving Suggestions for Tgif Sizzling Chicken and Shrimp Recipe:**
+## **Serving Suggestions for Tgif Sizzling Chicken and Shrimp Recipe:**
 
 This dish is best served over a bed of rice. But if you're looking for a healthier option, you can also serve it with quinoa or cauliflower rice.
 
