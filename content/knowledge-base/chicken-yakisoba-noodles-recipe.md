@@ -95,15 +95,15 @@ Sodium: 1560 milligrams
 
 ## **Amazing Serving Suggestions for Chicken Yakisoba Noodles Recipe:**
 
-\-Serve with a side of steamed rice
+Serve with a side of steamed rice
 
-\-Top with a fried egg for extra protein
+Top with a fried egg for extra protein
 
-\-Add some Sriracha sauce for a spicy kick
+Add some Sriracha sauce for a spicy kick
 
-\-Sprinkle with green onions for extra flavor
+Sprinkle with green onions for extra flavor
 
-* drizzle with sesame oil before serving.
+drizzle with sesame oil before serving.
 
 ## **Conclusion:**
 
