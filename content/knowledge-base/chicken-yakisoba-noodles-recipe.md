@@ -62,17 +62,17 @@ This delicious dish can be on the table in as little as 30 minutes. So if you're
 
 ## **Equipment & Tools Use to Cook Chicken Yakisoba Noodles Recipe:**
 
-\-1 skillet
+1 Skillet
 
-\-1 pot
+1 Pot
 
-\-1 cutting board
+1 Cutting Board
 
-\-1 knife
+1 Knife
 
-\-1 wooden spoon
+1 Wooden Spoon
 
-\-1 strainer
+1 Strainer
 
 ## **Ingredients:**
 
