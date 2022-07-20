@@ -36,8 +36,6 @@ faqs:
       reaction after eating keto coconut macaroons, it is recommended that you
       discontinue use and consult with a healthcare professional.
 ---
-# **Keto Coconut Macaroons Recipe**
-
 With this Keto Coconut Macaroons Recipe, you can enjoy the taste of delicious macaroons without having to worry about all the sugar! These treats are perfect for anyone following a ketogenic diet, or anyone who is looking for a healthier alternative to traditional desserts. 
 
 Made with shredded coconut, coconut flour, and almond flour, these macaroons are full of healthy fats that will help you stay satiated and energized. And, they're sweetened with erythritol, a natural sugar alcohol that won't spike your blood sugar levels. Enjoy them as a snack or dessert, anytime!
