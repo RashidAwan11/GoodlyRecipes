@@ -79,9 +79,9 @@ In order to make this casserole, you'll need a few simple kitchen tools:
 
 ## **Ingredients:**
 
-\    1 lb. chicken breasts, cut into bite-sized pieces
+   1 lb. chicken breasts, cut into bite-sized pieces
 
-\    2 zucchini, diced
+   2 zucchini, diced
 
 \    1 onion, diced
 
