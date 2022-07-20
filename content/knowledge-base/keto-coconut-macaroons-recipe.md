@@ -1,13 +1,10 @@
 ---
 title: Keto Coconut Macaroons Recipe
-type: posts
-draft: true
 seo_title: Keto Coconut Macaroons Recipe
 meta_Description: Keto Coconut Macaroons Recipe
 meta_Keywords: Keto Coconut Macaroons Recipe
-url: 3-ingredient-keto-coconut-macaroons
-date: 2022-07-20T10:08:31.462Z
-updateDate: 2022-07-20T10:08:31.524Z
+date: 2022-07-20T10:10:06.586Z
+updateDate: 2022-07-20T10:10:06.621Z
 ---
 Keto Coconut Macaroons Recipe
 
