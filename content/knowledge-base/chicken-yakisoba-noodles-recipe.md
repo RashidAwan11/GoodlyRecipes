@@ -45,27 +45,27 @@ This delicious dish can be on the table in as little as 30 minutes. So if you're
 
 ## **Ingredients:**
 
-\-1 pound chicken, cut into thin strips
+\-1 Pound Chicken, Cut Into Thin Strips
 
-\-1 package of yakisoba noodles
+\-1 Package Of Yakisoba Noodles
 
-\-1 tablespoon vegetable oil
+\-1 Tablespoon Vegetable Oil
 
-\-1 onion, sliced
+\-1 Onion, Sliced
 
-\-2 cloves garlic, minced
+\-2 Cloves Garlic, Minced
 
-\-1 carrot, shredded
+\-1 Carrot, Shredded
 
-\-1/2 head cabbage, shredded
+\-1/2 Head Cabbage, Shredded
 
-\-1/4 cup soy sauce
+\-1/4 Cup Soy Sauce
 
-\-1/4 cup chicken broth
+\-1/4 Cup Chicken Broth
 
-\-1 teaspoon sugar
+\-1 Teaspoon Sugar
 
-\-1/4 teaspoon black pepper
+\-1/4 Teaspoon Black Pepper
 
 ## **Directions or Step By Step Guide:**
 
