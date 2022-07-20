@@ -36,9 +36,43 @@ In order to make this casserole, you'll need a few simple kitchen tools:
 
 ## **Ingredients:**
 
-```
+ 1 lb. chicken breasts, cut into bite-sized pieces
 
-```
+   2 zucchini, diced
+
+ 1 onion, diced
+
+
+
+ 1 onion, diced
+
+
+
+    1 tsp. garlic powder
+
+
+
+    1 tsp. dried oregano
+
+
+
+    1/4 tsp. black pepper
+
+
+
+    1/2 cup chicken broth
+
+
+
+    1/4 cup plain Greek yogurt
+
+
+
+    1/4 cup grated Parmesan cheese
+
+
+
+    1 tbsp. olive oil
 
 ## **Directions:**
 
@@ -52,9 +86,11 @@ In order to make this casserole, you'll need a few simple kitchen tools:
 
 ## **Nutrition Information:**
 
-```
-
-```
+Servings: 4
+Calories: 400
+Fat: 14 g
+Carbs: 12 g
+Protein: 54 g
 
 ## **Amazing Serving Suggestions for Chicken Zucchini Casserole Recipe:**
 
