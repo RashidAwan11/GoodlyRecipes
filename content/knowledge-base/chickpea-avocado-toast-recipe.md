@@ -122,11 +122,10 @@ You'll Need:
   </table>
 </figure>
 
-Optional toppings: 
+### **Optional toppings:** 
 
-Fresh herbs 
-
-Crushed red pepper flakes 
+* Fresh herbs 
+* Crushed red pepper flakes 
 
 ## **Directions or Step By Step Guide to Cook:**
 
