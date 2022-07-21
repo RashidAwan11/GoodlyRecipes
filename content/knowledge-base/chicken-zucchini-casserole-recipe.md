@@ -83,27 +83,72 @@ In order to make this casserole, you'll need a few simple kitchen tools:
 
 ## **Ingredients:**
 
-   1 lb. chicken breasts, cut into bite-sized pieces
-
-   2 zucchini, diced
-
-   1 onion, diced
-
-   1 onion, diced
-
-   1 tsp. garlic powder
-
-   1 tsp. dried oregano
-
-   1/4 tsp. black pepper
-
-   1/2 cup chicken broth
-
-   1/4 cup plain Greek yogurt
-
-   1/4 cup grated Parmesan cheese
-
-   1 tbsp. olive oil
+ <figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Chicken Breasts, Cut Into Bite-sized Pieces:</strong>
+        </td>
+        <td>1 Lb</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Zucchini, Diced:</strong>
+        </td>
+        <td> 2</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Onion, Diced:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Garlic Powder:</strong>
+        </td>
+        <td>1 Tsp</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Tsp. Dried Oregano:</strong>
+        </td>
+        <td> 1 </td>
+      </tr>
+<tr>
+        <td>
+          <strong>Black Pepper:</strong>
+        </td>
+        <td>1/4 Tsp</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Chicken Broth:</strong>
+        </td>
+        <td> 1/2 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Plain Greek Yogurt:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Grated Parmesan Cheeseh:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Olive Oil:</strong>
+        </td>
+        <td>1 Tbsp</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Directions:**
 
@@ -117,11 +162,42 @@ In order to make this casserole, you'll need a few simple kitchen tools:
 
 ## **Nutrition Information:**
 
-Servings: 4
-Calories: 400
-Fat: 14 g
-Carbs: 12 g
-Protein: 54 g
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Servings:</strong>
+        </td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>400</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>14g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Carbs:</strong>
+        </td>
+        <td>12 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong> Protein:</strong>
+        </td>
+        <td>54 g</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Chicken Zucchini Casserole Recipe:**
 
