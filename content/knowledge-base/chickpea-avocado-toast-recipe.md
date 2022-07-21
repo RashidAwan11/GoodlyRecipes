@@ -57,7 +57,7 @@ faqs:
 ---
 This recipe is packed with protein and fiber, which are essential for maintaining a healthy weight. The avocado in this dish provides healthy fats that promote heart health. This meal is also low in calories and provides vitamins and minerals that are essential for good health.
 
-This recipe is perfect for those who are looking for a quick and easy meal that is packed with nutrients. It can be prepared in under 10 minutes and is perfect for on-the-go eating. If you are looking for a healthy and delicious recipe, this Chickpea Avocado Toast Recipe is a perfect choice!
+This recipe is perfect for those who are looking for a quick and easy meal that is packed with nutrients. It can be prepared in under 10 minutes and is perfect for on-the-go eating. If you are looking for a healthy and delicious recipe, this [Chickpea Avocado Toast Recipe](https://goodlyrecipes.com/chickpea-avocado-toast/) is a perfect choice!
 
 ## **What is Chickpea Avocado Toast?**
 
@@ -74,7 +74,6 @@ This meal is also low in calories and provides vitamins and minerals that are es
 This recipe is quick and easy to prepare and can be on the table in under 10 minutes.
 
 ## **Equipment & Tools use to cook Chickpea Avocado Toast Recipe:**
-
 
 Ripe avocados
 
@@ -144,3 +143,5 @@ For dinner, top your chickpea avocado toast with some sautéed shrimp and a side
 ## **Conclusion:**
 
 Whether you’re looking for a healthy and easy breakfast to start your day or an on-the-go snack, this chickpea avocado toast recipe is perfect for you. With only six ingredients and minimal prep time, this dish can be whipped up in no time at all. So next time you find yourself wondering what to make for breakfast or lunch, give this chickpea avocado toast a try we promise you won’t be disappointed!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
