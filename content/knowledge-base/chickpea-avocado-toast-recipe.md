@@ -85,15 +85,42 @@ A cutting board
 ## **Ingredients:**
 
 You'll Need:
-2 slices of whole grain bread
-
-1 ripe avocado
-
-1/2 can of chickpeas
-
-1/2 lemon, juiced
-
-Salt and pepper, to taste
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>whole grain bread:</strong>
+        </td>
+        <td>2 slices</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Avocado:</strong>
+        </td>
+        <td>1 Ripe</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Chickpeas:</strong>
+        </td>
+        <td>1/2 Can</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Juiced:</strong>
+        </td>
+        <td>1/2 Lemon</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Salt And Pepper:</strong>
+        </td>
+        <td>To Taste </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Optional toppings: 
 
@@ -114,23 +141,66 @@ If you are meal prepping this recipe, we recommend storing the avocado spread in
 
 ## **Nutrition Information:**
 
-Calories: 340
-
-Fat: 17 g
-
-Saturated Fat: 2.5 g
-
-Cholesterol: 0 mg
-
-Sodium: 360 mg
-
-Carbohydrates: 36 g
-
-Fiber: 11 g 
-
-Sugar: 4 g 
-
-Protein: 10 g 
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>340</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>17 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>2.5 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>0 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>360 mg</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>36 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>11 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>4 g</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>10 g</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Chickpea Avocado Toast Recipe:**
 
