@@ -91,7 +91,7 @@ This delicious dish can be on the table in as little as 30 minutes. So if you're
       </tr>
       <tr>
         <td>
-          <strong>of yakisoba noodles:</strong>
+          <strong>Yakisoba Noodles:</strong>
         </td>
         <td>1 package</td>
       </tr>
