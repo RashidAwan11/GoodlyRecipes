@@ -8,7 +8,8 @@ meta_Keywords: Chickpea Avocado Toast Recipe
 url: chickpea-avocado-toast
 author: Elena Audrey
 date: 2022-07-20T18:24:33.498Z
-updateDate: 2022-07-20T18:24:33.570Z
+updateDate: 2022-07-21T05:58:18.562Z
+featured_Image: /uploads/chickpea-avocado-toast-recipe.webp
 categories:
   - Recipes
 faqs:
