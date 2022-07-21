@@ -37,61 +37,106 @@ It is quick and easy to
 
 This keto chocolate mousse for two is quick and easy to make, and only requires 5 minutes of prep time.
 
-## **\
-Equipment & Tools use to make Keto Chocolate Mousse For Two Recipe:**
+## **Equipment & Tools use to make Keto Chocolate Mousse For Two Recipe:**
 
 You will need a mixing bowl, a whisk, and two glasses or ramekins.
 
 ## Ingredients:
 
-1/2 cup dark chocolate chips
-
-1/2 cup heavy cream
-
-1/4 cup water
-
-1 teaspoon vanilla extract
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Dark Chocolate Chips:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Heavy Cream:</strong>
+        </td>
+        <td>1/2 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Water:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Vanilla Extract:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Step By Step Guide to make
 
  Keto Chocolate Mousse For Two Recipe:
 
 1. In a medium-sized bowl, combine the chocolate chips, heavy cream, water, and vanilla extract.
-
 2. Whisk until the mixture is smooth and all of the chocolate chips have melted.
-
 3. Pour the mixture into two glasses or ramekins.
-
 4. Refrigerate for at least 2 hours, or until the mousse has set.
-
 5. Serve and enjoy!
 
 ## Nutrition Information:
 
 Each serving of this keto chocolate mousse for two recipe contains:
 
-Calories: 400
-
-Fat: 40 grams
-
-Saturated fat: 25 grams
-
-Carbohydrates: 5 grams
-
-Fiber: 2 grams
-
-Protein: 4 grams 
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td> 400</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>40 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td>25 Grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>5 Grams</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>2 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>2 g</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Amazing Serving Suggestions for Keto Chocolate Mousse For Two Recipe:
 
 1. Serve with a dollop of whipped cream and a sprinkle of cocoa powder.
-
 2. Add a handful of berries to the top of each glass for a burst of sweetness.
-
 3. Top with a drizzle of caramel or chocolate sauce.
-
 4. Serve with a side of keto-friendly ice cream.
-
 5. Enjoy as is!
 
 ## Conclusion:
