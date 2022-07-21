@@ -1,7 +1,7 @@
 ---
 title: Chickpea Avocado Toast Recipe
 type: posts
-draft: true
+draft: false
 seo_title: Chickpea Avocado Toast Recipe
 meta_Description: Chickpea Avocado Toast Recipe
 meta_Keywords: Chickpea Avocado Toast Recipe
