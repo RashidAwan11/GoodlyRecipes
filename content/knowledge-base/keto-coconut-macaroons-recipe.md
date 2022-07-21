@@ -4,8 +4,11 @@ seo_title: Keto Coconut Macaroons Recipe
 meta_Description: Keto Coconut Macaroons Recipe
 meta_Keywords: Keto Coconut Macaroons Recipe
 url: 3-ingredient-keto-coconut-macaroons
+author: Elena Audrey
 date: 2022-07-20T10:10:06.586Z
 updateDate: 2022-07-20T10:10:06.621Z
+categories:
+  - Recipes
 faqs:
   - question: Can I Freeze Keto Coconut Macaroons?
     answer: Sure, you can freeze keto coconut macaroons! Just make sure to wrap them
