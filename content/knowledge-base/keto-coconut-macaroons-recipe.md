@@ -68,23 +68,72 @@ If you don't have a food processor, you can shred the coconut by hand using a ch
 
 ## **Ingredients:**
 
-1 cup shredded coconut
-
-1/4 cup coconut flour
-
-1/4 cup almond flour
-
-1/2 teaspoon baking powder
-
-1/4 teaspoon salt
-
-3 tablespoons erythritol
-
-1/4 cup melted coconut oil
-
-2 tablespoons water
-
-1 teaspoon vanilla extract
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Shredded Coconut:</strong>
+        </td>
+        <td>1 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Coconut Flour:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Almond Flour:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Baking Powder:</strong>
+        </td>
+        <td>1/2 Teaspoon</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Salt:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Erythrito:</strong>
+        </td>
+        <td>3 Tablespoons</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Melted Coconut Oil:</strong>
+        </td>
+        <td>1/4 Cup</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Water:</strong>
+        </td>
+        <td>2 Tablespoons</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Vanilla Extract:</strong>
+        </td>
+        <td>1 Teaspoon</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Olive Oil:</strong>
+        </td>
+        <td>1 Tbsp</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Step By Step Guide:**
 
@@ -97,17 +146,48 @@ If you don't have a food processor, you can shred the coconut by hand using a ch
 
 ## **Nutrition Information:**
 
-Serving size: 1 macaroon
-
-Calories: 120
-
-Fat: 12 g
-
-Carbohydrates: 4 g
-
-Fiber: 2 g
-
-Protein: 2 g 
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Serving size:</strong>
+        </td>
+        <td>1 macaroon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>120</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Fat:</strong>
+        </td>
+        <td>12 g</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Carbohydrates:</strong>
+        </td>
+        <td>4 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Fiber:</strong>
+        </td>
+        <td>2 g</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>2 g</td>
+     </tr>
+    </tbody>
+  </table>
+</figure> 
 
 ## **Amazing Serving Suggestions for Keto Coconut Macaroons Recipe:**
 
