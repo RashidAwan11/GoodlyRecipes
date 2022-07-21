@@ -80,27 +80,78 @@ This delicious dish can be on the table in as little as 30 minutes. So if you're
 
 ## **Ingredients:**
 
-\-1 Pound Chicken, Cut Into Thin Strips
-
-\-1 Package Of Yakisoba Noodles
-
-\-1 Tablespoon Vegetable Oil
-
-\-1 Onion, Sliced
-
-\-2 Cloves Garlic, Minced
-
-\-1 Carrot, Shredded
-
-\-1/2 Head Cabbage, Shredded
-
-\-1/4 Cup Soy Sauce
-
-\-1/4 Cup Chicken Broth
-
-\-1 Teaspoon Sugar
-
-\-1/4 Teaspoon Black Pepper
+<figure class="wp-block-table is-style-stripes">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>Chicken, Cut into Thin Strips:</strong>
+        </td>
+        <td>1 pound</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>of yakisoba noodles:</strong>
+        </td>
+        <td>1 package</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Vegetable Oil:</strong>
+        </td>
+        <td>1 tablespoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Onion, Sliced:</strong>
+        </td>
+        <td>1</td>
+     </tr>
+      <tr>
+        <td>
+          <strong>Cloves Garlic, Minced:</strong>
+        </td>
+        <td>2</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Carrot, Shredded:</strong>
+        </td>
+        <td>1</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Head Cabbage, Shredded:</strong>
+        </td>
+        <td>1/2 </td>
+      </tr>
+<tr>
+        <td>
+          <strong>Soy Sauce:</strong>
+        </td>
+        <td>1/4 cup</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Chicken Broth:</strong>
+        </td>
+        <td>1/4 cup </td>
+      </tr>
+<tr>
+        <td>
+          <strong>Sugar:</strong>
+        </td>
+        <td>1 teaspoon</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Black Pepper:</strong>
+        </td>
+        <td>1/4 Teaspoon</td>
+      </tr>
+ </tbody>
+  </table>
+</figure>
 
 ## **Directions or Step By Step Guide:**
 
@@ -112,21 +163,60 @@ This delicious dish can be on the table in as little as 30 minutes. So if you're
 
 ## **Nutrition Information:**
 
-Calories: 400
-
-Total Fat: 12 grams
-
-Saturated Fat: 2.5 grams
-
-Cholesterol: 80 milligrams
-
-Total Carbohydrates: 40 grams
-
-Dietary Fiber: 5 grams
-
-Protein: 28 grams
-
-Sodium: 1560 milligrams
+<figure class="wp-block-table is-style-stripes">
+  <table> 
+    <tbody>
+<tr>
+        <td>
+          <strong>Calories:</strong>
+        </td>
+        <td>400</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Total Fat:</strong>
+        </td>
+        <td>12 grams</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Saturated Fat:</strong>
+        </td>
+        <td> 2.5 gram</td>
+      </tr>
+      <tr>
+        <td>
+          <strong>Cholesterol:</strong>
+        </td>
+        <td>80 milligrams</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Total Carbohydrates:</strong>
+        </td>
+        <td>40 grams</td>
+      </tr>
+<tr>
+        <td>
+          <strong>Dietary Fiber:</strong>
+        </td>
+        <td>5 grams</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Protein:</strong>
+        </td>
+        <td>28 gram</td>
+     </tr>
+<tr>
+        <td>
+          <strong>Sodium:</strong>
+        </td>
+        <td>1560 milligrams</td>
+     </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## **Amazing Serving Suggestions for Chicken Yakisoba Noodles Recipe:**
 
