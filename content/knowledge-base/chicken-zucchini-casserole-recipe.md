@@ -8,7 +8,8 @@ meta_Keywords: Chicken Zucchini Casserole Recipe
 url: chicken-zucchini-casserole
 author: Elena Audrey
 date: 2022-07-20T10:37:49.959Z
-updateDate: 2022-07-20T10:37:50.051Z
+updateDate: 2022-07-21T06:01:44.226Z
+featured_Image: /uploads/chicken-zucchini-casserole-recipe.webp
 categories:
   - Chicken
 faqs:
@@ -55,7 +56,7 @@ faqs:
       symptoms, such as nausea, diarrhea, or vomiting, discontinue use and
       consult your physician.
 ---
-This casserole is healthy, hearty, and easy to make! Packed with protein and veggies, it's perfect for a busy weeknight dinner. And did we mention it's delicious? Your family will love this chicken zucchini casserole recipe!
+This casserole is healthy, hearty, and easy to make! Packed with protein and veggies, it's perfect for a busy weeknight dinner. And did we mention it's delicious? Your family will love this [chicken zucchini casserole recipe](https://goodlyrecipes.com/chicken-zucchini-casserole/)!
 
 You'll love this flavorful twist on the classic chicken casserole!  The succulent chicken, fresh zucchini, and aromatic herbs come together in a dish that is as pleasing to the eye as it is to the palate. This casserole is sure to become a family favorite.
 
@@ -136,3 +137,5 @@ No matter how you serve it, this Chicken Zucchini Casserole is sure to be a hit 
 ## **Conclusion:**
 
 Casseroles are one of the best comfort foods around, and this chicken zucchini casserole is no exception. The recipe is easy to follow and doesn’t require a lot of ingredients, so it’s perfect for a busy weeknight dinner. We hope you enjoy it!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
