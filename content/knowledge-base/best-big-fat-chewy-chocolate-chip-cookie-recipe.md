@@ -9,6 +9,7 @@ url: best-big-fat-chewy-chocolate-chip-cookie
 author: Elena Audrey
 date: 2022-07-23T10:43:42.720Z
 updateDate: 2022-07-23T13:49:38.318Z
+featured_Image: /uploads/best-big-fat-chewy-chocolate-chip-cookie-recipe.webp
 categories:
   - Recipes
 ---
