@@ -9,6 +9,7 @@ url: amazing-forgotten-chicken
 author: Elena Audrey
 date: 2022-07-23T13:28:50.291Z
 updateDate: 2022-07-23T13:58:11.048Z
+featured_Image: /uploads/amazing-forgotten-chicken-recipe.webp
 categories:
   - Chicken
 faqs:
