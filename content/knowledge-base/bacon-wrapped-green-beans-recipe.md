@@ -9,6 +9,7 @@ url: bacon-wrapped-green-beans
 author: Elena Audrey
 date: 2022-07-23T10:34:05.026Z
 updateDate: 2022-07-23T13:44:33.377Z
+featured_Image: /uploads/bacon-wrapped-green-beans-recipe.webp
 categories:
   - Recipes
 faqs:
