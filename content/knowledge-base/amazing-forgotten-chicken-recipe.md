@@ -46,13 +46,13 @@ There was a time when chicken recipes were all the rage. Everyone had their favo
 
 Forget everything you know about chicken recipes - this one is truly amazing! The forgotten chicken recipe is made with only the finest ingredients and guaranteed to tantalize your taste buds. The perfect blend of spices and herbs gives this dish its unforgettable flavor, while the tender, juicy chicken will have you coming back for more. So don't wait any longer, try our amazing forgotten chicken recipe today!
 
-What is an Amazing Forgotten Chicken Recipe?
+## **What is an Amazing Forgotten Chicken Recipe?**
 
 There are so many amazing forgotten chicken recipes out there, that it's hard to know where to start. But we've got you covered with our new book. This book is packed with creative, engaging, and persuasive recipes that will have your friends and family begging for more. From classic comfort foods to exciting new flavor combinations, there's something for everyone in this book. 
 
 There are so many amazing forgotten chicken recipes out there, that it's hard to choose just one! One of my favorites is a simple dish that includes garlic, lemon, and herbs. Simply season your chicken with salt, pepper, and garlic powder, then sauté in olive oil until cooked through. Add some fresh lemon juice and chopped herbs before serving. The flavors are light yet delicious, and perfect for a quick weeknight meal. Give it a try!
 
-What Are the Benefits of Amazing Forgotten Chicken Recipe?
+## **What Are the Benefits of Amazing Forgotten Chicken Recipe?**
 
 One of the benefits is that it's a forgotten recipe. 
 
@@ -60,11 +60,11 @@ Seriously, though, this is an amazing chicken recipe because it is so simple and
 
 Another benefit of this recipe is that it's a great way to use up leftover chicken. If you have some cooked chicken on hand, all you need to do is throw together the marinade and bake the chicken in the oven. It doesn't get much easier than that!
 
-How Long Will It Take To Prepare?
+## **How Long Will It Take To Prepare?**
 
 This recipe is so easy to make, that you can have it on the table in no time at all. Simply gather your ingredients, mix together the marinade, and let the chicken marinate for 30 minutes. Then, bake in the oven until cooked through. And that's it!
 
-Equipment & Tools used to make Amazing Forgotten Chicken Recipe:
+## **Equipment & Tools used to make Amazing Forgotten Chicken Recipe:**
 
 1 skillet
 
@@ -90,7 +90,7 @@ Lemon juice
 
 Chopped herbs (optional)
 
-Directions:
+## **Directions:**
 
 1. Preheat oven to 375 degrees.
 2. Season chicken with salt, pepper, and garlic powder.
@@ -101,7 +101,7 @@ Directions:
 7. Bake in preheated oven for 20-30 minutes.
 8. Enjoy!
 
-Nutrition Information:
+## **Nutrition Information:**
 
 Calories: 643
 
@@ -135,7 +135,7 @@ Iron: 22.8%
 
  Servings: 4 
 
-Amazing Serving Suggestions for Amazing Forgotten Chicken Recipe:
+## **Amazing Serving Suggestions for Amazing Forgotten Chicken Recipe:**
 
 Serve with a side salad and some crusty bread.
 
@@ -147,6 +147,6 @@ Add some cooked veggies to the dish for a complete meal.
 
 With its tantalizing flavor and easy-to-follow instructions, our Amazing Forgotten
 
-Conclusion:
+## **Conclusion:**
 
 The forgotten chicken recipe we’ve shared with you is definitely worth trying. It’s simple, easy to follow, and the end result is a delicious dish your whole family will love. We hope you enjoy it!
