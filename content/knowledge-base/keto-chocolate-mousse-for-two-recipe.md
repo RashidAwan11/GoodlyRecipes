@@ -1,13 +1,16 @@
 ---
 title: Keto Chocolate Mousse For Two Recipe
 type: posts
-draft: true
+draft: false
 seo_title: Keto Chocolate Mousse For Two Recipe
 meta_Description: Keto Chocolate Mousse For Two Recipe
 meta_Keywords: Keto Chocolate Mousse For Two Recipe
 url: 3-ingredient-keto-chocolate-mousse-for-two
+author: Elena Audrey
 date: 2022-07-21T09:41:51.855Z
-updateDate: 2022-07-21T09:41:51.950Z
+updateDate: 2022-07-23T14:04:30.424Z
+categories:
+  - Recipes
 faqs:
   - question: Can I Freeze Keto Chocolate Mousse For Two Recipe?
     answer: Yes, you can freeze keto chocolate mousse for two recipe. Just make sure
@@ -173,3 +176,5 @@ Each serving of this keto chocolate mousse for two recipe contains:
 ## Conclusion:
 
 This keto chocolate mousse for two is a delicious and easy dessert that will satisfy any sweet tooth. It’s perfect for a romantic evening or special occasion, or just because you want something yummy! We hope you enjoy it as much as we do. What other keto desserts would you like to see us make? Let us know in the comments below.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
