@@ -10,10 +10,11 @@ url: bacon-cheeseburger-tater-tot-casserole
 author: Elena Audrey
 date: 2022-07-21T06:43:11.582Z
 updateDate: 2022-07-23T14:02:09.968Z
+featured_Image: /uploads/bacon-cheeseburger-tater-tot-casserole-recipe-1-.webp
 categories:
   - Recipes
 ---
-This delicious dish combines all the flavors of a bacon cheeseburger with everyone's favorite side dish, tater tots. It's the perfect meal for a night in with family or friends. Plus, it's easy to make and sure to please everyone at the table. Give this Bacon Cheeseburger Tater Tot Casserole Recipe a try tonight!
+This delicious dish combines all the flavors of a bacon cheeseburger with everyone's favorite side dish, tater tots. It's the perfect meal for a night in with family or friends. Plus, it's easy to make and sure to please everyone at the table. Give this [Bacon Cheeseburger Tater Tot Casserole Recipe](https://goodlyrecipes.com/bacon-cheeseburger-tater-tot-casserole/) a try tonight!
 
 This irresistible casserole combines all the best of a bacon cheeseburger into one delicious. Your family will love the savory taste of bacon and beef, along with the cheesy, creamy goodness of tater tots. It's the perfect comfort food for a winter night!
 
