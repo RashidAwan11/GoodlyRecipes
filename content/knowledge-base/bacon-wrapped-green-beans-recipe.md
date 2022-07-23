@@ -6,8 +6,11 @@ seo_title: Bacon Wrapped Green Beans Recipe
 meta_Description: Bacon Wrapped Green Beans Recipe
 meta_Keywords: Bacon Wrapped Green Beans Recipe
 url: bacon-wrapped-green-beans
+author: Elena Audrey
 date: 2022-07-23T10:34:05.026Z
-updateDate: 2022-07-23T10:34:05.074Z
+updateDate: 2022-07-23T13:44:33.377Z
+categories:
+  - Recipes
 faqs:
   - question: Can I Freeze Bacon Wrapped Green Beans?
     answer: Freezing them is a great way to keep them fresh and make sure they're
@@ -43,7 +46,7 @@ faqs:
       bacon wrapped green beans are generally safe to eat and pose minimal
       health risks.
 ---
-These bacon-wrapped green beans are a great side dish for any occasion! The salty, crispy bacon pairs perfectly with the fresh, slightly crunchy green beans. This recipe is easy to follow and takes just minutes to prepare perfectly for when you're short on time! If you're looking for a delicious and easy way to add some green beans to your menu, then look no further than this bacon-wrapped green beans recipe!
+These bacon-wrapped green beans are a great side dish for any occasion! The salty, crispy bacon pairs perfectly with the fresh, slightly crunchy green beans. This recipe is easy to follow and takes just minutes to prepare perfectly for when you're short on time! If you're looking for a delicious and easy way to add some green beans to your menu, then look no further than this [bacon-wrapped green beans recipe](https://goodlyrecipes.com/bacon-wrapped-green-beans/)!
 
 The combination of crispy bacon and fresh green beans is a match made in heaven, and we guarantee that everyone will love this dish. So, what are you waiting for? Give it a try today!
 
