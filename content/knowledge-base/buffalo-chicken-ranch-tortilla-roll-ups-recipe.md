@@ -9,6 +9,7 @@ url: buffalo-chicken-ranch-tortilla-roll-ups
 author: Elena Audrey
 date: 2022-07-23T11:03:40.785Z
 updateDate: 2022-07-23T13:54:17.857Z
+featured_Image: /uploads/buffalo-chicken-ranch-tortilla-roll-ups-recipe.webp
 categories:
   - Chicken
 ---
