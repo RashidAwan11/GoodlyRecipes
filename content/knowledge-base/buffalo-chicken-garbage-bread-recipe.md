@@ -9,6 +9,7 @@ url: buffalo-chicken-garbage-bread
 author: Elena Audrey
 date: 2022-07-23T10:54:23.263Z
 updateDate: 2022-07-23T13:52:04.276Z
+featured_Image: /uploads/buffalo-chicken-garbage-bread-recipe.webp
 categories:
   - Chicken
 faqs:
