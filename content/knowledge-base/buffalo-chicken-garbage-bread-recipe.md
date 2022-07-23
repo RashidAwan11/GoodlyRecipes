@@ -226,3 +226,5 @@ Buffalo Chicken Garbage Bread is a high-protein, low-carbohydrate dish that's pe
 ## **Conclusion:**
 
 This easy garbage bread recipe is perfect for a party or game day. Loaded with buffalo chicken and cheese, it’s sure to be a hit! Thanks for reading, and we hope you enjoy the recipe.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
