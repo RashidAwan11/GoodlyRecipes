@@ -188,3 +188,5 @@ Serve these delicious green beans with roasted potatoes and grilled chicken for 
 ## **Conclusion:**
 
 Bacon wrapped green beans are a delicious and easy side dish to make for your next party. They only require three ingredients and fifteen minutes of prep time. Plus, they’re always a hit with guests! If you’re looking for a new way to serve green beans, give this recipe a try.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
