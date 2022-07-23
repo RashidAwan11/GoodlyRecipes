@@ -1,14 +1,17 @@
 ---
 title: Bacon Cheeseburger Tater Tot Casserole Recipe
 type: posts
-draft: true
+draft: false
 seo_title: Bacon Cheeseburger Tater Tot Casserole Recipe
 meta_Description: |
   Bacon Cheeseburger Tater Tot Casserole Recipe
 meta_Keywords: Bacon Cheeseburger Tater Tot Casserole Recipe
 url: bacon-cheeseburger-tater-tot-casserole
-date: 2022-07-22T06:43:11.582Z
-updateDate: 2022-07-22T06:43:11.668Z
+author: Elena Audrey
+date: 2022-07-21T06:43:11.582Z
+updateDate: 2022-07-23T14:02:09.968Z
+categories:
+  - Recipes
 ---
 This delicious dish combines all the flavors of a bacon cheeseburger with everyone's favorite side dish, tater tots. It's the perfect meal for a night in with family or friends. Plus, it's easy to make and sure to please everyone at the table. Give this Bacon Cheeseburger Tater Tot Casserole Recipe a try tonight!
 
@@ -41,7 +44,6 @@ This dish can be easily made in under 30 minutes, making it the perfect weeknigh
 Equipment & Tools Use to Cook Bacon Cheeseburger Tater Tot Casserole Recipe:
 
 ## **Ingredients:**
-
 
 1 pound of ground beef
 
@@ -104,5 +106,6 @@ Freshly diced chives or parsley for garnish
 
 ## **Conclusion:**
 
-
 Bacon Cheeseburger Tater Tot Casserole is the perfect dish for a party or potluck! This recipe is easy to follow and everyone will love it. Be sure to bring this casserole to your next gathering and watch it disappear. Enjoy!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
