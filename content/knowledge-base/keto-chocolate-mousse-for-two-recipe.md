@@ -9,6 +9,7 @@ url: 3-ingredient-keto-chocolate-mousse-for-two
 author: Elena Audrey
 date: 2022-07-21T09:41:51.855Z
 updateDate: 2022-07-23T14:04:30.424Z
+featured_Image: /uploads/keto-chocolate-mousse-for-two-recipe.webp
 categories:
   - Recipes
 faqs:
@@ -43,7 +44,7 @@ faqs:
 
       If you're healthy and do not have any allergies or sensitivities to the ingredients used in this recipe, then it should be safe for you to eat occasionally. However, if you experience any negative side effects after eating keto chocolate mousse, please consult your doctor for advice.
 ---
-This keto chocolate mousse for two recipes is the perfect way to indulge your sweet tooth without blowing your diet. Made with rich dark chocolate and cream, this mousse is incredibly flavorful and rich, yet light and airy at the same time. Simply whisk together the ingredients, pour into glasses or ramekins, and let it set in the fridge for a few hours. You'll be rewarded with a decadent dessert that's low in carbs and calories, but big on flavor.
+This [keto chocolate mousse for two recipes](https://goodlyrecipes.com/3-ingredient-keto-chocolate-mousse-for-two/) is the perfect way to indulge your sweet tooth without blowing your diet. Made with rich dark chocolate and cream, this mousse is incredibly flavorful and rich, yet light and airy at the same time. Simply whisk together the ingredients, pour into glasses or ramekins, and let it set in the fridge for a few hours. You'll be rewarded with a decadent dessert that's low in carbs and calories, but big on flavor.
 
 This keto-friendly dessert is so easy to make, and it's perfect for satisfying any sweet tooth. Plus, it's a great way to show someone you care! Make one of these recipes tonight, and you'll be in for a delicious treat.
 
