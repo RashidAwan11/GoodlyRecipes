@@ -13,7 +13,7 @@ faqs:
     answer: Yes, you can freeze your Amazing Forgotten Chicken Recipe! Just remember
       to thaw it out in the fridge overnight before you cook it. This will help
       to ensure that your chicken is cooked evenly all the way through. Plus,
-      it'll give the flavours time to mingle and really come alive. Delicious!
+      it'll give the flavors time to mingle and really come alive. Delicious!
   - question: Is Amazing Forgotten Chicken Recipe Spicy?
     answer: Amazing Forgotten Chicken Recipe is not spicy. The recipe calls for
       basic ingredients including chicken, onion, garlic, and tomato sauce.
