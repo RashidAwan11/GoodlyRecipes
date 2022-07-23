@@ -6,12 +6,15 @@ seo_title: Buffalo Chicken Ranch Tortilla Roll Ups Recipe
 meta_Description: Buffalo Chicken Ranch Tortilla Roll Ups Recipe
 meta_Keywords: Buffalo Chicken Ranch Tortilla Roll Ups Recipe
 url: buffalo-chicken-ranch-tortilla-roll-ups
+author: Elena Audrey
 date: 2022-07-23T11:03:40.785Z
-updateDate: 2022-07-23T11:03:40.813Z
+updateDate: 2022-07-23T13:54:17.857Z
+categories:
+  - Chicken
 ---
 This dish is perfect for any occasion, whether you're feeding a crowd or just looking for a quick and easy weeknight meal. Best of all, it's ready in just minutes!
 
-These Buffalo Chicken Ranch Tortilla Roll-Ups are not only incredibly tasty, but they’re also low in calories.
+These [Buffalo Chicken Ranch Tortilla Roll-Ups](https://goodlyrecipes.com/buffalo-chicken-ranch-tortilla-roll-ups/) are not only incredibly tasty, but they’re also low in calories.
 
 They are super easy to make and taste delicious. Plus, they are perfect for a party or a casual get-together with friends.
 
