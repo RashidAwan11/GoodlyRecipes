@@ -17,14 +17,15 @@ They are super easy to make and taste delicious. Plus, they are perfect for a pa
 
 These Buffalo Chicken Ranch Tortilla Roll-Ups are a quick and easy appetizer that is perfect for game day or any party! They are simple to make and everyone will love them! You can adjust the amount of buffalo sauce depending on how spicy you want them. These would also be great with some diced tomatoes and green onions on top.
 
-What is Buffalo Chicken Ranch Tortilla Roll-Ups Recipe?
+## **What is Buffalo Chicken Ranch Tortilla Roll-Ups Recipe?**
+
 These Buffalo Chicken Ranch Tortilla Roll-Ups are perfect! Made with just a few simple ingredients, they’re packed with flavor and sure to please the whole family.
 
 Best of all, they’re made with our Women’s Fit tortillas, so you can feel good about eating them – even if you indulge in a few extra! They feature a narrower heel, roomier toe, and softer foot cushioning, so you can enjoy your favorite foods without sacrificing comfort or style.
 
 This recipe is the perfect way to enjoy a tasty snack or light meal. We start with a soft tortilla, add some savory chicken, zesty buffalo sauce, and cool ranch dressing, then roll it all up into one neat little package. 
 
-What Are Benefits of Buffalo Chicken Ranch Tortilla Roll-Ups Recipe?
+## **What Are Benefits of Buffalo Chicken Ranch Tortilla Roll-Ups Recipe?**
 
 Rolling your own tortillas is a great way to impress dinner guests and family members alike. Not only are they delicious, but buffalo chicken ranch tortilla roll-ups are also fairly easy to make. 
 
@@ -34,29 +35,23 @@ Here are just some of the benefits of this wonderful recipe:
 
 2.Tortilla roll-ups are a great finger food. Their small size makes them perfect for snacking on during parties or get-togethers.
 
-How Long Will It Take To Prepare?
+## **How Long Will It Take To Prepare?**
 
 These buffalo chicken ranch tortilla roll-ups are quick and easy to make. Simply combine all of the ingredients, roll up the tortillas, and bake! In less than 30 minutes, you'll have a delicious appetizer or main dish that everyone will love.
 
-Equipment & Tools use to make Buffalo Chicken Ranch Tortilla Roll-Ups Recipe
+## Equipment & Tools use to make Buffalo Chicken Ranch Tortilla Roll-Ups Recipe:
 
 To make this recipe, you will need:
 
-\-A baking dish
+* A baking dish
+* A sharp knife
+* A cutting board
+* Tortillas
+* Cooked chicken
+* Buffalo sauce
+* Ranch dressing
 
-\-A sharp knife
-
-\-A cutting board
-
-\-Tortillas
-
-\-Cooked chicken
-
-\-Buffalo sauce
-
-\-Ranch dressing
-
-Ingredients:
+## **Ingredients:**
 
 <figure class="wp-block-table is-style-stripes">
   <table>
@@ -87,7 +82,7 @@ Ingredients:
   </table>
 </figure>
 
-Step By Step Guide to make Buffalo Chicken Ranch Tortilla Roll-Ups Recipe
+## **Step By Step Guide to make Buffalo Chicken Ranch Tortilla Roll-Ups Recipe:**
 
 1. Preheat oven to 350 degrees F.
 2. In a medium bowl, combine cooked chicken, buffalo sauce, and ranch dressing.
@@ -100,7 +95,7 @@ Step By Step Guide to make Buffalo Chicken Ranch Tortilla Roll-Ups Recipe
 
 Enjoy!
 
-Nutrition Information:
+## **Nutrition Information:**
 
 <figure class="wp-block-table is-style-stripes">
   <table> 
@@ -203,17 +198,18 @@ Nutrition Information:
   </table>
 </figure>
 
-Amazing Serving Suggestions for Buffalo Chicken Ranch Tortilla Roll-Ups Recipe
+## **Amazing Serving Suggestions for Buffalo Chicken Ranch Tortilla Roll-Ups Recipe:**
 
 These tortilla roll-ups are so versatile, you can serve them a number of different ways. Here are just a few serving suggestions:
 
-\-Serve with ranch dressing or blue cheese dressing for dipping.
+Serve with ranch dressing or blue cheese dressing for dipping.
 
-\-Top with diced tomatoes and green onions.
+Top with diced tomatoes and green onions.
 
-\-Serve as an appetizer or main dish.
+Serve as an appetizer or main dish.
 
-\-Pair with a side of rice or roasted vegetables.
+Pair with a side of rice or roasted vegetables.
 
-Conclusion:
+## **Conclusion:**
+
 These Buffalo Chicken Ranch Tortilla Roll-ups are the perfect game day appetizer! They’re easy to make and everyone will love them. Be sure to try this recipe out for your next party
