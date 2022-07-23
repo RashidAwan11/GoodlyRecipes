@@ -13,23 +13,29 @@ These bacon-wrapped green beans are a great side dish for any occasion! The salt
 
 The combination of crispy bacon and fresh green beans is a match made in heaven, and we guarantee that everyone will love this dish. So, what are you waiting for? Give it a try today!
 
-What are Bacon-Wrapped Green Beans?
+## **What are Bacon-Wrapped Green Beans?**
 
 Bacon-wrapped green beans are the perfect blend of savory and sweet. The green beans are roasted to perfection, then wrapped in crisp bacon and drizzled with a touch of honey. They're perfect for an appetizer or side dish.
 
-What Are Benefits of Bacon-Wrapped Green Beans Recipe?
+## **What Are Benefits of Bacon-Wrapped Green Beans Recipe?**
 
 There are many benefits to this recipe beyond its delicious taste. For one, it's a great way to get your kids to eat their vegetables! The bacon provides the perfect amount of salty flavor that even the pickiest of eaters will enjoy. Additionally, this dish is packed with protein and fiber, making it a balanced and nutritious option.
 
-How Long Will It Take To Prepare?
+## **How Long Will It Take To Prepare?**
 
 This dish takes less than 30 minutes to prepare, making it the perfect option for a busy weeknight meal.
 
-Equipment & Tools used to make Bacon Wrapped Green Beans Recipe:
+## **Equipment & Tools used to make Bacon Wrapped Green Beans Recipe:**
 
-All you need to make this dish is a baking sheet, some kitchen twine, and a sharp knife.
+All you need to make this dish is a 
 
-Ingredients:
+Baking Sheet
+
+Some kitchen Twine 
+
+Sharp Knife.
+
+## **Ingredients:**
 
 <figure class="wp-block-table is-style-stripes">
   <table>
@@ -67,7 +73,7 @@ Ingredients:
   </table>
 </figure>
 
-Directions:
+## **Directions:**
 
 1. Preheat the oven to 400 degrees F.
 2. Wrap each green bean with a half slice of bacon and secure with kitchen twine.
@@ -78,7 +84,7 @@ Directions:
 
 Enjoy!
 
-Nutrition Information:
+## **Nutrition Information:**
 
 <figure class="wp-block-table is-style-stripes">
   <table> 
@@ -141,10 +147,10 @@ Nutrition Information:
   </table>
 </figure>
 
-Amazing Serving Suggestions for Bacon Wrapped Green Beans Recipe:
+## **Amazing Serving Suggestions for Bacon Wrapped Green Beans Recipe:**
 
 Serve these delicious green beans with roasted potatoes and grilled chicken for a complete meal. Or, enjoy them as an appetizer at your next party! They're sure to be a hit!
 
-Conclusion:
+## **Conclusion:**
 
 Bacon wrapped green beans are a delicious and easy side dish to make for your next party. They only require three ingredients and fifteen minutes of prep time. Plus, they’re always a hit with guests! If you’re looking for a new way to serve green beans, give this recipe a try.
