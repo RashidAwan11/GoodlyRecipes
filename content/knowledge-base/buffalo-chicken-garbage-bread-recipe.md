@@ -6,8 +6,11 @@ seo_title: Buffalo Chicken Garbage Bread Recipe
 meta_Description: Buffalo Chicken Garbage Bread Recipe
 meta_Keywords: Buffalo Chicken Garbage Bread Recipe
 url: buffalo-chicken-garbage-bread
+author: Elena Audrey
 date: 2022-07-23T10:54:23.263Z
-updateDate: 2022-07-23T10:54:23.312Z
+updateDate: 2022-07-23T13:52:04.276Z
+categories:
+  - Chicken
 faqs:
   - question: Can I Freeze Buffalo Chicken Garbage Bread?
     answer: >-
@@ -50,7 +53,7 @@ faqs:
 ---
 What's better than a hot, cheesy, Buffalo chicken-filled bread? Not much, if you ask us. This Buffalo chicken garbage bread recipe is easy to make and even easier to eat. Garbage bread, also known as pizza dough bread, is a type of Italian-American flatbread that's typically made with pizza dough, mozzarella cheese, and pepperoni. 
 
-But our version takes it to the next level with Buffalo chicken, blue cheese, and a whole lot of flavor. So if you're looking for an easy and delicious way to feed a crowd, this Buffalo chicken garbage bread recipe is it.
+But our version takes it to the next level with Buffalo chicken, blue cheese, and a whole lot of flavor. So if you're looking for an easy and delicious way to feed a crowd, this [Buffalo chicken garbage bread recipe](https://goodlyrecipes.com/buffalo-chicken-garbage-bread/) is it.
 
 ## **What is Buffalo Chicken Garbage Bread?**
 
