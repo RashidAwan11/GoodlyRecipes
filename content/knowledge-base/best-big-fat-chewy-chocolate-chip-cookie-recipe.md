@@ -218,13 +218,13 @@ There are plenty of ways to enjoy these delicious cookies! Here are a few ideas:
 
 Serve them with a cold glass of milk for a classic cookie-and-milk combo
 
-Enjoy them as is – no need to dress them up!
+Enjoy them as is no need to dress them up!
 
 Make an ice cream sandwich by placing a scoop of your favorite ice cream between two cookies
 
 Crush them up and use them as a topping for your favorite ice cream flavor
 
-Pack them up and take them on a picnic or to a potluck – they’re sure to be a hit!
+Pack them up and take them on a picnic or to a potluck they’re sure to be a hit!
 
 ## **Conclusion:**
 
