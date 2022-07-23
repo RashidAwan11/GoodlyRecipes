@@ -150,3 +150,5 @@ With its tantalizing flavor and easy-to-follow instructions, our Amazing Forgott
 ## **Conclusion:**
 
 The forgotten chicken recipe we’ve shared with you is definitely worth trying. It’s simple, easy to follow, and the end result is a delicious dish your whole family will love. We hope you enjoy it!
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
