@@ -19,15 +19,15 @@ The bread that's taking the internet by storm! This delicious dish is made by la
 
 Whether you're looking for an easy weeknight dinner or a show-stopping party dish, Buffalo Chicken Garbage Bread is sure to please. And because it's so simple to make, you'll have no trouble whipping it up at a moment's notice. So what are you waiting for? Get cooking and enjoy!
 
-What Are the Benefits of Eating Buffalo Chicken Garbage Bread?
+## **What Are the Benefits of Eating Buffalo Chicken Garbage Bread?**
 
 There are many benefits to eating Buffalo chicken garbage bread. This dish is packed with protein and flavor, and it's also very easy to make. In addition, Buffalo chicken garbage bread is a great option for those on a tight budget or with food allergies, as it can be made with gluten-free or dairy-free ingredients.
 
-How Long Will It Take to Prepare?
+## **How Long Will It Take to Prepare?**
 
 This Buffalo chicken garbage bread recipe is very easy to make and can be on the table in just a few minutes. 
 
-Equipment & Tools Use to Cook Buffalo Chicken Garbage Bread Recipe:
+## **Equipment & Tools Use to Cook Buffalo Chicken Garbage Bread Recipe:**
 
 Cutting board
 Knife
@@ -37,7 +37,7 @@ Wooden spoon or spatula
 Baking sheet 
 Foil
 
-Ingredients:
+## **Ingredients:**
 
 <figure class="wp-block-table is-style-stripes">
   <table>
@@ -117,7 +117,7 @@ Directions:
 5. Bake for 10 minutes, or until the bread is crispy and the cheese is melted.
 6. Serve immediately and enjoy!
 
-Nutrition Information:
+## **Nutrition Information:**
 
 Buffalo Chicken Garbage Bread is a high-protein, low-carbohydrate dish that's perfect for those on a weight-loss or bodybuilding diet. Each serving contains approximately: 
 
@@ -176,7 +176,7 @@ Buffalo Chicken Garbage Bread is a high-protein, low-carbohydrate dish that's pe
   </table>
 </figure>
 
-Amazing Serving Suggestions for Buffalo Chicken Garbage Bread Recipe:
+## **Amazing Serving Suggestions for Buffalo Chicken Garbage Bread Recipe:**
 
 * Serve with a side of ranch dressing or blue cheese dipping sauce.
 * Add a little bit of spice to your life and top with some jalapeños or hot sauce.
@@ -184,6 +184,6 @@ Amazing Serving Suggestions for Buffalo Chicken Garbage Bread Recipe:
 * Give it a southwestern twist by topping with avocado, cilantro, and diced tomatoes.
 * Get creative and use whatever toppings you like! The possibilities are endless.
 
-Conclusion:
+## **Conclusion:**
 
 This easy garbage bread recipe is perfect for a party or game day. Loaded with buffalo chicken and cheese, it’s sure to be a hit! Thanks for reading, and we hope you enjoy the recipe.
