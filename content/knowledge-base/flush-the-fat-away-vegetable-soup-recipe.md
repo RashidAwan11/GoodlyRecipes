@@ -34,18 +34,18 @@ This soup is very easy to make and only takes about 30 minutes from start to fin
 
 ## **Ingredients:**
 
-\-2 tablespoons olive oil
--1 onion, diced
--3 cloves garlic, minced
--4 celery stalks, diced
--3 carrots, diced
--1 head kale, chopped
+2 tablespoons olive oil
+1 onion, diced
+3 cloves garlic, minced
+4 celery stalks, diced
+3 carrots, diced
+1 head kale, chopped
 
-\-1 head cabbage, chopped
--6 cups vegetable broth
--1 teaspoon salt
--1/4 teaspoon black pepper
--1 (15-ounce) can of diced tomatoes, undrained
+1 head cabbage, chopped
+6 cups vegetable broth
+1 teaspoon salt
+1/4 teaspoon black pepper
+1 (15-ounce) can of diced tomatoes, undrained
 
 ## **Step-by-Step Guide:**
 
@@ -56,24 +56,24 @@ This soup is very easy to make and only takes about 30 minutes from start to fin
 
 ## **Nutrition Information:**
 
-\-1 bowl:
--Calories: 107
--Fat: 7 g
--Saturated Fat: 1 g
--Cholesterol: 0 mg
--Sodium: 505 mg
--Carbohydrates: 11 g
--Fiber: 3 g
--Sugar: 4 g 
--Protein: 2 g
+1 bowl:
+Calories: 107
+Fat: 7 g
+Saturated Fat: 1 g
+Cholesterol: 0 mg
+Sodium: 505 mg
+Carbohydrates: 11 g
+Fiber: 3 g
+Sugar: 4 g 
+Protein: 2 g
 
 ## **Amazing Serving Suggestions for Flush the Fat Away Vegetable Soup Recipe:**
 
-\-Top with shredded cheese
--Add a dollop of sour cream
--Serve with crusty bread
--Top with crumbled bacon
--Sprinkle with chopped chives
+Top with shredded cheese
+Add a dollop of sour cream
+Serve with crusty bread
+Top with crumbled bacon
+Sprinkle with chopped chives
 
 As you can see, this soup is not only delicious but also packed with healthy ingredients that will 
 help you achieve your weight loss goals. 
