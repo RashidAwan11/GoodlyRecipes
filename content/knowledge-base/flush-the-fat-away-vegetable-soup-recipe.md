@@ -115,3 +115,5 @@ help you achieve your weight loss goals.
 ## **Conclusion:**
 
 So there you have it, our delicious and nutritious Flush the Fat Away Vegetable Soup! This soup is packed with detoxifying vegetables, protein-rich beans, and healing herbs. It’s perfect for a quick and healthy meal any time of year. And if you want to up your detox game even further, try drinking one of our delicious Detox Tea blends while eating this soup! We hope you enjoy it.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
