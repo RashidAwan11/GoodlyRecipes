@@ -9,6 +9,7 @@ url: flush-the-fat-away-vegetable-soup
 author: Elena Audrey
 date: 2022-07-23T11:10:17.325Z
 updateDate: 2022-07-23T13:55:48.090Z
+featured_Image: /uploads/flush-the-fat-away-vegetable-soup-recipe.webp
 categories:
   - Soup
 faqs:
