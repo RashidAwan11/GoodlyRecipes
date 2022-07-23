@@ -212,4 +212,6 @@ Pair with a side of rice or roasted vegetables.
 
 ## **Conclusion:**
 
-These Buffalo Chicken Ranch Tortilla Roll-ups are the perfect game day appetizer! They’re easy to make and everyone will love them. Be sure to try this recipe out for your next party
+These Buffalo Chicken Ranch Tortilla Roll-ups are the perfect game day appetizer! They’re easy to make and everyone will love them. Be sure to try this recipe out for your next party.
+
+**Source: <a href="https://goodlyrecipes.com/" target="_blank" rel="noopener">GoodlyRecipes.com</a>**
