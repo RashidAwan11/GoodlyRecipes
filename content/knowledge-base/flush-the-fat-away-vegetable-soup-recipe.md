@@ -6,8 +6,11 @@ seo_title: Flush The Fat Away Vegetable Soup Recipe
 meta_Description: Flush The Fat Away Vegetable Soup Recipe
 meta_Keywords: Flush The Fat Away Vegetable Soup Recipe
 url: flush-the-fat-away-vegetable-soup
+author: Elena Audrey
 date: 2022-07-23T11:10:17.325Z
-updateDate: 2022-07-23T11:10:17.355Z
+updateDate: 2022-07-23T13:55:48.090Z
+categories:
+  - Soup
 faqs:
   - question: Can I Freeze Flush the Fat Away Vegetable Soup?
     answer: You can certainly freeze Flush the Fat Away Vegetable Soup! In fact,
@@ -45,7 +48,7 @@ faqs:
 ---
 Warm up this winter with a delicious and healthy vegetable soup that will help flush the fat away. This easy recipe is perfect for a quick and healthy meal at any time of day. Loaded with fresh vegetables, this soup is low in calories but packed with flavor. 
 
-So cozy up to a steaming bowl of goodness and enjoy all the health benefits that come along with it! This delicious vegetable soup recipe is loaded with nutrient-rich ingredients that will help you achieve your weight loss goals! Plus, it's easy to make and perfect for a busy weeknight.
+So cozy up to a steaming bowl of goodness and enjoy all the health benefits that come along with it! This delicious[ vegetable soup recipe](https://goodlyrecipes.com/flush-the-fat-away-vegetable-soup/) is loaded with nutrient-rich ingredients that will help you achieve your weight loss goals! Plus, it's easy to make and perfect for a busy weeknight.
 
 ## **What is Flush the Fat Away Vegetable Soup?**
 
@@ -74,7 +77,6 @@ This soup is very easy to make and only takes about 30 minutes from start to fin
 4 celery stalks, diced
 3 carrots, diced
 1 head kale, chopped
-
 1 head cabbage, chopped
 6 cups vegetable broth
 1 teaspoon salt
